@@ -1,0 +1,6 @@
+ollama
+langchain
+chromadb
+pypdf
+fastapi
+pydantic
