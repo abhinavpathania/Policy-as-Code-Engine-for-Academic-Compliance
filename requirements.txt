@@ -4,3 +4,6 @@ chromadb
 pypdf
 fastapi
 pydantic
+pytesseract
+pillow
+pdf2image
