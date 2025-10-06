@@ -2,6 +2,7 @@ ollama
 langchain-community
 chromadb
 pypdf
+pymupdf
 fastapi
 pydantic
 pytesseract
