@@ -1,0 +1,721 @@
+--- Page 1 ---
+Fair-Weather Friends Are No Friends to Good
+Governance
+
+EMILY CHAMLEE-WRIGHT*
+
+ABSTRACT
+
+Most American institutions of higher learning practice some form of shared
+governance, in which individual faculty and the faculty body retain substantive
+decision rights and meaningful spheres of authority. But today’s higher educa-
+tion landscape presents novel challenges that are undermining the integrity of
+university governance. Building upon the work of Elinor and Vincent Ostrom
+and the Bloomington School of political economy, this paper interprets univer-
+sity governance through the lens of the polycentric order, identifies the condi-
+tions in which faculty are more likely to uphold the principles of good
+governance, and the conditions under which they are more likely to become
+“fair-weather friends” and violate those norms, rendering governance norms
+increasingly thin and decreasingly able to withstand internal and external pres-
+sures. I then discuss institutional reforms that may assist in the restoration of
+norms that foster resilience.
+
+TABLE OF CONTENTS
+
+I. INTRODUCTION. .... 0.0.00. 819
+Il. SHARED GOVERNANCE AS A POLYCENTRIC ORDER...........-- 820
+TI. Loic OF RESILIENCE, DYNAMICS OF DECLINE............2005 824
+IV. RULES-BASED REMEDIES TO NORMATIVE CHALLENGES ......... 829
+V. CONCLUSION .. 0... cece teen ee 833
+
+I. INTRODUCTION
+
+In American higher education, shared governance, sometimes called “co-
+governance” or “faculty governance,” is a well-recognized fact on the ground.
+Institutional bylaws guarantee it. Through their standards and best practices,
+accrediting agencies insist upon it. When the rules of shared governance are vio-
+lated, faculty express indignation in the pages of higher ed trade publications.
+
+* Emily Chamlee-Wright is the president of the Institute for Humane Studies at George Mason
+University and was formerly the provost at Washington College and professor of economics and
+associate dean at Beloit College. © 2024, Emily Chamlee-Wright.
+
+819
+--- Page 2 ---
+820 THE GEORGETOWN JOURNAL OF LAW & PUBLIC PoLicy [Vol. 22:819
+
+In a moment when American higher education is facing unprecedented chal-
+lenges, when an effective governing structure is most urgently needed, shared
+governance seems to be in a tailspin. It’s not just that we are seeing conflicts
+between university leaders and faculty over questions of shared governance.
+Such conflicts are nothing new, nor are they necessarily signs of crisis. On the
+contrary, such conflicts often signal that the rules of shared governance are doing
+important work, keeping key decisions that require certain expertise and local
+knowledge where they belong, in the hands of faculty.
+
+Rather, signs of a tailspin come from the fact that in the face of new sources of
+challenge—from students, state legislatures, and faculty themselves—the system
+is often failing to demonstrate resilience in protecting appropriate spheres of fac-
+ulty authority.
+
+In Section II, I build upon the work of Elinor and Vincent Ostrom and their col-
+leagues in the Bloomington School of political economy to interpret university
+governance through the lens of the “polycentric order” and discuss the important
+role that “thick” norms of good governance play in supporting such orders. In
+Section III, I present a simple model that captures the logic behind traditional and
+contemporary circumstances that either support or erode resilience of shared gov-
+ernance. In Section IV, I discuss rules-based reforms that may strengthen local
+cultures of good governance, thereby regaining legitimacy and resilience.
+
+TI. SHARED GOVERNANCE AS A POLYCENTRIC ORDER
+
+While familiar to most university faculty, if viewed from a distance, the ubiq-
+uity of shared governance arrangements within universities might seem curious.'
+Elsewhere, Paul Aligica and I argue that the principles and practices of shared
+governance are indeed curious and deserve analytical attention by scholars inter-
+ested in comparative governance.”
+
+Bloomington School analysis of polycentric orders—in governance of com-
+mon pool resources* and in constitutional arrangements of political life+—
+provide a useful framework for understanding university governance. Unlike
+top-down chain-of-command models of governance, Aligica and I argue that
+university governance is a polycentric order, in which decision rights and the
+associated authority that comes with those rights, are dispersed across individ-
+uals and groups within the system.
+
+1. Ina typical firm, for example, employees do not expect to govern the organizations for which they
+work. University faculty, on the other hand, not only expect to play a central role, they tend to resist the
+notion that they are “mere employees.”
+
+2. Emily Chamlee-Wright & Paul Dragos Aligica, Polycentricity and the Principles of Effective
+Co-Governance: What the Bloomington School Can Teach Us, in LIBERAL LEARNING & ART SELF-
+GOVERNANCE 155-79 (Emily Chamlee-Wright ed., Routledge 2015).
+
+3. See, e.g., Elinor Ostrom, GOVERNING THE COMMONS: THE EVOLUTION OF INSTITUTIONS FOR
+COLLECTIVE ACTION (1990).
+
+4. See, e.g., Vincent Ostrom, THE MEANING OF AMERICAN FEDERALISM: CONSTITUTING A SELF-
+GOVERNING SOCIETY (1999).
+--- Page 3 ---
+2024] Farr-WEATHER FRIENDS 821
+
+The basic rationale for shared governance is that scholars are trained in the
+standards and practices of their disciplines. Therefore, decisions related to teach-
+ing, research, and curriculum ought to reside with faculty. This practice aligns
+with a principal feature of well-functioning polycentric orders—that decision-
+making authority resides with the people who possess the relevant expertise and
+local knowledge and who have a seemingly strong incentive to make good deci-
+sions on behalf of the community or organization.’
+
+An individual faculty member represents the first building block of shared gov-
+ernance. Individual faculty members typically enjoy a sphere of autonomy and
+authority in, for example, course design, pedagogical practice, and their agenda
+for scholarly research. In Figure 1, that sphere of independence is represented by
+the section of the Individual Faculty Member circle that does not intersect with
+other spheres, in this case, the faculty member’s academic department.
+
+Ficure 1. Overlapping Spheres Of Autonomy And Authority: Individual
+Faculty And Academic Departments
+
+Individual
+
+Yet, even in a context of robust academic freedom and faculty decision rights,
+there are limits to the autonomy faculty enjoy. Academic departments may, for
+example, decide to adopt a common text or pedagogical practice across all sec-
+tions of a given course. The area of overlap between the Faculty circle and the
+Department circle illustrates this dynamic.
+
+Similarly, as depicted in Figure 2, the decision rights exercised by academic
+departments are attenuated by the authority exercised by the university’s adminis-
+tration, such as additions of faculty lines and other major resource commitments.
+
+5. On this point, see Peter J. Boettke et al., Re-Evaluating Community Policing in a Polycentric
+System, 12 J. INT’L ECON., no. 2, 2016, at 305-25.
+--- Page 4 ---
+822 THE GEORGETOWN JOURNAL OF LAW & PUBLIC PoLicy [Vol. 22:819
+
+Boards too have spheres of autonomy. Only a board of trustees, for example, can
+take on institutional debt or draw down the corpus of the university’s endowment.
+And it is here that a central feature of polycentric orders begins to take shape,
+namely, that power and authority are distributed across individuals and groups
+within the governance process.°
+
+Ficure 2. Overlapping Spheres of Autonomy and Authority: Faculty,
+Departments, Administration, Governing Board
+
+Figure 3, which includes faculty councils and committees, illustrates this point
+and the polycentric nature of university governance more fully. Here we see the
+ways in which the faculty body (as a whole) does and does not intersect with
+other spheres of autonomy and authority. A curriculum committee, for example,
+may constrain departments and individual faculty members when it approves
+new general education requirements that call for more sections of a particular
+course. Faculty committees are constrained by the administration and board if
+their recommendations require budget reallocation.
+
+6. See Vincent Ostrom, THE MEANING OF AMERICAN FEDERALISM: CONSTITUTING A SELF-GOVERNING
+Soctery 237-40 (1999).
+--- Page 5 ---
+2024] Fair-WEATHER FRIENDS 823
+
+Ficure 3. University Governance: A polycentric Order
+
+Admittedly, higher education is different from many of the contexts investi-
+gated by Bloomington School scholars, which include governance of natural
+resources like fisheries, forests, and aquifers,’ and municipal services like local
+law enforcement.*® That said, the features of good governance can nonetheless be
+generalized. Good governance means that:
+
+a. Decision rights are appropriately assigned: The people with the relevant
+expertise, local knowledge, and incentive to get it right have the authority
+they need to make informed recommendations and/or decisions.
+
+b. The deliberative space is contestable: Formal rules and informal norms fos-
+ter an environment in which ideas openly compete and discovery and learn-
+ing emerge from the bottom-up.
+
+c. Power is dispersed and constrained: Authority in one sphere checks the
+power exercised in other spheres. Formal rules and informal norms inhibit
+opportunistic behavior.
+
+Good governance in the context of higher education means, for example, that
+curricular and research decisions are largely in the hands of faculty, whereas deci-
+sions related to debt restructuring are in the hands of top administrators and the
+board. Further, faculty have the elbow room they need, in the lab and in the class-
+room, to test new ideas and pedagogical practices. And all participants in the gov-
+ernance process have mechanisms by which they can propose, discuss, and
+
+7. Elinor Ostrom, GOVERNING THE COMMONS: THE EVOLUTION OF INSTITUTIONS FOR COLLECTIVE
+ACTION (1990); See also Elinor Ostrom et al., RULES, GAMES, AND COMMON-POOL RESOURCES (2006).
+
+8. Elinor Ostrom & Gordon Whitaker, Does Local Community Policing Make a Difference? Some
+Preliminary Findings, 17 AM. J. POL. Sct. 48-76 (1973).
+--- Page 6 ---
+824 THE GEORGETOWN JOURNAL OF LAW & PUBLIC PoLicy [Vol. 22:819
+
+debate institutional changes, including proposals for improving the governance
+process itself. Further, good governance means that formal rules and informal
+norms foster respect for the decision-making authority legitimately exercised
+within each sphere of the governance process.
+
+Bloomington School scholars provide myriad case studies illustrating the bene-
+fits of polycentric orders. That said, the Ostroms were the first to admit that poly-
+centricity is no panacea. Polycentric systems, for example, are vulnerable to
+coalitions seeking dominance and avoiding accountability.’ Further, formal rules—
+those that can be proposed, tested, written down, approved, and revised—can only
+do so much. Well-functioning polycentric orders tend to rely upon cultural norms
+that help to ensure that participants live up to the spirit, as well as the letter of the
+formal rules. And such norms are difficult to create de novo.
+
+Thick governance cultures are those that elicit compliance with the formal
+rules as a matter of default, without deliberate weighing of pros and cons. And
+thick cultures are those in which participants see compliance as part of what it
+means to be an upstanding member of the community. In positive-loop scenarios,
+adherence to informal norms reinforces and thickens the culture of shared gover-
+nance, which in turn leads to more consistent adherence, further thickening the
+shared culture of good governance. It is in such scenarios that the system of
+shared governance is frequently rekindled and new entrants are successfully
+inducted into the culture. This shared culture acts as a bulwark against those who
+might otherwise seek to subvert shared governance protocols and procedures.
+
+Disregard for the norms, on the other hand, puts the system under greater
+stress, leads to inconsistent performance, and makes the order more vulnerable to
+various forms of pressure, leading to further decline in performance. If not coun-
+teracted, such dynamics can render a thick culture of good governance increas-
+ingly thin, accelerating a downward spiral.
+
+These dynamics are not new. Administrators, boards, and to a lesser extent,
+students have tugged and pulled against shared governance since the American
+Association of University Professors issued its first statement on the matter in
+1920. That said, contemporary pressures within the higher ed landscape have cre-
+ated novel pressures that have a particularly corrosive effect on the norms of
+good governance.
+
+The logic of these novel challenges is presented and discussed in Section III.
+
+Il. Loaic oF RESILIENCE, DyNAMICS OF DECLINE
+
+To anyone who has been in higher education for a considerable length of time,
+scenes like the following will sound familiar. I call these “old school’ violations
+of good governance.
+
+A board member, scandalized by the sexual nature of an assigned reading in
+a course on feminist literature, insists that the faculty member be instructed
+
+9. Vincent Ostrom, THE MEANING OF AMERICAN FEDERALISM: CONSTITUTING A SELF-GOVERNING
+SoclETy 239-40 (1999).
+--- Page 7 ---
+2024] Farr-WEATHER FRIENDS 825
+
+to remove the text and disciplined for assigning it in the first place.
+
+The new president—a retired businessman unfamiliar with the univer-
+sity’s governance process—attempts to change the core curriculum
+requirements without consulting with the relevant faculty committees.
+
+Students petition the Chair of the Faculty Senate, demanding that they
+have voting representation on the Tenure and Promotion Committee.
+
+In the face of such challenges, a well-functioning system of shared governance
+will yield responses like the following:
+
+No action taken against the literature professor. On the contrary, the
+Faculty Council may recommend that the board member in question be
+directed to the university’s policies pertaining to academic freedom. The
+message: We will circle the wagons to protect the academic freedom of
+our colleague.
+
+The president will be counseled that any such change must be discussed
+and approved by the Academic Policy Committee before it goes to the
+Faculty Senate, where again, it will be discussed before a faculty vote is
+taken. The message: It does not matter that you are the president. We
+will not allow you to sidestep the shared governance process.
+
+The chair of the Faculty Senate will write a polite letter declining consider-
+ation of the students’ request, citing the professional expertise that is
+required to sit on the Tenure and Promotion Committee. The message:
+Students have no place in determining who earns tenure at this institution.
+
+In short, in the face of ‘old school’ violations like these, we expect shared gov-
+ernance to play its part in protecting the academic freedom of professors, keep-
+ing decisions about the academic program primarily in the hands of faculty, and
+upholding the gatekeeping function that faculty play in maintaining the quality
+of the academic program and professoriate. And when faculty stand up for these
+principles—in committee deliberations, casual conversation with colleagues, vocal
+defenses on the floor of the Faculty Senate, and in landslide votes—challenges like
+these may even strengthen an institution’s culture of good governance.'°
+
+But not all governance challenges are of the old school variety. Increasingly,
+for example, student activists will present an impossible-to-meet set of demands
+and then deploy methods of intimidation (e.g., social media mobbing) of faculty
+and administrators who do not take a public stand in favor of their demands.
+Complicating these new challenges, student activists frequently enjoy support
+from faculty and staff allies. In support of student activists or on their own accord,
+
+10. Id. at 255 (“[T]he adjudication of conflicting interests, can be mobilized to use conflict in
+constructive ways; they can elucidate information, clarify alternatives, and stimulate innovations in
+order to find constructive resolutions and achieve a complementarity of interests ...”).
+--- Page 8 ---
+826 THE GEORGETOWN JOURNAL OF LAW & PUBLIC PoLicy [Vol. 22:819
+
+faculty themselves may seek to use the governance process in a manner that lim-
+its the academic freedom of colleagues who pursue research, invite speakers, or
+receive funding from sources that do not conform to the dominant culture.
+
+Adding to the list of novel pressures from within, conservative state legisla-
+tures—quick to call out illiberal tactics employed by the progressive left—are
+themselves a source of illiberal reaction, increasingly putting pressure on public
+institutions to constrain the academic freedom of faculty and departments in dis-
+cussing ideas they deem to be the source of student and faculty radicalism.
+
+In the face of such pressures, a robust system of shared governance would have
+faculty defending the principles that underlie it. But as the campus wars rage on,
+rarely do we hear that university governance is playing a positive role in pushing
+back against illiberal forces, on the progressive left or the far right. The question
+is, why? Why, when the principles of good governance are needed most urgently,
+are governance systems failing to demonstrate resilience?
+
+The crux of the answer is that contemporary challenges on campus are creat-
+ing circumstances that turn principled defenders of good governance into fair-
+weather friends. As their numbers increase, fair-weather friend responses, in
+turn, create a Fair-Weather Friend Effect in which the norms of good governance
+erode, leading to an increasingly thin governance culture that is less capable of
+demonstrating credibility and resilience in the face of external pressures, like
+those imposed by activist state legislatures.
+
+Figure 4 presents the logic behind both traditional and contemporary chal-
+lenges facing governance systems. The logic sequence begins with a challenge of
+some kind, one that violates the rules or norms of good governance (GG). That
+
+Ficure 4. Logic of Principled vs. Fair-Weather Friend Response
+
+Professional/Social Rewards. 1. Principled Response
+YS forDefending aa Aivectorspoit tomard 6G
+Faculty Sentiments
+2. Principled Response
+Oppose the Challenger —_ Rominatientteme toy
+Ba y > Professional/Social Costs P sentiments favoring GG outweigh the
+7 for Defending GG Costsof defending ie, (0B)>¥
+piseremaocn 3. Principled Response
+rm: . Professional/Social Rewards ——> vumingthat thick norms and expected
+” >) 15) forDefending GG petchloheanin vente ai
+> Faculty Sentiments ena %
+Favor the Challenger ~~ __ 4,Fair-Weather Friend Response
+vy Professional/Social Costs = ——> More Likely than Scenarios 1, 2&3
+for Defending GG ‘Assuming that thick norms are net strong
+
+enough to withstand forces that pull against GG,
+ie, @<(B+¥)
+
+Professional/Social Rewards
+
+> 5.Principled Response
+
+v> _ forDefending GG sTgugh oonce Ne oe NESSES
+Faculty Sentiments = point toward GG.
+Oppose the Challenger —_
+b> y Professional/Social Costs © —> 6.Falr-Weather Friend Response
+y for Defending GG Assuming expected profesional costs of
+sia covenmned defending Gare igh ie, > (a+ B)
+Norms \ Professional/Social Rewards. —> ee pias ies Raspes Possible,
+eS > for Defending GG Daten ef Goma be igh content
+Faculty Sentiments “ that the rewards (y) will be realized,
+Favor the Challenger -
+y > Professional/Social Costs > 8.Fair-Weather Friend Response
+
+for Defending GG ‘Assuming that thin goverance norms are
+not robust enough to stand up to multiple
+counter pressures ie, d'<(B++y)
+--- Page 9 ---
+2024] Farr-WEATHER FRIENDS 827
+
+challenge is introduced into a local culture in which the norms of good gover-
+nance are either strong and thick (@) or weak and thin (@’). Formally, the condi-
+tions for thickness and thinness are a > a’ > 0, in which a thin governance
+culture is still a positive force, but not as strong as a thick governance culture.
+
+The branches of the logic tree then split with respect to whether faculty senti-
+ments tend to oppose the challenger (8) or favor the challenger (B’). In chal-
+lenges involving overreaching administrators or trustees, the default faculty
+stance will be B. In cases where faculty sentiments align with the challenger,
+such as with students, non-academic staff, and faculty advancing an agenda that
+conforms to the dominant campus culture, the default posture will be B’.
+
+The branches then split again with respect to whether faculty expect to receive
+professional or social rewards (y) for defending the principles of good gover-
+nance or incur professional or social costs (y’) for defending those principles.
+Rewards might take the form of praise and respect from colleagues, i.e., an earned
+reputation for “speaking truth to power.” Costs might include fear of retaliation
+from an administrator scorned or fear of public shaming at the hands of students
+or colleagues whose sentiments favor the challenger.
+
+The various branches of the logic model suggest eight possible scenarios,
+yielding (with varying degrees of likelihood) a principled response from faculty
+or a fair-weather friend response, i.e., one that departs from principle when it
+becomes inconvenient or costly to do so. The model presented here is descriptive.
+To be predictive, we would need to know the relative magnitudes of the various
+forces pulling in favor or against good governance. That said, the logic model
+helps to identify distinct and realistic circumstances in our contemporary environ-
+ment in which adherence to shared governance principles will be more or less
+likely.
+
+Scenario 1 is the most clear-cut of the old school variety. A heavy-handed ad-
+ministrator or trustee who violates governance norms will attract little sympathy
+among the faculty. Lauded is the colleague who stands up on behalf of the princi-
+ples of good governance. Thick norms, faculty sentiments, and social rewards all
+pull toward good governance. As such, incentives align in a way that faculty are
+likely to offer a principled response to the challenge.
+
+Scenario 2 unfolds in much the same way, but with some concern that in speak-
+ing out in favor of good governance, a faculty member might face professional
+repercussions (y’) from, say, the administrator or trustee issuing the challenge.
+That said, the thick governance culture (a) and faculty sentiment opposing the
+challenger (8) work in concert to override these fears to generate a principled
+response favoring good governance, so long as (a + 8) > y’, a reasonable con-
+dition in that a thick governance culture (q@) will tend to keep expectations of pro-
+fessional costs (y’) relatively low.
+
+Scenario 3 introduces a sympathetic challenger, such as student activists whose
+cause aligns with dominant faculty sentiment. But the challenge is introduced
+into a context of a thick governance culture (a) in which faculty expect to receive
+rewards (vy) for defending the principles of good governance. This scenario
+--- Page 10 ---
+828 THE GEORGETOWN JOURNAL OF LAW & PUBLIC PoLicy [Vol. 22:819
+
+describes, for example, an environment in which faculty hold fast to the view that
+they, not students, are the appropriate gatekeepers of decisions related to the aca-
+demic program. These conditions favor a principled response, so long as the thick
+governance culture and rewards for defending good governance outweigh the
+pull of faculty sentiments, i.e., so long as (a+ y) > B’.
+
+Scenario 4, on the other hand, is one in which two forces—faculty sentiment
+(8’) and expectations of professional or social costs (y’)—pull against the posi-
+tive force exerted by a thick governance culture (a). Such a scenario describes
+contemporary challenges, when for instance, students or non-academic staff
+demand changes to the curriculum based on socially progressive commitments,
+faculty sentiments align with those commitments, and faculty fear that if they
+defend traditional avenues for weighing competing proposals for curricular
+change, they will be accused of siding with bigoted or misogynistic points of
+view. If faculty sentiments and expectations of social and professional costs are
+stronger than the force exerted by a thick governance culture— i.e., ifa < (B’ +
+y’)faculty will become fair-weather friends of good governance. Scenarios of
+this kind are especially interesting in that, if they are repeated, the Fair-Weather
+Friend Effect becomes its own force, eroding a thick governance culture (@) to-
+ward a thin governance culture (a’).
+
+This is not to suggest that a principled response is impossible in a thin gover-
+nance culture. On the contrary, Scenario 5, in which faculty sentiments do not
+align with the challenger, faculty can still be relied upon to offer a principled
+response, as all vectors point in the same direction, albeit in the context of a thin
+governance culture.
+
+Scenario 6, on the other hand, is one in which a fair-weather friend response
+becomes more likely, particularly if the expectation of professional costs is
+strong. Imagine, for example, a challenger who possesses administrative author-
+ity and a reputation of using that authority in a heavy-handed way. Though fac-
+ulty sentiments will not favor such a challenger, the thinness of norms may not
+be enough to counteract the expected professional costs a good governance
+champion might incur. In other words, if y’ > (a@’ + 8), faculty will become
+fair-weather friends.
+
+Scenario 6 also represents a situation in which academic administrators are
+more likely to buckle under pressure exerted from above. A dean or provost who
+might otherwise defend governance norms against, say, an overreaching presi-
+dent will be more likely to join the ranks of fair-weather friends, as they can’t
+rely on a thick governance culture as a source of faculty support. Similarly, presi-
+dents facing pressure from state legislatures to, say, abridge norms of academic
+freedom are more likely to cave in circumstances where the norms of good gover-
+nance are thin and not consistently applied.
+
+Because they are both contexts of thin governance norms and alignment
+between challenger and faculty sentiments, Scenarios 7 and 8 represent those in
+which prospective challengers may be faculty themselves. For example, an indi-
+vidual or faculty group may attempt to use the governance process to abridge the
+--- Page 11 ---
+2024] Farr-WEATHER FRIENDS 829
+
+academic freedom of a particular colleague who, say, advances a controversial
+point of view or has invited a controversial speaker to campus.
+
+Under such circumstances, Scenario 7 is one in which the defender of good
+governance expects to be rewarded for speaking out. We might imagine, for
+example, a respected member of the faculty who receives multiple confidential
+appeals to speak up on behalf of academic freedom. Such a person might con-
+clude that most of her colleagues really do want to defend academic freedom and
+abhor the idea that the governance process would be used to undermine it, but are
+simply afraid to take a public stand. Such a person might imagine that in speaking
+out, she will pierce the bubble of falsified preferences and be rewarded as the per-
+son who says what everyone else is thinking and turns the tide back toward a
+renewed commitment to good governance.
+
+The problem is that these conditions are highly restrictive, rendering a prin-
+cipled response unlikely. Relatively few faculty will see such a scenario as their
+opportunity. Many will doubt, for example, that theirs will be the respected voice
+that turns the tide, and as such, they will judge the rewards (y) to be relatively
+low. And if prior heroic efforts along these lines had failed, imposing costs rather
+than rewards upon the good governance champion, the logic of Scenario 8 will
+take hold. Would-be champions will assume that a vocal defense of good gover-
+nance will bring only social and professional costs (y’). Under such circumstan-
+ces the thin governance norms won’t be robust enough to counteract multiple
+countervailing effects, i.c., a’ < (B’ + y’), leading to the fair-weather friend
+response.
+
+The dynamics of this logic suggest that 1) principled defenses of good gover-
+nance are more likely in thick cultures of good governance, 2) good governance
+is difficult to maintain when multiple pressures pull against it, and 3) fair-weather
+friend responses from faculty erode thick cultures of good governance, leaving
+them less resilient in the face of increasingly egregious violations.
+
+As discussed in Section IV, once the norms of good governance have eroded,
+efforts to rebuild the legitimacy and resilience of shared governance will benefit
+from rules-based reform.
+
+IV. Ruves-BAseD REMEDIES TO NORMATIVE CHALLENGES
+
+The ethos of shared governance emerged in a context of adversarial tensions
+between administrative leadership and faculty. In that environment, tacit presup-
+positions emerged in which faculty believed they had something akin to a duty to
+defend academic values and the principles of shared governance themselves.
+Under these conditions, individual and group incentives aligned, and it was gen-
+erally safe to assume that faculty councils, committees on tenure and promotion,
+and other bodies viewed as the “minders” of academic integrity and faculty cul-
+ture could be counted on to resist egregious violations of shared governance prin-
+ciples. As such, informal norms were enough to sustain a culture of good
+governance.
+--- Page 12 ---
+830 THE GEORGETOWN JOURNAL OF LAW & PUBLIC PoLicy [Vol. 22:819
+
+In the contemporary context, however, individual incentives pull in a direction
+that test those tacit presuppositions and make it less credible to take for granted a
+commitment to good governance. The contemporary environment leaves the fac-
+ulty as a whole worse off, as they can no longer rely upon the generalized benefits
+good governance affords. Fostering greater resilience will require a shift in condi-
+tions that promote more consistent adherence to good governance principles.
+How to orchestrate such a shift is the central question.
+
+Insisting that faculty adopt sentiments different from those that they have is a
+nonstarter. Abstract moral appeals favoring good governance are not likely to
+have the weight necessary to counteract the pull of faculty sentiments favoring
+challengers with whom they are strongly sympathetic. In other words, targeting
+B’ doesn’t hold much promise. Nor can we simply insist that faculty ignore sig-
+nificant professional and social costs (y’) once the fair-weather friend effect has
+significantly degraded governance norms.
+
+What’s needed is a hardened governance infrastructure that 1) imposes
+appropriate constraints on the power exercised at all levels of authority and, 2)
+pre-commits key players to adhere to good governance principles before the par-
+ticular circumstances of a given challenge are known. What’s needed, in other
+words, is a rules-based constitutional order that creates the institutional context in
+which a healthy culture of good governance has an opportunity to emerge.
+
+A “tules-based constitutional order”—language that conjures lofty notions of
+American democratic institutions—may sound over-the-top. But I use this lan-
+guage intentionally to draw attention to the constitutional nature of the problem
+and the category of reforms best able to address it.
+
+Governance, whether of a country or a university, is a collective activity, and all
+participants have an interest in it functioning well. That said, and as the logic model
+illustrates, individuals often have a private incentive to defect. To paraphrase James
+Madison in Federalist 51, if angels were to govern men, neither external nor internal
+controls on governance would be necessary. Madison understood that the principal
+challenge is ensuring that governing authorities do not exercise their power in a
+manner that undermines the rights of the governed. Democratic impulses alone are
+not adequate—in fact, if left unchecked by constitutional constraints and separated
+powers, such impulses can be a significant source of abuse.
+
+The polycentric nature of university governance distributes power. And the
+1967 Supreme Court ruling in Keyishian v. Board of Regents guarantees the
+most basic constitutional constraint—academic freedom—for faculty holding
+appointments at public institutions. But in the current climate, these checks on
+power are in need of fortification.
+
+Three relatively simple reforms, which draw from Bloomington School
+insights on the relationship between formal rules and informal norms, hold partic-
+ular promise: 1) Include an explicit guarantee of academic freedom in every fac-
+ulty contract.'! 2) Establish a duty to protect academic freedom and a “support
+
+11. A guarantee of academic freedom is not equivalent to permanent tenure upon hiring. Contingent and
+pre-tenure members of the faculty can still be terminated for failure to meet performance expectations.
+--- Page 13 ---
+2024] Farr-WEATHER FRIENDS 831
+
+and defend” commitment to shared governance (as defined in bylaws and other
+relevant documents), as the primary charge of key faculty governance bodies.'”
+3) Establish both responsibilities—a duty to protect academic freedom and a duty
+to support and defend the principles of good governance—as primary responsibil-
+ities in the contracts of chief academic officers (CAOs), with the appropriate
+authority to block efforts to the contrary.
+
+I begin with an explicit commitment to academic freedom in faculty contracts
+because individual faculty are the basic building block of university governance
+and their academic freedom is the central principle that defines university life.
+
+The case in favor of this reform is most straightforward in private institutions,
+which employ approximately a third of college and university professors and,
+because they are not government entities, are not bound by the First Amendment,
+which limits only government action. Making academic freedom an explicit con-
+tractual obligation ties the hands of private university boards, administrators, and
+faculty bodies that may otherwise be tempted to override it for any variety of rea-
+sons. Further, it limits the damage that might be done in weak governance cul-
+tures at the hands of those who seek to use the governance process to limit the
+academic freedom of their colleagues.
+
+That said, a case can be made for public institutions to adopt this practice as
+well. Explicit guarantees signal the administration’s universal commitment to the
+principle, not just for faculty who have earned tenure. Further, as an instrument
+of governance, individual contracts sit closer to the parties involved in a conflict,
+allowing for mutually agreeable resolutions and learning to emerge from the
+bottom-up. Moreover, explicit guarantees to individual faculty pre-commit public
+university administrations and boards to protect academic freedom in advance of
+any actions by state legislatures seeking to abridge those protections.
+
+Similarly, establishing “support and defend” commitments to academic freedom
+and good governance as the primary charge of key faculty councils and committees
+hardens the governance infrastructure and helps to reverse the Fair-Weather Friend
+Effect that degrades the norms of good governance.
+
+Here again, I intentionally invoke the lofty language of democratic institutions,
+in this case, the constitutional oath taken by Supreme Court justices. The oath is
+effective, in part because it is contractual—an explicit promise is made—to “sup-
+port and defend the Constitution of the United States against all enemies, foreign
+and domestic.” As members of the Court, justices will attend to myriad cases,
+wide-ranging in their detail, but their first job is to protect the Constitution, no
+matter whether the threat is an internal or external one.
+
+12. In his contribution to this special edition, John Hasnas suggests a similar remedy in establishing
+a separate authority with the explicit incentive to ensure the institution abides by the principles of
+academic freedom. See John Hasnas, The Terrible Irony of Teaching Business Ethics in the Modern
+University, 22 Gro. J.L. & Pus. PoL’y — (2024). I recommend assigning such responsibilities to existing
+roles, such as the CAO and prominent faculty councils or committees, as these authorities already
+possesses the gravitas needed to succeed in carrying out their charge.
+--- Page 14 ---
+832 THE GEORGETOWN JOURNAL OF LAW & PUBLIC PoLicy [Vol. 22:819
+
+This leads to the other reason why oaths and other forms of explicit commit-
+ment matter. They have ceremonial and therefore transformational power.
+Though members of the Supreme Court are flesh and blood human beings, with
+all the imperfections and private interests that come with the territory, when they
+step into their role, they explicitly commit to rising above these interests. Their
+duty is more than contractual. It’s sacred.
+
+Establishing a “support and defend” commitment as the principal charge of
+key faculty councils and committees makes clear that all other responsibilities
+and concerns are subordinate to that charge. Individual faculty members may
+have partisan views favoring or disfavoring certain outcomes, but in exercising
+their formal responsibilities as members of a governing committee, they must set
+those interests aside. Further, having such a commitment as its primary charge
+means that such bodies have the responsibility to engage in something akin to ju-
+dicial review, with the authority to overrule decisions made by academic depart-
+ments and other faculty bodies that violate the articulated rules of university
+governance.
+
+One further benefit of this framework is that a “pre-forgiveness” norm may
+emerge, in which colleagues do not impose social costs on council members who
+make decisions that maintain the integrity of the governance system but go
+against the grain of the local faculty culture. In other words, with the right rules
+of the game, a culture may emerge that supports colleagues who serve as the
+“keepers” of good governance. It may be objected that such a weighty responsi-
+bility, and the possibility that a faculty member may incur social costs from hav-
+ing to make an unpopular decision, may deter the faint of heart. Yet that selection
+effect may prove beneficial in that such positions will attract those most firmly
+committed to good governance and deter fair-weather friends and those merely
+seeking power positions because they like exercising authority over others.
+
+The third reform recommended here is to build into the contracts of CAOs a
+duty to protect and defend academic freedom and the university’s governance
+rules and procedures. To be effective, such responsibilities must be accompanied
+by the requisite authority to block or overturn efforts by departments, faculty
+councils, and committees that intentionally or unintentionally limit the academic
+freedom of individual faculty members or violate the university governance rules
+and procedures.'*
+
+No doubt, this last recommendation will strike faculty as the most controver-
+sial. Why, they will say, would we ever champion an expanded scope of authority
+for an academic dean or provost? One answer is that such authority is highly re-
+stricted, triggered only when academic departments and faculty committees have
+gone awry and a “buck stops here” level of authority is required. Further, making
+these expectations an explicit term of contract ties the hands of CAOs who might
+seek to override these principles and stiffens the spine of those who are inclined
+
+13. In any given institution, changes to governance rules may be necessary to accommodate these
+expectations.
+--- Page 15 ---
+2024] Farr-WEATHER FRIENDS 833
+
+favorably toward academic freedom and good governance, but face significant
+pressure from above to do otherwise. (As discussed in Scenario 6, despite their
+positions in administrative leadership, CAOs are comparatively vulnerable to such
+top-down pressures.) More generally, such a reform would strengthen what is one
+of the primary benefits of the polycentric order — distributed power in which each
+sphere acts as a check on each of the others.
+
+But perhaps the most persuasive reason why faculty should welcome this
+reform is that it creates a productive sorting mechanism. In their next search for a
+provost or dean, faculty should want to attract only those candidates who are not
+deterred by such conditions. In fact, CAOs committed to academic freedom and
+good governance will welcome such arrangements.
+
+V. CONCLUSION
+
+Understanding university governance as a polycentric order reveals the over-
+lapping and distributed nature of authority, across individual faculty, faculty
+councils and committees, and administrative and board leadership. Further, it
+reveals the important role that thick cultural norms play in maintaining the princi-
+ples of good governance. The logic model presented above identifies contempo-
+rary pressures that pull against those norms, generating more fair-weather friend
+responses in the face of governance challenges, which in turn generate a down-
+ward spiral of increasingly thin governance norms.
+
+The reforms presented above represent an effort to fortify the formal rules that
+underlie good governance, with a particular emphasis on hardening pre-commit-
+ments to the basic “constitutional principle” of academic freedom, creating more
+effective checks on those who would bypass or abuse the principles of good
+governance.
+
+Such reforms are no panacea. Rather, they are a necessary step in creating the
+enabling conditions in which thicker commitments to good governance might
+emerge. Thicker commitments may, in turn, foster principled responses to fresh
+challenges with greater frequency and consistency. Building that thicker set of
+norms will require deliberate effort that goes beyond a minimal commitment to
+follow the rules. Those efforts may range from informal coffee conversations
+among colleagues to symposia on good governance practices. But with better
+rules in place, those efforts are more likely to take root and flower.
