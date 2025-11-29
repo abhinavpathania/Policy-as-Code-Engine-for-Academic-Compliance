@@ -1,0 +1,865 @@
+--- Page 1 ---
+Metallurgical and Materials Engineering Research paper
+Blockchain For Higher Education Reform: A Strategic Model For
+Formalizing Knowledge, Advancement, And Governance Systems
+Dr. Bahman Moghimi (PhD, DBA)
+Professor, Academic Staff at the School of Business and Administrative Studies. The University of
+Georgia, Tbilisi. Georgia. ORCID: 0000-0002-7740-0075
+B.Moghimi@ug.edu.ge
+Abstract
+Universities across post-transition and semi-formal education systems face a persistent
+paradox: while knowledge production lies at the heart of their mission, the structures
+guiding staff advancement, knowledge use, and internal governance remain informal,
+politicized, and resistant to change. This paper presents a strategic reform model that uses
+blockchain not as a digital overhaul, but as a trust-enabling backbone to support cultural
+and institutional formalization. Grounded in prior field research and lived insight into
+Eastern European academic environments, the model integrates blockchain infrastructure
+with knowledge management formalization and performance accountability. It offers a
+layered blueprint to address deep-rooted challenges such as misaligned strategic plans,
+opaque staff progression, fragmented budgeting, and siloed information systems. Each
+layer maps onto essential university functions—rectorate governance, HR, finance,
+research, international relations, and 1T—while allowing phased, modular implementation
+rooted in organizational realism. Rather than replacing the culture, the design respects it,
+while offering scalable tools for traceable decisions, transparent recognition, and shared
+institutional memory. By linking strategy, governance, and knowledge in practical and
+culturally aware ways, this model offers a path toward universities that are not only better
+managed—but more transparent, future-ready, and self-aware.
+Keywords: Blockchain in higher education, knowledge management, institutional
+governance, university reform, academic career systems, strategic planning in education,
+digital trust infrastructure, academic performance accountability, administrative
+innovation.
+1. Introduction
+In many post-Soviet and transitional higher education systems—particularly in Georgia—universities face
+a paradox. On the one hand, they are called upon to modernize, globalize, and commercialize their
+knowledge outputs in line with 21st-century innovation imperatives. On the other hand, the internal
+governance systems that shape how knowledge is created, evaluated, and rewarded remain deeply entangled
+in informal networks, hierarchical social structures, and opaque decision-making cultures. Despite the
+increasing discourse on digital transformation and institutional innovation, the operational reality in these
+academic environments still reflects a culture of personalism over process, and loyalty over merit.
+While digital technologies such as blockchain are increasingly being promoted as tools for transparency
+and accountability in public systems, their integration into higher education administration—particularly
+in regions like the Caucasus and Eastern Europe—requires a more nuanced and culturally grounded
+approach. This study does not propose blockchain as a universal solution. Rather, it explores whether and
+how blockchain-based systems can be adapted to formalize merit, trace knowledge flows, and break
+cycles of exclusion rooted in invisible governance norms.
+--- Page 2 ---
+214
+Moghimi, Bahman (2025). Blockchain For Higher Education Reform.
+This research proposes a conceptual framework—tentatively titled B-FORM (Blockchain-based
+Formalization for Organizational Restructuring and Meritocracy)—to reimagine internal university
+governance through the lens of blockchain technology. Unlike technocratic models that assume institutional
+maturity, B-FORM is designed for environments where informality, hierarchy, and relational politics
+dominate. The framework emphasizes practical entry points for change: transparent knowledge contribution
+tracking, merit-based career progression systems, and smart contract—enabled budgeting mechanisms. Each
+component of the model addresses a specific dysfunction in how post-Soviet academic institutions currently
+organize and value work.
+1-1. Background and Problem Context
+As documented in Moghimi and Monemizadeh (2025), effective institutional reform in transitional contexts
+depends not only on the technical viability of digital systems but also on their ability to align with and
+gradually transform deeply embedded socio-cultural practices. Their work in the Georgian healthcare sector
+highlights how patients and practitioners navigate "personalized trust loops" that often override systemic
+protocols. Similar dynamics are observed within academic institutions, where knowledge production,
+resource access, and staff advancement often occur within parallel informal structures that remain
+undocumented and unaccountable.
+At the same time, the urgency for modernization is undeniable. Knowledge-intensive growth, international
+accreditation, and the push for research commercialization demand governance models that are not only
+efficient but also fair and auditable. As Moghimi and Dastouri (2023) argue in their case study on Georgian
+universities, attempts at commercialization and knowledge management fail when they are detached from
+structural reforms that embed transparency and long-term institutional memory.
+Yet, most of the digitalization initiatives in the region either imitate Western frameworks or remain
+superficial — lacking the cultural sensitivity to address the invisible rules of the game. This mismatch has
+created a growing sense of stagnation in administrative reform and a widening gap between institutional
+rhetoric and operational reality.
+1-2. Purpose and Significance
+This paper addresses a critical gap in the digital transformation literature: the failure to adapt governance
+models to environments where informalism is the rule, not the exception. By grounding blockchain
+adoption in the cultural, structural, and relational specificities of Georgian and Eastern European
+universities, this study contributes:
+e A context-sensitive use case for blockchain that does not center credentialing, but rather
+institutional justice.
+e A structural theory of change for universities operating in politically sensitive, low-transparency
+environments.
+e Apractical, replicable framework that can be piloted and gradually scaled—starting with the least
+politically volatile processes like academic contribution tracking and internal budgeting.
+The significance of this research lies not in its technological novelty, but in its institutional realism. It
+offers a blueprint for how to formalize what has long remained informal—not to suppress relational
+networks, but to make them visible, accountable, and equitable.
+1-3. Research Question
+The study is guided by the following research questions
+1. How do informal networks and cultural hierarchies shape knowledge management, budgeting, and
+career advancement in Georgian and Eastern European universities?
+--- Page 3 ---
+215 Metall. Mater. Eng. Vol 31 (6) 2025 p. 213-232
+2. What features of blockchain technology can be realistically used to increase transparency and
+accountability in these systems?
+3. How can blockchain help formalize merit-based decision-making without triggering resistance from
+embedded social and political cultures?
+4. What would a culturally sensitive, practically applicable blockchain governance framework look like
+for mid-tier universities in transition economies?
+2. Literature Review
+The intersection of blockchain technology and higher education has attracted increasing scholarly interest
+in recent years, though the majority of existing literature tends to concentrate on narrow functional
+domains—such as digital credentials, degree verification, and plagiarism detection. These studies offer
+important contributions to the digitalization of academic services but largely overlook the deeper
+organizational and governance challenges that persist inside universities—particularly in culturally
+complex, politically transitional systems.
+A systematic review of blockchain use in higher education by Alammary et al. (2019) identified
+transparency and security as the two most cited benefits. However, their analysis also noted a consistent
+lack of consideration for socio-political structures and institutional maturity, especially in low-governance
+or relationally dominated academic cultures. Similarly, Grech and Camilleri (2017) warned against
+"technological determinism" in blockchain discourse, cautioning that the success of such systems depends
+on more than technical efficiency—it relies on cultural trust, policy alignment, and user motivation. This
+insight is especially relevant in contexts like Georgia, where informal relationships often override formal
+rules in shaping career trajectories, access to resources, and recognition of academic contributions.
+Within the field of knowledge management (KM), the literature strongly supports the idea that effective
+commercialization of university knowledge depends on coherent and strategically applied KM systems. As
+Moghimi and Dastouri (2023) demonstrated in their case study of Georgian universities, knowledge assets
+are often underutilized or fragmented due to the absence of systematized capture, classification, and reward
+structures. These findings align with Nonaka and Takeuchi's (1995) foundational work on tacit and explicit
+knowledge, emphasizing that without institutional processes to formalize and transfer tacit knowledge,
+universities risk stagnation even when rich in intellectual capital.
+Additional regional studies, such as those by Kwiatkowski and Zemigata (2021), point to the lack of
+knowledge valorization pathways in Eastern European universities as a major bottleneck for innovation.
+These challenges are compounded by political inertia, inadequate reward systems, and a mismatch between
+policy rhetoric and administrative infrastructure. As a result, attempts to implement modern KM or
+commercialization policies often remain technocratic in design but performative in practice.
+A particularly underexplored area of research is the potential of blockchain to function not just as a technical
+tool for record-keeping, but as a governance mechanism that can reframe relationships of power,
+responsibility, and merit inside university systems. Recent theoretical advances in blockchain-enabled
+governance, such as those by Wlnes, Ubacht, and Janssen (2017), suggest that smart contracts and
+decentralized consensus models can shift institutional dynamics by removing discretion from decision
+nodes and enforcing rules through code. However, most of these models have been applied to national
+governments or corporations, not to academic institutions in semi-formal, post-authoritarian systems.
+Moreover, existing blockchain integration proposals for universities rarely address the emotional, relational,
+and psychological layers of institutional behavior. This is a critical omission. As Moghimi and
+Monemizadeh (2025) illustrated in their research on patient relationship management in the Georgian
+healthcare sector, successful digital interventions depend on the alignment between system logic and social
+logic. People do not respond to software; they respond to power, recognition, and cultural cues. If
+blockchain is to succeed in higher education governance, it must be embedded into processes that
+stakeholders already perceive as meaningful—such as career advancement, fair budgeting, and
+acknowledgment of academic work.
+--- Page 4 ---
+Moghimi, Bahman (2025). Blockchain For Higher Education Reform....... 216
+In short, the existing literature provides valuable technical foundations but offers little insight into how
+blockchain can address informalism, hierarchy, and opacity—the very features that define decision-making
+in many Eastern European university environments. This study responds to that gap by proposing a
+blockchain-enabled framework that is not only operationally coherent, but culturally compatible, socially
+realistic, and transformation-oriented.
+a. Conceptual Framework and Theoretical Grounding
+This study builds upon three interconnected bodies of theory: (1) the sociology of informal institutions, (2)
+knowledge management (KM) as a strategic tool in higher education, and (3) blockchain-enabled
+governance mechanisms. Each of these perspectives provides a necessary lens through which the structure
+and intent of the proposed B-FORM model can be understood.
+i. Informality as an Institutional Logic
+In many post-socialist university systems, formal structures exist largely as symbolic scaffolding, while real
+power and decision-making are embedded in informal networks of loyalty, hierarchy, and personal trust.
+This distinction, rooted in Helmke and Levitsky’s (2004) theory of informal institutions, is not merely a
+side effect of weak governance—it is often the primary operating system of the institution. As documented
+in Moghimi and Dastouri (2023), efforts to commercialize knowledge or improve strategic planning in
+Georgian universities frequently fail not due to policy weakness, but because such policies fail to
+acknowledge or challenge the dominance of internal social networks that operate off-record.
+From this view, any intervention that seeks to promote merit, transparency, or innovation must first grapple
+with the relational logic of the institution—not just the technical logic of reform. Informality is not a defect
+to be erased; it is a force that must be redirected, documented, and eventually structured into systems that
+support inclusion and performance.
+ii. Knowledge Management and Organizational Learning
+Knowledge management has traditionally been viewed as a tool to improve organizational efficiency and
+innovation. But in higher education—especially in emerging systems—KM becomes a political practice.
+Decisions about what knowledge is valued, who gets credit, and how learning is circulated are not neutral.
+They shape who advances and who is excluded.
+Moghimi and Monemizadeh (2025) point to this dynamic in their model of patient-centric relationship
+management, where informal knowledge about patients was central to care but rarely formalized. A similar
+problem exists in universities: much of the most valuable academic labor—mentorship, institutional
+memory, informal coordination—remains invisible. Unless codified and rewarded, this labor stays outside
+the formal performance and budgeting metrics.
+The proposed B-FORM framework adopts a knowledge-as-infrastructure view: knowledge is not just a
+product, but a foundation upon which budgeting, promotion, and evaluation processes are built.
+Formalizing this knowledge through traceable systems is a prerequisite to enabling fair and accountable
+institutional growth.
+iii. Blockchain as a Governance Layer
+Blockchain is often discussed in education as a tool for issuing tamper-proof certificates or managing digital
+identities. However, its core innovation lies in its ability to reconfigure governance—to embed rules into
+technology and remove discretion from decision-making. Smart contracts, distributed consensus, and
+immutable records are not just technical features; they are instruments for redesigning how trust is mediated
+in organizations.
+--- Page 5 ---
+217 Metall. Mater. Eng. Vol 31 (6) 2025 p. 213-232
+Olnes et al. (2017) conceptualize blockchain as a “trust machine” for public institutions, especially those
+facing legitimacy deficits. In the context of higher education, this study extends that view by positioning
+blockchain as a formalization mechanism—a way to replace opaque practices with auditable, decentralized
+protocols that align with institutional goals.
+The B-FORM framework does not advocate for full decentralization. Rather, it proposes selective
+blockchain integration in three areas:
+1. Knowledge contribution tracking
+2. Budget allocation
+3. Career advancement
+Each of these nodes serves as an entry point for transparent, criteria-based decision-making—allowing
+institutions to begin reform where resistance is lowest and impact most visible.
+iv. Integration Logic: From Social Logic to System Logic
+At its core, the conceptual contribution of this paper lies in its shift from a technological adoption logic to
+a governance alignment logic. Rather than asking whether blockchain works, the B-FORM framework asks:
+Where are the critical gaps between formal systems and lived institutional behavior—and how can
+blockchain selectively help close those gaps without cultural rupture?
+In this regard, B-FORM is not a technological innovation. It is a strategic governance prototype: a blueprint
+for how transitional universities can begin to restructure themselves around merit, transparency, and value
+creation using blockchain as a supportive layer—not a controlling one.
+2.1.5. Blockchain in Higher Education Administration
+Blockchain technologies are increasingly positioned as enablers of transparency, accountability, and process
+automation in higher education governance (Turkanovic¢ et al., 2018; Grech & Camilleri, 2017). By
+decentralizing authority and embedding trust through cryptographic ledgers, blockchain offers potential
+solutions for credential verification, research record management, funding traceability, and administrative
+integrity. In environments where discretionary decision-making undermines institutional equity, smart
+contracts can standardize approvals, enforce policy logic, and create immutable audit trails (Sharples &
+Domingue, 2016). However, its successful application in universities depends not solely on technological
+readiness, but also on the capacity of higher education institutions to realign governance processes and
+develop compliance-aware data frameworks (Chen et al., 2020).
+2.1.6. Knowledge Management Models in Higher Education
+Knowledge Management (KM) is a core component of institutional performance, yet remains
+underdeveloped in many higher education contexts. Classical models such as Nonaka and Takeuchi’s (1995)
+SECI model (Socialization, Externalization, Combination, Internalization) offer a lens for understanding
+how tacit knowledge can be systematized. In higher education, however, this process is complicated by the
+siloed nature of departments, the absence of incentive structures for sharing, and a cultural resistance to
+standardization (Rowley, 2000; Ramachandran et al., 2009). To succeed, KM must be more than a
+documentation initiative—it must be embedded in HR systems, performance reviews, institutional
+budgeting, and strategic planning (Mladkova, 2012). The integration of knowledge value chains into staff
+progression models, research funding systems, and internal governance can catalyze a shift from passive
+knowledge holding to active knowledge governance (Dalkir, 2017).
+--- Page 6 ---
+Moghimi, Bahman (2025). Blockchain For Higher Education Reform....... 218
+2.1.7 Governance Reform in Post-Soviet and Eastern European Higher Education
+The governance structures of post-Soviet and Eastern European universities are shaped by path dependency,
+informalism, and weak process legitimacy (Tomusk, 2000; Silova et al., 2017). Despite policy-level reforms
+across the region, institutional cultures remain hierarchical, resistant to transparency, and characterized by
+decision-making rooted in personal networks rather than formal procedures. Attempts at reform often fail
+not due to lack of policy but because of insufficient strategic implementation mechanisms (Kwiek, 2016).
+Effective governance reform requires the alignment of new administrative tools—such as digital ledgers,
+ABC costing, and performance dashboards—with local political economies and organizational cultures.
+Moreover, efforts to formalize decision-making must be phased, contextualized, and politically aware to
+avoid institutional backlash (Deem et al., 2007). Models such as B-FORM are particularly relevant in this
+regard, offering a layered and adaptable approach to governance transformation tailored to institutional
+inertia and operational fragmentation.
+3. Model Development
+This study proposes a conceptual framework for institutional transformation in transitional university
+environments, built around the formalization potential of blockchain technologies and knowledge
+management systems. The framework is structured into six interdependent layers, each targeting a specific
+dimension of dysfunction common in post-Soviet and Eastern European academic contexts.
+B-FORM Model:
+Blockchain-Based Formalization for Organizational Restructuring and Meritocracy
+Figure 1: Conceptual Model of Blockchain-Enabled Formalization in University Governance
+--- Page 7 ---
+219 Metall. Mater. Eng. Vol 31 (6) 2025 p. 213-232
+As illustrated in Figure 1, the model proceeds from a high-level strategic vision and gradually integrates
+blockchain functionality, knowledge systems, and cultural transition mechanisms. It does not assume
+institutional readiness for decentralization but offers incremental entry points where reform can realistically
+begin without triggering systemic resistance.
+a. Strategic Governance Layer
+At the top of the framework lies the Strategic Governance Layer, which serves as the foundation for any
+long-term digital or cultural transformation. This layer is responsible for articulating clear institutional
+goals, designing merit-based KPIs, and embedding reform priorities into official planning documents and
+budgeting cycles.
+Without this layer, blockchain systems and KM tools risk becoming isolated IT initiatives. The strategic
+layer ensures that new technologies are aligned with career progression models, performance reviews, and
+institutional ranking goals. It also anchors the reform process within a broader discourse of organizational
+legitimacy, enabling university leadership to communicate change as both vision-driven and structurally
+necessary.
+b. Formalization Layer
+Below the strategic layer lies the Formalization Layer, where institutional norms and procedures are
+codified and aligned with the values articulated above. This includes:
+e Redesigning career classification systems to reflect contribution rather than connections
+e Reforming internal regulations to limit discretion and enhance procedural transparency
+e Aligning role expectations across departments and avoiding informal workarounds
+This layer is crucial for setting the rules that blockchain systems will enforce. As Moghimi and Dastouri
+(2023) observed in their study of Georgian university commercialization, technical systems alone cannot
+remedy structural incoherence unless policies, practices, and expectations are harmonized.
+c. Blockchain Governance Layer
+The Blockchain Governance Layer introduces distributed ledger technology as a mechanism for enforcing
+transparency, recording decisions, and limiting informal interference in administrative processes. Rather
+than proposing full decentralization, this model advocates for targeted integration in three domains:
+e Smart contracts for internal budgeting approvals
+e Immutable academic contribution records tied to promotions and internal awards
+e Transparent audit trails for committee-based decisions (e.g., funding, travel, hiring)
+These features allow universities to create lightweight digital accountability systems that reinforce fairness
+without demanding massive cultural shifts upfront. As Ines et al. (2017) and Alammary et al. (2019)
+suggest, the governance potential of blockchain lies in its ability to encode rules into action—not to replace
+policy, but to make policy enforceable through trustless systems.
+d. Knowledge Management Layer
+At the heart of the framework sits the Knowledge Management (KM) Layer, where blockchain's traceability
+converges with institutional learning. This layer focuses on:
+¢ Codifying contributions that are often overlooked (mentorship, internal reports, peer reviews)
+--- Page 8 ---
+Moghimi, Bahman (2025). Blockchain For Higher Education Reform....... 220
+e Creating open yet protected knowledge-sharing ecosystems
+e Building contribution ledgers that feed into annual evaluations and grant opportunities
+This approach draws from Moghimi and Monemizadeh ’s (2025) healthcare study, which emphasized how
+relational knowledge, when formalized, becomes both operationally useful and politically neutral.
+Similarly, knowledge systems in universities must extend beyond published research to account for
+everyday intellectual labor—making it visible, traceable, and rewardable.
+e. Operational Application Layer
+The Operational Application Layer is where reform meets the day-to-day reality of academic life. It includes
+blockchain-supported systems for:
+e Transparent staff progression mapping based on traceable milestones
+e Budget allocation logs that tie spending to strategic priorities
+e Task assignment systems that reduce favoritism and hidden labor
+Unlike high-level dashboards often used in university digitalization, this layer is meant to create bottom-up
+accountability. It provides staff with clear visual pathways for career growth, allows administrators to track
+performance by contribution—not affiliation—and gives internal auditors the tools to identify process
+bottlenecks or deviations from policy.
+f. Cultural Transition Layer
+Finally, at the base of the model lies the Cultural Transition Layer. Reform in transitional university
+environments must grapple with entrenched informal networks and the power they exert. Rather than
+attempting to eliminate these outright, this model proposes gradual transformation of social relations into
+structured formal interactions, including:
+e Integrating diverse voices (e.g., gender, ethnic, disciplinary) into governance systems
+e Formalizing informal groups into recognized working groups or taskforces
+e Creating inclusive advancement opportunities tied to documented contributions
+This layer is essential not just for ethical reasons but for institutional stability. Reform is only sustainable
+if it reflects the human dynamics of the system. Cultural transition must therefore be treated not as a soft
+domain but as a structural component of institutional architecture.
+3-7. Positioning of the Model
+Unlike existing blockchain education frameworks focused on degree validation or student identity, this
+model targets the internal institutional mechanics of governance, budgeting, and staff development. It
+assumes:
+e Low digital maturity, but high urgency for reform
+e Resistance to top-down change, but openness to performance-linked fairness
+e Widespread informalism, which must be documented and redirected, not denied
+In short, this model views blockchain not as a disruptive force, but as a formalization enabler—a means of
+embedding logic and accountability into academic systems where those have long been personalized or
+opaque.
+--- Page 9 ---
+1 Metall. Mater. Eng. Vol 31 (6) 2025 p. 213-232
+4. Methodological Path and Implementation Strategy
+This research is conceptual in structure, but deeply grounded in institutional analysis, contextual
+knowledge, and authorial experience within post-Soviet and European academic systems. The
+methodological orientation is thus design-based, emphasizing systemic realism over positivist
+generalization, and committed to building a solution-oriented framework that could be adapted, critiqued,
+and eventually piloted in diverse higher education institutions.
+The section below outlines how the B-FORM framework was developed, how it can be ethically engaged,
+and how its potential implementation could be structured within a university system like Georgia’s or
+similar Eastern European contexts.
+a. Methodological Approach
+The study adopts a constructivist and design-oriented methodology, where knowledge is generated not
+through experimentation, but through the structured conceptualization of systemic problems and
+theoretically grounded interventions. The approach is informed by reflective institutional inquiry,
+organizational logic, and a synthesis of literature across blockchain governance, knowledge management,
+and educational reform.
+Rather than separating literature and design, this study integrates the literature review into the modeling
+process. Relevant theoretical perspectives and comparative experiences in higher education were used not
+only to ground the design but also to inform the feasibility, sequence, and institutional logic of the proposed
+model—ensuring that it reflects regional realities and avoids abstract idealism.
+The B-FORM model draws directly from the author’s prior field-based research on topics including:
+. Cryptic knowledge cultures in Georgian academic and clinical settings (Moghimi, 2025),
+* Informal institutional hierarchies and their impact on commercial innovation (Moghimi & Dastouri,
+2023),
+¢ Adaptive barriers in workforce preparedness in Georgian universities (Moghimi & Gegeshidze,
+2024),
+. And cross-border HR accountability systems in public and private education (Moghimi &
+Monemizadeh, 2025).
+These insights form the empirical and narrative foundation upon which the conceptual design has been
+iteratively built.
+b. Model Design Logic and Framework Construction
+The B-FORM framework was developed through a layered abstraction process, combining institutional
+logic with operational necessity. The design unfolded in four iterative phases:
+1. Problem Mapping: Synthesizing empirical insights and relevant literature to identify root
+dysfunctions in university governance—specifically, informal power structures, limited career
+visibility, and the absence of transparent, merit-based systems.
+2. Functional Alignment: Mapping blockchain capabilities (e.g., smart contracts, immutable ledgers)
+onto critical institutional vulnerabilities such as favoritism in budgeting and opaque staff evaluation
+practices.
+3. Cultural Interfacing: Adapting the model to sociocultural realities—including resistance to change
+and entrenched informalism—by emphasizing phased integration rather than radical
+decentralization.
+--- Page 10 ---
+Vochimi. Bal 2025). Blockchain For Higher Education Reform...... 22
+4. Component Structuring: Defining six interlinked layers as modular reform levers: strategic
+governance, formalization, blockchain integration, knowledge management, operational systems,
+and cultural transition.
+The framework balances the practical realism of institutional practitioners with the analytic discipline of
+systems thinking, while remaining sensitive to the political, emotional, and relational dimensions of
+organizational reform.
+c. Ethical Considerations and Reflexive Integrity
+This study does not involve active human subjects and thus does not require IRB approval at this stage.
+However, the author has made a deliberate ethical decision to avoid simulated or fictionalized interviews,
+acknowledging that any attempt to fabricate field data in such sensitive institutional contexts would
+undermine the model’s validity and violate academic transparency.
+Instead, the author draws upon candid reflections and firsthand field research conducted over several years
+in various university systems. The model is thus informed by authentic systemic diagnosis and grounded
+practitioner insight—without overstepping epistemic bounds.
+Future applications of this model involving interviews, system testing, or staff feedback would require
+formal ethical clearance through university ethical committees and alignment with GDPR or local data
+protection standards, particularly if piloted in the EU or Tiirkiye.
+d. Implementation Pathway and Pilot Proposal
+While conceptual, the B-FORM model is designed to be implementable in modular form. A realistic pilot
+could be carried out at faculty or department level, especially in universities undergoing internationalization
+or accreditation processes where merit-based governance is a recognized challenge.
+Strategic Implementation Milestones:
+¢ Begin with the Knowledge Management Layer: Deploy blockchain-supported contribution registries
+to document internal reports, mentoring activities, and committee participation—making informal work
+visible and institutionally acknowledged.
+« Expand to Budgeting and Task Formalization: Introduce smart contracts for approving micro-grants,
+research incentives, and departmental budgeting, ensuring traceability and reducing discretionary
+conflict.
+* Embed in Career Advancement Systems: Integrate verified contribution records into HR evaluation
+frameworks, replacing subjective promotion decisions with transparent, merit-based progression paths.
+This phased approach enables institutions to introduce reform in manageable stages, testing changes within
+specific departments or functions before broader rollout. It avoids the risks of a full systemic overhaul while
+still promoting meaningful transformation. The model’s layered structure allows it to adapt to different
+institutional sizes, legal frameworks, and cultural dynamics without compromising its integrity.
+Evaluation Metrics Aligned with Model Objectives:
+¢ Improvement in staff satisfaction related to fairness, recognition, and promotion
+* Decrease in informal conflicts over budget allocation and task assignment
+* Greater visibility and accountability in documenting internal knowledge contributions
+* Increased adoption of task-mapping systems and contribution-based recognition platforms
+--- Page 11 ---
+223 Metall. Mater. Eng. Vol 31 (6) 2025 p. 213-232
+4. Methodological Path and Implementation Strategy
+This study, while conceptual in structure, is informed by a deep and realistic engagement with the lived
+realities of institutional dysfunction in Eastern European and Georgian universities. Rather than aiming to
+generalize or simulate empirical data, it draws upon prior published field research, organizational analysis,
+and direct administrative experience to propose a layered model of reform. The purpose of this section is
+to demonstrate how the proposed B-FORM model can move beyond theory and become a scalable, phased,
+and strategically manageable intervention across diverse institutional functions.
+4.1 Methodological Orientation: Design Thinking with Institutional Logic
+The methodological orientation of this research is rooted in design science, particularly within the traditions
+of higher education reform, knowledge management systems, and institutional innovation. The research
+follows a logic of "constructive contextualization," in which a conceptual model is derived from problem
+identification, organizational mapping, and the tactical application of technological affordances. In this
+regard, B-FORM functions both as a theoretical framework and a reform design architecture that can be
+adapted in real-world settings without necessitating a system-wide digital revolution.
+This approach is especially relevant in contexts where full digital transformation is neither politically
+feasible nor culturally tolerated. Institutions where power flows through informal networks, discretionary
+influence, and hidden labor must be treated not as anomalies but as normative realities that technology must
+navigate, not erase. In this context, the layered composition of B-FORM is not aesthetic but strategic: it
+reflects a sequencing of reform entry points based on institutional receptivity and strategic priority.
+The conceptual architecture was developed using triangulated insights from the author's earlier empirical
+works involving cryptic knowledge cultures, commercialization inefficiencies, workforce adaptability gaps,
+leadership development, and digital PRM integration in healthcare systems. These insights form the
+narrative foundation upon which the conceptual design has been iteratively built.
+4.2 Institutional Logic Behind the Model
+The design logic of the model begins by acknowledging a central flaw in many university systems across
+the region: the disjuncture between strategic vision and operational logic. Strategic plans often exist, but
+are weakly institutionalized. Career advancement is often politically influenced or seniority-driven.
+Knowledge is often disconnected from practice, and technological investments are often disjointed from
+both governance and incentives.
+B-FORM responds to these failures by introducing a model that binds knowledge flows to strategic
+outcomes via blockchain-anchored trust mechanisms and KM-based formalization. It also aligns with the
+governance structure of most universities where authority is divided across rector’s offices, deanships,
+schools, financial departments, HR departments, study offices, research centers, and international affairs
+units. Each of these structures suffers from vertical and horizontal misalignment, which B-FORM addresses
+by creating a common formalization spine.
+4.3 Application Architecture Across Functional Units
+As institutions strive for modernization under constrained resources, structural reform must be tailored not
+only to strategic aspirations but also to the lived realities and internal politics of academic environments. In
+the Eastern European and Georgian context, each university unit operates with distinct logics, informal
+networks, and inherited inefficiencies. Therefore, the application of B-FORM must not be formulaic—it
+must be deeply contextual and institutionally dialogic. Below is a department-wise roadmap designed with
+administrative realism and strategic foresight in mind.
+The following is a detailed proposal for how B-FORM can be deployed across key university functions:
+--- Page 12 ---
+Vochimi. Bal 2025). Blockchain For Higher Education Reform...... 24
+Rector's Office:
+e Use the Strategic Governance Layer to align B-FORM KPIs with the university's multi-year
+strategic plan and accreditation priorities.
+e Implement performance dashboards showing traceable metrics of staff progression and research
+contributions using blockchain-based ledgers.
+e Anchor the model legally within rector-issued bylaws and institutional regulations.
+Schools and Deanships:
+e Redesign career advancement rubrics using formalized classification systems integrated with smart
+contracts, considering long-standing issues of favoritism and unclear promotion criteria.
+e Implement knowledge contribution points systems tied to departmental reports, student mentoring,
+and internal committee work—shifting the focus from mere publication count to meaningful
+engagement in academic life.
+e Enable transparent task and workload mapping across teaching, research, and service, so that
+informal task-sharing arrangements are replaced with traceable, equitable role definitions.
+e Encourage faculty-led governance innovations through data-backed proposals, allowing
+department heads and deans to pilot reforms with measurable feedback loops.
+Study Office:
+e Deploy blockchain-supported audit trails for student appeals, examination processing, and grading
+fairness.
+e Track instructor workloads and curricular compliance based on verified engagement logs.
+Financial and Budgeting Offices:
+e Utilize smart contracts for approving and disbursing internal funding (e.g., travel grants, research
+incentives).
+e Record budgeting decisions and committee justifications on tamper-proof ledgers to reduce
+discretionary conflict.
+e Introduce Activity-Based Costing (ABC) systems integrated with blockchain to more accurately
+allocate resources to teaching, research, and service activities, and to inform evidence-based
+budgeting and strategy alignment.
+Human Resources (HR) Department:
+e Centralize career progression systems through blockchain-enabled talent profiles that track
+mentorship, internal leadership roles, and professional development contributions—ensuring
+consistent evaluation across faculties.
+e Link HR evaluations to verified outputs stored within the KM framework, creating a direct line
+between real contributions and institutional reward mechanisms.
+e Promote transparency in promotions and reward mechanisms, reducing dependency on informal
+influence, particularly important in environments where personal networks often supersede
+documented achievement.
+--- Page 13 ---
+Metall. Mater, Eng. Vol 31 (6) 2025 p. 213-232
+Support long-term institutional stability by implementing succession planning tools and career
+pathway analytics, integrated into the strategic foresight efforts of the Rector’s Office.
+Coordinate closely with the study and research offices to map academic roles to institutional
+strategy, using HR not as an administrative back-office, but as a catalyst for organizational
+alignment.
+IT Department:
+Serve as the technical integration and coordination core, tasked with harmonizing the university's
+fragmented digital ecosystem. This includes linking operational data systems such as attendance
+tracking, examination results, internal reports, and student lifecycle databases with analytical
+platforms designed to generate actionable insights for strategic use by decision-makers.
+Replace disjointed departmental tools with a unified institutional data warehouse, ensuring that
+datasets from HR, Study Office, Financial Planning, and Research Administration are stored in
+standardized formats, indexed with blockchain-backed timestamps, and available through tiered
+access based on administrative role.
+Develop and deploy real-time institutional dashboards for deans and rectors, offering policy-
+relevant insights such as teaching loads, faculty knowledge contributions, project progression, and
+strategic budgeting alignment.
+Ensure synchronization between operational and analytical systems, enabling seamless data flow
+from faculty-level activity to institutional-level strategy mapping. This minimizes redundancy and
+supports longitudinal tracking of academic and administrative performance.
+Lead the design of interoperable blockchain APIs, allowing secure interactions between legacy
+university platforms (such as financial, HR, and learning systems) and the new blockchain-
+anchored registry. This reduces the need for full migration while enhancing traceability and data
+verification.
+Collaborate with internal audit units and legal offices to maintain compliance with national
+regulations and EU data privacy laws (e.g., GDPR). Emphasis should be placed on role-based
+access control, encryption, and responsible data retention protocols.
+Act as the internal incubator for future digital transformation projects, including AJI-driven
+scheduling, adaptive learning technologies, and algorithmic analysis of knowledge flows across
+institutional hierarchies.
+Research Offices and Scientific Councils:
+Record and verify research outputs, project deliverables, and external partnership contracts using
+blockchain, thereby minimizing disputes over authorship, project ownership, or fund disbursement.
+Establish a transparent research funding chain, where internal calls and results are codified,
+timestamped, and open for audit. This reduces perceptions of favoritism and protects against
+political maneuvering in grant allocation.
+Align research goals with institutional knowledge priorities by identifying clusters of excellence
+within the university and connecting them to the strategic roadmap managed by the Rector’s Office.
+Encourage data-driven project management by giving research managers access to performance
+dashboards that align faculty research with resource investment and expected deliverables.
+PR and International Relations Departments:
+--- Page 14 ---
+Vochimi. Bal 2025). Blockchain For Higher Education Reform...... 226
+e Integrate B-FORM indicators into international visibility tools, allowing verified institutional
+metrics to be externally shared.
+e Use a transparent model for scoring agents and international student recruiting system and
+evaluation process and documentation of brand knowledge and students loyalty programs.
+e Use the model to support trustworthy reporting in international rankings and cross-border grants.
+4.4 Strategic Implementation Phases
+The model is best implemented in three phases:
+1. Formalization Pilots: Begin by introducing career classification structures and knowledge
+contribution codification in selected faculties.
+2. Blockchain Integration: Launch smart contract-based micro-transactions for research support,
+internal grant disbursement, or peer-review tracking.
+3. Institutional Scaling: Scale toward full knowledge governance through B-FORM dashboards, staff
+progression engines, and budgeting alignment protocols.
+This staged approach allows cultural alignment while producing immediate accountability benefits, such as
+traceable decisions, fairer task distribution, and transparent contribution logs.
+4.5 Evaluation and Feedback Loops
+The model’s success would be evaluated not by full digital transformation, but by institutional behavior
+change, such as:
+e Uptake of knowledge contribution systems
+e Staffperception of fairness in recognition
+e Reduced informal conflict around budgeting
+e Measurable link between strategy and staff progression
+These KPIs can be monitored by Rector’s offices in collaboration with IT, HR, study offices, and finance
+units, using visual and anonymized analytics dashboards generated via B-FORM’s blockchain back-end.
+In conclusion, the B-FORM model is not just a blockchain adoption roadmap—it is a meritocratic
+knowledge governance architecture, designed for practical institutional transformation. It offers not only
+diagnostic accuracy but a multi-entry platform for structural and cultural change, grounded in realism and
+optimized for strategic evolution across education systems in transition.
+4.6 Ethical Compliance and Research Integrity
+This research is fully conceptual and did not involve interviews, surveys, or direct data collection from
+individuals. All institutional insights and challenges described in the study are based on the author’s
+previous empirical work, administrative experience, and documented academic literature. No data was
+invented or simulated.
+The goal of this project is to offer a strategic model rooted in observed realities, not to report new empirical
+findings. Any future application of the model involving human participants will, of course, require formal
+ethical review. At this stage, however, the work stands as an honest design proposal—guided by
+professional responsibility, not artificial claims.
+--- Page 15 ---
+227 Metall. Mater. Eng. Vol 31 (6) 2025 p. 213-232
+5. Discussion and Implications
+This section reflects on the deeper academic and institutional meaning of the B-FORM model, drawing
+together its architectural elements, its layered approach, and the strategic responses it offers to endemic
+governance challenges in Eastern European and Georgian higher education contexts. It also revisits the
+original research questions to assess the model’s contribution in a direct, applicable, and reflective manner.
+5.1 Reflecting on Institutional Transformation
+The B-FORM model proposes more than a technical intervention—it envisions a cultural reset in how
+universities think about knowledge, trust, and advancement. At its core, it aims to transition institutions
+from people-dependent systems (vulnerable to informalism and favoritism) to process-driven cultures,
+anchored in traceable contribution, career transparency, and strategic coherence. By mapping knowledge
+flows and career dynamics into formal systems, the model transforms institutional memory from anecdotal
+and political to verifiable and merit-based.
+5.2 Practical Contributions to University Governance
+For university administrators, B-FORM delivers a cross-functional logic. It offers not just a reform model,
+but a toolkit for accountability—a way to reengineer advancement, budgeting, and recognition without
+disrupting the institution’s identity or overloading its resources. Deans can use it to balance task
+distribution; HR officers to rationalize promotion; and rectors to align budgets with outcomes. Blockchain
+is not promoted here as a buzzword but as a trust ledger—a minimalist, verifiable back-end that enables
+decentralized fairness without full digital overreach.
+5.3 Cultural and Strategic Implications
+Strategically, B-FORM aligns with growing expectations in European higher education for performance
+transparency, responsible budgeting, and sustainable reform. Culturally, however, it acknowledges
+resistance. In systems where informal relations are power structures, formalization may be seen as intrusive
+or performative. That is why B-FORM is designed as modular and phased, allowing institutions to gradually
+build legitimacy, gain internal champions, and demonstrate incremental value without triggering
+organizational fear or backlash.
+5.4 Revisiting the Research Questions
+The following reflections directly address the research questions outlined earlier:
+1. What structural and cultural barriers prevent effective adoption of knowledge management
+systems in Georgian universities?
+— The model demonstrates that informalism, role ambiguity, and strategic fragmentation are key
+barriers. These were confirmed and operationalized in the design of B-FORM’s layered structure,
+especially in how KM is tied to career architecture and budgeting.
+2. How can blockchain technology realistically support the formalization of knowledge and
+performance systems in higher education administration?
+— Blockchain is used not for disruption, but for minimal guarantees of transparency—applied
+selectively to task tracking, funding decisions, and contribution records. This approach reduces
+human discretion without eliminating human agency.
+3. What governance, HR, and budgeting mechanisms must be restructured to enable such systems to
+thrive?
+— B-FORM addresses these in Section 4.3, particularly through career progression maps, ABC-
+based financial modeling, and the recalibration of HR from evaluator to enabler.
+--- Page 16 ---
+Vochimi. Bal 2025). Blockchain For Higher Education Reform...... 28
+4. How might such reforms be sequenced and localized without overwhelming institutions already
+under administrative strain?
+— The model's implementation plan—pilot, integrate, scale—responds precisely to this
+challenge, offering realistic entry points rather than utopian overhaul.
+5.5 Toward a New Institutional Mindset
+The final implication is perhaps the most profound: the reform is not only structural—it is epistemological.
+It challenges universities to reimagine how they define legitimacy, how they reward contribution, and how
+they preserve institutional memory. By anchoring recognition and decision-making in knowledge rather
+than power networks, B-FORM invites universities to become not only better managed, but more just.
+In this way, the research does not only propose a model—it advocates for a new governance consciousness.
+5.6 Human and Organizational Outcomes: Toward a High-Trust Academic Culture
+Beyond governance reform, the implementation of B-FORM offers deeply human-centered outcomes that
+are critical to institutional renewal and fairness. One of the most immediate shifts is expected in staff
+satisfaction, as promotion, workload, and reward systems become transparent and traceable—reducing
+frustration caused by informalism, favoritism, and opaque hierarchies.
+Importantly, the system is designed to explicitly preserve and strengthen diversity and inclusion.
+Blockchain-led traceability and knowledge management formalization ensure that institutional recognition
+is no longer dependent on proximity to power, personal networks, or seniority, but on verified contributions.
+HR departments, in this model, are repositioned not merely as administrative processors but as guardians
+of equity, using structured data to guarantee that opportunities for advancement are distributed fairly across
+all demographics, including underrepresented staff, international faculty, and emerging scholars.
+Students also benefit from this shift. More responsive and consistent service—across exam processing,
+appeals, academic advising, and support systems—becomes possible through blockchain-anchored records
+and interoperable systems. As departments synchronize their workflows, student-facing services become
+faster, fairer, and more aligned with educational goals, improving both satisfaction and trust.
+Institutional synergy improves as well. When knowledge flows are connected across departments like HR,
+finance, IT, academic units, and research centers, the result is a shared operational logic. This reduces
+duplication, enhances interdepartmental understanding, and fosters a culture where strategic coordination
+is a norm, not an exception.
+From a resource standpoint, blockchain-backed accountability mechanisms also reduce internal friction.
+With traceable decisions and formalized task logging, institutions save considerable time and cost by
+avoiding informal conflicts, rework, and miscommunication. These savings can then be redirected to
+support innovation, student services, inclusion initiatives, and internationalization.
+Finally, the model expands the potential for research, innovation, and external collaboration. By offering
+trustworthy documentation of intellectual contributions and research funding flows, it helps institutions
+build credibility with international partners and funding agencies. It supports diverse knowledge systems,
+making space for interdisciplinary work, early-career researchers, and institutional learning partnerships
+across sectors.
+In sum, B-FORM does not merely streamline operations—it helps reframe institutional culture around
+merit, equity, and shared purpose. It encourages universities to become not only better managed but more
+just, inclusive, and prepared for the complexity of global academic engagement.
+5.7 Ethical Design and Governance Integrity
+--- Page 17 ---
+29 Metall. Mater. Eng. Vol 31 (6) 2025 p. 213-232
+Any meaningful reform in higher education must be guided not only by functional improvements but also
+by ethical clarity. The B-PFORM model is designed with an underlying commitment to fairness, inclusion,
+and institutional integrity—ensuring that technological tools serve justice rather than reinforcing existing
+hierarchies. In academic environments where informal power structures often shape recognition and
+advancement, the formalization of knowledge, contribution, and career progression systems presents both
+an ethical opportunity and responsibility.
+By using blockchain to support traceable and tamper-resistant records of task allocation, research
+contributions, and budgeting decisions, the model reinforces procedural fairness and transparency. It also
+emphasizes ethical decision-making in the disbursement of internal funds, the appointment of staff to
+leadership roles, and the evaluation of academic labor. Rather than replacing human judgment, the system
+supports it through verifiable data, consistent criteria, and role-based access controls. Ethical safeguards
+are embedded through institutional bylaws, cross-departmental feedback loops, and privacy-respecting data
+governance aligned with EU standards. In this way, B-FORM aims not just to improve how universities
+operate—but to elevate the ethical quality of how decisions are made, how contributions are valued, and
+how academic communities evolve.
+6. Conclusion
+6.1 Summary of Contributions
+This paper has presented B-FORM: a conceptual, context-sensitive architecture for integrating knowledge
+management and blockchain systems into the governance of universities, particularly within Georgian and
+Eastern European settings. The model emerged from the real institutional failures observed in multiple
+studies—where informalism, fragmented authority, and weak accountability undermine institutional
+growth, fairness, and academic quality.
+By dissecting these dysfunctions and offering a layered design rooted in strategic logic, human-centered
+design, and administrative realism, the study proposes a new path toward traceable meritocracy, fair
+budgeting, and cross-functional coordination. The model’s value lies not in replacing legacy systems, but
+in formalizing what is already informally functioning—thereby making progress visible, contributions
+countable, and governance verifiable.
+6.2 Unique Value of the BPFORM Approach
+Unlike purely technical proposals or top-down governance models, B-FORM bridges the sociopolitical
+culture of universities with the enabling logic of technology. Its strength lies in its modularity, gradualism,
+and respect for institutional identity. It does not treat blockchain as a solution in search of a problem; rather,
+it applies it surgically—where human discretion must be minimized, and where traceability is crucial to
+fairness.
+Similarly, knowledge management is not presented as an administrative add-on, but as a foundation for
+strategic budgeting, staff development, and academic innovation. Through these integrations, B-FORM
+speaks to both operational needs and ethical aspirations of higher education.
+6.3 Final Reflections on Change, Trust, and Reform Readiness
+The core insight of this research is that reform must be navigable, not imposed. In settings where informal
+power drives outcomes, change cannot rely solely on regulation or digitalization. It must build trust—first
+by clarifying rules, then by respecting contribution, and finally by reinforcing fairness through formal
+design.
+B-FORM proposes that blockchain and knowledge management are not just technical tools, but ethical
+infrastructures—when embedded properly. They help universities protect what matters: credibility, people,
+memory, and direction.
+--- Page 18 ---
+Vochimi. Bal 2025). Blockchain For Higher Education Reform...... 230
+In this spirit, the paper invites not immediate adoption, but institutional dialogue: to pilot, adapt, and test
+what is possible when reform grows from within.
+Key References
+1. Alammary, A., Alhazmi, S., Almasri, M., & Gillani, S. (2019). Blockchain-based applications in education: A
+systematic review. Applied Sciences, 9(12), 2400. https://doi.org/10.3390/app9 122400
+2. Chen, G., Xu, B., Lu, M., & Chen, N. S. (2020). Exploring blockchain technology and its potential applications
+for education. Smart Learning Environments, 7(1), 1-10. https://doi.org/10.1186/s40561-019-0114-5
+3. Dalkir, K. (2017). Knowledge management in theory and practice (3rd ed.). MIT Press.
+4. Deem, R., Hillyard, S., & Reed, M. (2007). Knowledge, higher education, and the new managerialism: The
+changing management of UK universities. Oxford University Press.
+5. Grech, A., & Camilleri, A. F. (2017). Blockchain in education. Joint Research Centre (JRC) Science for Policy
+Report. Publications Office of the European Union.
+6. Helmke, G., & Levitsky, S. (2004). Informal institutions and comparative politics: A research agenda.
+Perspectives on Politics, 2(4), 725-740.
+7. Kwiek, M. (2016). Constructing universities as organizations. Higher Education Quarterly, 70(3), 229-247.
+https://doi.org/10.1111/hequ.12092
+8. Kwiatkowski, S., & Zemigata, M. (2021). The challenges of academic entrepreneurship in Poland. Journal of
+Entrepreneurship, Management and Innovation, 17(2), 125-140.
+9. Mladkova, L. (2012). Sharing tacit knowledge within organizations: Evidence from the Czech Republic. Human
+Resource Development International, 15(4), 589-603.
+0. Moghimi, B. (2025). Cryptic knowledge in healthcare: A case study of cultural silence and strategic concealment
+in Georgian clinical practice. Journal of Neonatal Surgery, 14(24S), 506-519.
+1. Moghimi, B., & Dastouri, M. (2023). Establishing a model for commercialization of universities based on
+knowledge management: Case study of Georgian universities. Journal of Positive School Psychology, 7(1), 393—
+410.
+2. Moghimi, B., & Gegeshidze, E. (2024). Technological evolution and workforce preparedness: Assessing
+adaptability in Georgian universities. Linguistic and Philosophical Investigations, 23(1), 87-104.
+3. Moghimi, B., & Monemizadeh, S. (2025). Designing a patient-centric PRM model in healthcare e-commerce:
+Insights from doctors and patients in Tbilisi, Georgia. South Eastern European Journal of Public Health, Volume
+XXVI(S1), 112-127.
+4. Nonaka, I, & Takeuchi, H. (1995). The knowledge-creating company: How Japanese companies create the
+dynamics of innovation. Oxford University Press.
+5. Olnes, S., Ubacht, J., & Janssen, M. (2017). Blockchain in government: Benefits and implications of distributed
+ledger technology for information sharing. Government Information Quarterly, 34(3), 355-364.
+https://doi.org/10.1016/j.gig.2017.09.007
+6. Ramachandran, S. D., Chong, S. C., & Ismail, H. (2009). The practice of knowledge management processes: A
+comparative study of public and private higher education institutions in Malaysia. The Journal of Information and
+Knowledge Management Systems, 39(3), 203-222.
+7. Rowley, J. (2000). Is higher education ready for knowledge management? The International Journal of
+Educational Management, 14(7), 325-333.
+8. Sharples, M., & Domingue, J. (2016). The blockchain and kudos: A distributed system for educational record,
+reputation and reward. In Proceedings of the 11th European Conference on Technology Enhanced Learning (pp.
+490-496). Springer. https://doi.org/10.1007/978-3-319-45153-4_48
+9. Silova, L, Sobe, N. W., Korzh, A., & Kovalchuk, S. (2017). Revisiting post-socialist transformations in education:
+Paradigm shifts, power dynamics, and (dis)continuities. European Education, 49(1), 1-5.
+20. Tomusk, V. (2000). The dark matter: Access, excellence and equity in post-communist higher education. Higher
+Education Policy, 13, 275-284.
+21. Turkanovic, M., Hélbl, M., Kosié, K., Heri¢ko, M., & Kami8ali¢é, A. (2018). EduCTX: A blockchain-based higher
+education credit platform. IEEE Access, 6, 5112-5127. https://doi.org/10.1109/ACCESS.2018.2789929
+--- Page 19 ---
+231
+Appendix A. Departmenta
+Metall. Mater, Eng. Vol 31 (6) 2025 p, 213-232
+Implementation Checklist: Operationalizing the B-FORM Model
+P 9 P Knowledge
+University Strategic Management Blockchain Role Short-Term Long-Term KPIs
+Unit Entry Point 4 KPIs
+Mechanism
+Align mg KM-aligned I utable KPT Strategy “KPI Annual performance
+Rector’s strategy with | . 0... recording and audit | alignment; Staff "tc.
+institutional strategy : : traceability; Trust-
+Office measurable trail of strategic feedback . :
+dashboards based decision audits
+outputs goals dashboards
+Career Knowledge Smart contracts for | Participation in
+ae oe . ar Transparent career
+Schools / | advancement | contribution scoring; promotions; contribution aths: Data-driven
+Deanships | and workload | Equitable workload Contribution metrics; Role pains,
+ye : : faculty engagement
+formalization mapping ledgers clarity
+Grading and Blockchain-secured Reduced Audit compliance
+: Instructor feedback ys complaint . :
+academic : audit trail for rates; Timely grading
+Study Office logs; Student lifecycle volume; :
+record : assessments and and progression
+traceabilit documentation appeals Instructor trackin:
+y PP workload logs s
+Transparent Smart contracts for Response time
+. . P ABC models : to funding KPI-aligned budget
+Financial | budgeting and : . micro-funding; : ail :
+: integrated with requests; allocation; Reduction
+Department | internal grant : Tamper-proof : sg. :
+: research/service data Budget audit | in discretionary gaps
+disbursement budget ledger
+reports
+Staff segs Pre
+Human Staff Integrated knowledge- Transp arent satisfaction; Institutional stability;
+: ; promotion records; Reduction in
+Resources | evaluation and talent profiles; Role-to- oe
+(HR) rooression | Succession mappin: Role-secured data fi favoritism-based
+progn Pping access Performance decisions
+mapping
+Dat Blockchai ime; :
+ala Data lake : ockenain System upt ime; Real-time dashboards;
+IT governance 0 timestamps for data Integration
+standardization; . : Cross-departmental
+Department | and system wee entries; Access- compliance
+: as KMIAIS coordination eeee data access flow
+interoperability level permissioning reports
+Research fund Research deliverables Immutableregistry | Time to fund Alignment of research
+Research distribution : of research release; Project : :
+: mapping; er : with strategy; Fair
+Office and impact og : activities and milestone :
+: Contribution analytics : : : fund allocation
+alignment project deliverables | compliance
+: Quality of
+Institutional Reporting on Public blockchain recruitment || Transparent recruiting
+PR & visibility and verifiable KM references to documentation; | chain; Brand equity
+International ectaiteacn t outputs; transparent | recruitment, agent | Brand recall | metrics; Institutional
+Relations inteorit agent and loyalty scoring, and trust- | feedback; Agent | trust growth in global
+ery scoring, based indicators evaluation networks
+documentation of
+compliance
+--- Page 20 ---
+Moghimi, Bahman (2025). Blockchain For Higher Education Reform
+232
+University
+Unit
+Strategic Knowledge
+Entry Point Management
+y Mechanism
+Blockchain Role
+Short-Term
+KPIs
+Long-Term KPIs
+brand-related
+knowledge
+Appendix B. Strategic Implementation Roadmap for B-FORM Model
+Phase Key Actions A Success Indicators Timeline
+Phase 1: - Identify pilot faculties for KM Staff participation;
+F “lk ti contribution indexing- Design career || Informalism, Role Role clarity; Months 1-6
+il ite 10n | classification schemes- Initiate basic ambiguity, Favoritism Contribution
+Mots performance dashboards visibility
+- Implement smart contracts for
+Phase 2: promotions and internal funding- Discretionary Immutable ledgers;
+ase *: Secure grading, budgeting, and decisions, Record Shortened decision
+Blockchain : : f Months 7—12
+Int ti research records via blockchain- tampering, Lack of cycles; Enhanced
+ntegration Establish tiered access to institutional transparency trust
+data
+- Develop real-time dashboards for
+Phase 3: deans and rectors- Connect financial, Siloed systems, Integrated systems;
+Instit ‘A . 1 HR, research, and study systems toa || Cultural resistance, Policy-linked Months 13—
+a ‘ine. unified data core- Monitor Strategic analytics; Staffand 24
+cans knowledge-flow KPIs institution- misalignment student satisfaction
+wide
+. . - Set up monitoring unit for ongoing Verified institutional
+LECCE) model evaluation- Launch external Stagnation, Policy KPIs; External
+Control and : . . nar : Months 25—
+Ext 1 benchmarking and knowledge-sharing| drift, Institutional collaboration; 36+
+I te vat mechanisms- Introduce AI and isolation Adaptability over
+ntegration feedback loops for system correction time

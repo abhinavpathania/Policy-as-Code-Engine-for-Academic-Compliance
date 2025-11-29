@@ -1,0 +1,2455 @@
+--- Page 1 ---
+UGC Guidelines for Institutional
+Development Plans for Higher
+Education Institutions (HEls)
+University Grants Commission
+Bahadur Shah Zafar Marg, New Delhi-110002
+--- Page 2 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+UGC Guidelines for Institutional
+Development Plans for Higher Education
+Institutions (HEIs)
+Page 1 of 63
+--- Page 3 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Preface
+In the tapestry of India's educational landscape, Higher Education
+Institutions (HEIs) play a pivotal role, extending beyond academia to shape
+the country's future through knowledge, research, and innovation. These
+institutions are instrumental in building the nation, fostering socio-
+economic empowerment, and ensuring global competitiveness.
+The "UGC Guidelines for the Institutional Development Plan for Higher Educational Institutions
+(HEls)" serves as a guiding light for institutions striving to evolve and excel within this dynamic
+educational framework. This comprehensive framework is a culmination of insights, best
+practices, and collective wisdom gleaned from esteemed leaders, policymakers, and
+educational visionaries across India.
+Acknowledging the diverse challenges and immense opportunities within India's higher
+education sector, these guidelines present a strategic roadmap tailored to empower HEls.
+Whether it's elevating academic standards, fostering research excellence, championing
+inclusivity, or embracing technological advancements, this resource aims to equip institutions
+with the requisite tools to navigate the evolving landscape effectively.
+Emphasizing interdisciplinary collaboration, industry alliances, and community engagement,
+these guidelines advocate for a holistic approach to institutional growth. They aspire to
+cultivate an environment where innovation flourishes, knowledge is accessible to all, and a
+pursuit of excellence becomes intrinsic to the ethos of every HEI.
+Recognizing the distinctiveness of each institution, shaped by its context, strengths, and
+aspirations, these guidelines are designed to be adaptable. They encourage HEls to tailor their
+development strategies while upholding fundamental principles of academic integrity, fairness,
+and responsibility.
+As India's higher education sector charts its course to greater prominence globally, these
+guidelines aim to ignite transformative growth within institutions. May they inspire a new era
+of HEls that not only meet the evolving needs of the nation but also contribute significantly to
+the global academic narrative.
+Warm regards,
+Prof. M Jagadesh Kumar
+Chairman
+University Grants Commission
+Page 2 of 63
+--- Page 4 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Table of Contents
+I PREAMBLE: .......sssscssssesssscecsssscessccesscsecsssccssscsessesessssacassesessceesessecesscseseusesessceeseaseseusesessaseuecsesaceasausenesacenses 6
+I. SOCIAL AND ACADEMIC MISSION ........s.ccsssssssessssessssescssssssssecessesessssensusesesscsessseeceseeeesaceesessesesseseseceenesseees 7
+HL. BASIC PRINCIPLES ........cssssssssssssssssssssssessscessesscsssssesscsecsssessssesesecsesseseseuseeesensesaceaseseesevacseseseesessceuseneesesseees 8
+IV. MAIN OBJECTIVES AND GOALS TO BE ACHIEVED BY IDP: .........scssssssssssssssssssessesesessssesseseseseesesseseseseesesaee 10
+V. STRATEGIC GOALS AND DEVELOPMENT OBJECTIVES........sssssssssessssescssesesssecessesesessecesscseseeseseaeaseneeeeseneaes 11
+STRATEGY FORMULATION 1
+A. STRATEGIC GOALS -12
+B. DEVELOPMENT OBJECTIVES.. 13
+Cc. OPERATIONALISATION......csccccsseseeecseesesecsceecsecseecsesscsecsecscsecsecscsecsessssecsecsaecsecsusessecsssessecsssessessscessessssesecaseesee 4
+VI. INSTITUTE DEVELOPMENT PLAN (IDP) FRAMEWORK - MAJOR COMPONENTS (PARAMETERS FOR
+INSTITUTIONAL EXCELLENCE)...
+A. GOVERNANCE ENABLERS.
+1. Overview: ...........
+2. How to improve Governance: ..........:ccccesseceeseeseeeeeteeneeeeees
+B. FINANCIAL ENABLERS AND FUNDING MODELs (RESOURCE GENERATION) .
+1. Overview
+2. How to improve Financial Enablers:
+Cc. ACADEMIC ENABLERS
+1. Overview........ 19
+2. How to develop & improve Innovative Academic Enablers. 20
+Dz. RESEARCH, INTELLECTUAL PROPERTY, AND SUPPORTIVE ENABLERS 22
+Overview .. 22
+How to Develop Research, Intellectual Property & Supportive Enablers .
+Research Enablers
+Supportive and Facilitative Enablers...
+E. HUMAN RESOURCES MANAGEMENT ENABLERS..
+Overview
+AWN
+h
+2. How to - Contextualization of key HR practices in Higher Education Institutions...
+F. ENABLERS FOR NETWORKING AND COLLABORATIONS...
+OVEIVICW? 000. cecccccceeesssseseestssteetecssesteessseeee
+2. Developing Networking Enablers:
+G. PHYSICAL ENABLERS
+OVEIVICW! 0... cesccceceesetceeestceettseeteeeeeeee
+How to improve the Physical Enablers.
+Green Campus Strategy: .
+h
+NR
+h
+Overview
+Digital & ICT Framework for HEls:
+Implementing Digital Initiatives in HEIs.
+N
+h
+Vil. SUMMARY ........ccccssssssssssssssssessssssesseseescesnessesceseesnessesseseeseeeeeeeeeeeeeeeeeseeneeeeseeeeeseeeeneeeeneeneeseeneeeeneenes 34
+ANNEXURES........cscssssssssessessessessessessessesseesesseeseeseeseeeeeeeeeeeeeseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeaeeeeeeeeeeeeeeaeeeenaeeneee 36
+A. GOVERNANCE ENABLERS........sscsccscssesesecseeecsecsesecsecseecsecscecsessesecsessusecsecsasecsecsasecsecsscessessusessessssessessseeseeseseesee
+FINANCIAL ENABLERS AND FUNDING MODELs (RESOURCE GENERATION) .
+ACADEMIC ENABLERS .......scescsseseeecseseeesseeeeeesseeeeee
+RESEARCH, AND INTELLECTUAL PROPERTY ENABLERS...
+HUMAN RESOURCES AND SUPPORTIVE- FACILITATIVE ENABLERS
+NETWORKING AND COLLABORATIONS ENABLERS
+PHYSICAL ENABLERS...
+DIGITAL ENABLERS .
+Ia™moOOD
+Page 4 of 63
+--- Page 5 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Members of the Committee for preparing IDP Guidelines
+Sr. Name and Designation
+No.
+1. Dr. N. S. Kalsi IAS Retd. Chairman
+Chairman, NCVET, New Delhi
+2. Prof. Govindan Rangarajan Member
+Director IISC, Bangalore
+3. Prof. S. Karmalkar Member
+Director IIT Bhubaneswar
+4. Prof. Shalini Bharat Member
+Director, Tata Institute of Social
+Sciences, Mumbai
+5. Prof. Rupesh Chaturvedi Member
+School of Biotechnology, Jawaharlal
+Nehru University
+6. Sh. Satish Pradhan Member
+Former Advisor Tata Group and CHRO
+Tata Sons, Mumbai
+7. Sh. Jayant Krishna Member
+Former CEO, National Skill
+Development Council
+8. Dr. Archana Thakur Meeting Co-ordinator
+Joint Secretary, UGC
+Page 5 of 63
+--- Page 6 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+PREAMBLE:
+World over there is an increasing interest in the quality and standards of education and higher
+education, reflecting both its rapid growth and cost to the public and the private finances. Our
+imperative of nation building, an equitable and just society, and doing justice to the current
+and future generations of Indians is predicated on achieving our aspiration to be the leading
+knowledge-based economy in the world. Indian higher education will need to demonstrate
+that it takes quality to a significantly more advanced level and puts into place the means of
+attaining, demonstrating and assuring that sustainable quality.
+The Hon’ble Prime Minister has observed that the large number of upcoming universities,
+colleges, IITs, IIMs and AIIMS are the strong building blocks of new India. India’s rich education
+system is the carrier of India's prosperity. Soft power of India is becoming a success story of
+the Indian youth. Our new generation should be future-ready, with the temperament to
+accept and face challenges, this is possible only through the vision and mission of high-quality
+educational institutions.
+The challenges and demands, which are emerging both inside and outside India in the face of
+this context and the internationalization of higher education, demand a powerful and
+concerted response. The commitment of all those involved in the creation, discovery,
+dissemination, connecting and application of knowledge, augurs well for the fulfilment of a
+truly Indian approach to the quality and quality assurance of our higher education ecosystems.
+Enabling the Higher Educational Institutions (HEI) to undertake the Academic and Professional
+Excellence journey is at the heart of these guidelines. The vision of, the National Education
+Policy (NEP) 2020, Sustainable Development Goals (SDGs), National Credit Framework (NCrF),
+and Integration with the Academic Bank of Credits (ABC) among other anchors, lie at the core
+in the pursuit of higher level goals. The National Education Policy (NEP) 2020, seeks to
+transform higher education by focusing on skill-based education to meet the needs of the
+industry and the economy.
+The National Education Policy 2020 enunciates that Quality Higher Education needs to aim to
+develop good, thoughtful, well-rounded, and creative individuals. HEls need to enable an
+individual to study one or more specialized areas of interest at a deep level and also develop
+character, ethical and constitutional values, intellectual curiosity, scientific temper, creativity,
+spirit of service, and 21st-century capabilities across a range of disciplines including sciences,
+social sciences, arts, humanities, languages, as well as professional, technical, and vocational
+subjects.
+The UGC has sought to provide guidelines for individual HEls to develop their own Institutional
+Development Plans to further these aims set out in the NEP 2020.
+Page 6 of 63
+--- Page 7 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Social and Academic Mission
+The social mission is the main purpose of being for an HEI or a program in terms of doing
+social good. In the context of the IDP, this will enable the HEIs to not only become self-reliant
+centres of excellence for their academic and professional growth and research and
+developmental outcomes but also contribute to the overall social good by a multitude of other
+aspects such as:
+i. Equitable access to high quality affordable higher education for all including te Persons
+with Disability (PwD).
+ii. | Knowledge creation for societal growth and well-being through cutting-edge research,
+technical and non-technical solutions to societal problems conceptualised by HEls.
+iii. Integration & embedding of vocational education, training & skilling into higher
+education; Creditisation of all learning and integrating credits from academic, vet &
+skilling and experiential learning
+iv. Creation of industry fit and entrepreneurial human resources for improving quality of
+life, the standard of living, all-round development, wellbeing and social good.
+v. Reducing inequalities and enhancing gender parity, ensuring diversity and inclusivity
+and environmental awareness towards Sustainable Development Goals (SDGs), and
+other such overall goals.
+vi. Internationalization of higher education, skilling and mobility of students, learners and
+workforce at all levels etc.
+The academic mission in the context of IDP needs to be the portfolio of robust aims of the
+institution which seek to help students develop an understanding and appreciation for the
+complex cultural and physical worlds in which they live and to realize their highest potential
+of intellectual, physical and human development. The Mission can further be summarised as
+below:
+i. Promoting and strengthening holistic education, multi-disciplinarity, cross-
+disciplinarity and interdisciplinarity in the mutually supporting interdependent
+learning driven world.
+ii. The facilitation and enablement of achieving key learning outcomes from the core
+learning of a discipline and its prescribed curriculum.
+iii. | Development of character, ethical and Constitutional values, intellectual curiosity,
+scientific temper, creativity, spirit of service, and contemporary capabilities across a
+range of disciplines including sciences, social sciences, arts, humanities, languages, as
+well as professional, technical, and vocational subjects.
+iv. Learning to think, understand and do through skills and competencies such as critical
+thinking and problem solving, creative thinking and innovation, analytical thinking,
+adaptive thinking, design thinking & creativity, computational thinking, social
+intelligence, cross cultural competency, new media literacy, virtual collaboration,
+Page 7 of 63
+--- Page 8 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+decision making, conflict resolution and negotiations among many others. Thus
+building the foundations of a proclivity for continuous and lifelong learning.
+Basic Principles
+Emergent India with its multiple states is characterised by its diversity of socio-cultural
+traditions, languages, and nuanced in aspirations and expectations. This is currently
+accompanied by a range of institutions including - Universities, Deemed-to-be Universities,
+Colleges, Professional, Specialised, and Vocational/ Skilling etc. While the NEP 2020 and its
+forward-looking concomitants like National Credit Framework (NCrF) provide an overarching
+policy framework, this makes a single monolithic approach to quality, standards and quality
+assurance in higher education inappropriate.
+In the light of India’s diversity and variety, generally acknowledged as a strength, the
+Guidelines avoid a narrow, prescriptive and a rigidly formulated approach. There is a
+preference to generic principles, while being mindful of the specific requirements. One
+consequence of the generic principle is that the Guidelines focus on a balance of what should
+be the vision and action plan and how this can be best achieved and realised.
+In sum, it is important to emphasize that these Guidelines are intended to enable various
+stages of this journey towards excellence in Higher Education with a concomitant ethos of
+continuous improvement, refinement, feedback and review based on our collective
+experience of their pursuit in the years to come.
+It is equally important to emphasise that these Guidelines are framed to enable HEls within
+the statutory, regulatory and mandated requirements of acts, rules, regulations, codes and
+guidelines as promulgated and applicable by the University Grants Commission (UGC) and
+other appropriate regulatory authorities like All India Council for Technical Education (AICTE),
+National Council for Vocational Education and Training (NCVET), National Council for Teachers’
+Education (NCTE), from time to time.
+These Guidelines for HEls are founded on key principles and approaches that emphasize:
+i. Supporting HEls in academic, research, and teaching excellence.
+ii. Promoting learner-centric teaching, knowledge creation, innovation, and
+knowledge application.
+iii. Advocating a multi-disciplinary integration including science, arts, humanities,
+vocational, sports, and more.
+iv. Enabling integration and embedding of vocational education, training & skilling
+and the general education holistic learning as per National Education Policy 2020
+and National Credit Framework (NCrF).
+v. Enabling HEls to balance comprehensive academic, administrative and financial
+autonomy with accountability, alongside with responsibility and IDP framework
+flexibility.
+Page 8 of 63
+--- Page 9 ---
+vi.
+vii.
+viii.
+xi.
+xii.
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Emphasizing participation, inclusivity, and responsive adaptability which is
+fostered by encouraging openness, collaboration, research, innovation, and
+community ties.
+Prioritizing good governance in HEIs and smooth IDP execution.
+Bridging the trust gaps among stakeholders while addressing the genuine interests
+of all stakeholders in higher education.
+Enabling a conducive framework for HEl-led research innovation and start-up
+ecosystem.
+Enabling the provision of mechanisms for HEls to shape the IDP.
+Enabling HEls to be future-ready with a 15-year vision and span.
+Enabling the inter relationship between external quality assurance and
+accreditation processes for optimal benefit of stakeholders and the institutions.
+Page 9 of 63
+--- Page 10 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Main Objectives and Goals to be Achieved by IDP:
+The IDP needs to reflect an integrated, comprehensive and holistic approach that is mindful
+of every institution’s unique vision/mission, context, life cycle stage, location, character,
+resources, environment, target group of students/ learners, other stakeholders and overall
+aspirations. The overarching purpose and aims of each unique institution are the key
+determinants of the mix of choices that will create excellence for that particular institution.
+The main objectives of the IDP are :-
+vi.
+vii.
+viii.
+To articulate a clear vision and mission of the institution and align these with
+National Education Policy 2020, NCrF, SDG and institute’s educational and research
+activities and social objectives.
+To assess institutional developmental needs through wide consultative processes.
+To identify capacity (human, material and financial) and organizational gaps, based
+on the goals and priorities.
+To develop Annual Activity/ Capacity Building Plans to build capacity and remove
+gaps.
+To establish a transparent system for holistic, inclusive growth and development of
+the HEI through the application of all relevant tools, technologies and
+opportunities (esp Digital Technologies) for ensuring optimal utilization for overall
+balanced growth.
+To establish ethos of wholistic lifelong learning and an operative framework to
+promote the better employability and entrepreneurship,, by integration of skilling
+into Higher Education.
+Develop an operative framework to promote the Internationalization of education,
+international equivalence and exchange of faculty and students.
+To ensure meaningful engagement of all stakeholders in the development and
+implementation of its IDP.
+To quantify the institution’s goals using Indicators and Time-Bound Targets, and
+Implementation Plans.
+To undertake Periodic Reviews and appropriate measures for continuous course
+corrections and further improvements.
+Page 10 of 63
+--- Page 11 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Strategic Goals and Development Objectives
+Strategy Formulation
+Strategic Formulation needs institutional leadership with a coherence of direction and
+sustained efforts over time. Hence tenure, quality of leadership and direction are key factors
+at the very heart of a good strategy. Equally important is the flow from strategic goals (as
+directional) into tangible (measurable milestone) objectives. The strategic (directional) goals
+are indicative of the compass to guide the journey and Institutional Development goals are
+sought to be indicated as the chosen pathways of institutional pursuit of those directional
+aspirations.
+The following are Indicative basic steps for all HEls in this journey: —
+i. Identify Strategic Goals: Define the purpose, vision, and goals of the academic
+institution, including what the institution wants to achieve and why through the use
+of tools and techniques for strategy formulation like -
+a. Conduct a SWOC Analysis: Assess the Strengths, Weaknesses, Opportunities,
+and Challenges (SWOC) of the institution to determine opportunities and
+choices that need to be leveraged and areas that need improvement.
+b. Utilize appropriate models like the “S-Curve Analysis”, “Portfolio Analysis” etc:
+Plot the institution's progress using S-Curve Analysis to visualize its growth
+trajectory and identify potential bottlenecks. This will determine if the “Path is
+clear for scale and impact” especially for younger institutions. Determine a
+Portfolio Mix for the institution of choices of “streams of capability”,
+programmes, products and offerings.
+c. Determine the sustainability and viability proposition for all stakeholders over
+time as an anchor / beacon. Undertake Stakeholder analysis to underpin the
+rationale for the Choice of Strategic goals.
+d. Analyze and align Interlinkages: Examine the interlinkages between different
+areas of the institution, such as “streams of capability”, academic programs,
+pedagogy, research initiatives, field/ community/ industry engagement, and
+student and faculty support services, to ensure alignment with overall goals.
+ii. Define Objectives: Break down the goals into specific, measurable, attainable,
+relevant, and time-bound objectives.
+iii. Identify Tactics: Determine the most effective choice of ways to achieve the objectives,
+including the allocation of resources, partnerships, thrust areas, initiatives and
+sequencing. The enabling processes and incentivisation ( material and intangible
+modes) of garnering funding, support and energy for success.
+iv. _ Prioritize Initiatives: Determine which initiatives are most important, their sequencing
+and allocate resources accordingly. Identify and garner / mobilise resources.
+Page 11 of 63
+--- Page 12 ---
+vi.
+vii.
+vi.
+vii.
+viii.
+xi.
+xii.
+xiii.
+xiv.
+XV.
+xvi.
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Develop the Plan: Outline a detailed plan of action, including timelines, milestones,
+and responsible parties for each initiative.
+Implement the Plan: Execute the plan and monitor progress, making adjustments as
+needed.
+Review, Evaluate and Report: Regularly review and evaluate the plan, including
+measuring progress against objectives, using the S-Curve and analysing interlinkages,
+and making changes as needed to ensure continued success.
+A. Strategic Goals
+These are indicative only. Institutions need to set their strategic goals in their own
+words. These goals serve as a guide. Institutions can customize them based on their
+specific context.
+Ensure accessible, affordable, and transparent student admissions, emphasizing
+equality.
+Streamline recruitment, training, motivation, and retention of skilled faculty.
+Prioritize a student-focused approach, enhancing faculty skills for better
+educational outcomes.
+Foster entrepreneurship and experiential learning among both students and
+faculty.
+Champion holistic development focusing on academic, research excellence, and its
+reinforcement.
+Adopt a comprehensive perspective, nurturing every aspect of individual growth.
+Cultivate a sense of community, cultural appreciation, nature connection, and
+student advocacy.
+Equip students to become global citizens by internationalizing education.
+Support both students and faculty in achieving their professional and personal
+aspirations.
+Boost student enrolment, retention, and graduation metrics.
+Intensify support for under-represented student groups, ensuring their success.
+Offer avenues for gaining knowledge in emerging domains of global significance.
+Implement inclusive hiring practices, emphasizing continuous faculty
+development.
+Encourage digital modes of learning and teaching.
+Identify innovative revenue streams to bolster financial sustainability.
+Enhance the institution's global and regional stature and rankings.
+Page 12 of 63
+--- Page 13 ---
+xvii.
+xviii.
+xix.
+XX.
+xxi.
+xxii.
+B.
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Seamlessly integrate quality skill education within higher education.
+Enhance student employability on both national and international fronts.
+Develop a sustainable research and innovation environment.
+Foster relationships with alumni, communities, industries, and other stakeholders
+for institutional growth.
+Strengthen Academia-Industry and Academia-Community partnerships via diverse
+initiatives.
+Adopt the National Credit Framework (NCrF) and Academic Bank of Credits (ABC)
+for a fluid student mobility and flexible learning. Establish a rigorous accreditation
+system emphasizing transparency, autonomy, and quality outcomes.
+Development Objectives
+These are indicative only. These objectives may be categorised as illustrated below and
+conceived of as discrete but integrated dimensions of the institutions development.
+Academic and Fiduciary Governance: This category includes objectives related to
+the management of the institution, and oversight of the institution's academic
+programs and processes.
+Curriculum and Pedagogy: This category includes objectives related to the design
+and delivery of academic programs, such as curriculum excellence and pedagogical
+excellence.
+Integration of Skills into Academics at all levels: This category includes objectives
+related to integration of vocational education/ skills into general education as
+required under holistic education as envisaged by NEP 2020/ National Credit
+Framework (NCrF) through National Higher Education Qualification Framework
+(NHEQF) aligned courses or National Skill Qualification Framework (NSQF) aligned
+courses and Qualifications.
+Faculty and Staff: This category includes objectives related to the recruitment,
+development, retention, and promotion of faculty and staff. Human Resource
+Management (HRM) is pivotal for Higher Education Institutions (HEIs). Given the
+unique blend of academia, research, and administration within HEls, effective HRM
+ensures that the right talent is attracted, nurtured, and retained. By fostering a
+conducive environment for academic and research excellence, HRM shapes the
+institution's ethos, culture, drives innovation, and influences educational
+outcomes. Furthermore, through strategic planning, training, and development,
+HRM plays an indispensable role in ensuring HEls stay at the forefront of global
+education trends and standards.
+Governance and Compliance: This category includes objectives related to the
+institution's administrative, and financial governance, as well as its compliance
+with legal and regulatory requirements
+Page 13 of 63
+--- Page 14 ---
+vi.
+vi.
+vii.
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Research and Development. This category includes objectives related to the
+institution's overall research and innovation goals. For effective Research and
+Development, institutions need to establish a clear strategy encompassing:
+defining research goals, and a research portfolio, aligned with institutional aims,
+securing external funding, provisioning essential research infrastructure, recruiting
+and mentoring top-tier research faculty, and fostering collaborations and
+partnerships. Additionally, they should uphold research integrity through
+established ethical practices, amplify research findings across academic and public
+platforms, enable implementation of actionable points, and where possible
+monetization of research (including start-up support and intellectual property
+management), conduct thorough research assessments, and instate efficient
+research management systems.
+Cc. Operationalisation
+Recognising that Institutional Development is being undertaken by the HEls, it is
+imperative that the autonomy of the institutes is maintained while developing and
+operationalising the Plan for such an endeavour. Therefore, the IDP guidelines are self-
+regulating in nature. The HEIs may choose to provide institutional support and infuse
+collaboration and coherence across various units, departments and activities in
+operationalisation with appropriate mechanisms to effectively implement the IDP.
+The key enablers to this are:
+Clear Objectives: Begin with well-defined, measurable objectives that align with
+the institution's mission.
+Task Breakdown: Decompose each strategic goal into specific, actionable tasks or
+initiatives.
+Overall Stewardship & Responsibility Allocation: Provision for governance
+oversight and assign specific tasks to a particular department, team, or individual,
+ensuring collaboration & interlinkage with clarity in roles and expectations.
+Collaborative Environment: Promote a culture of collaboration and knowledge
+sharing, allowing for synergies between departments and teams
+Metrics & KPIs: Establish clear metrics and Key Performance Indicators to evaluate
+progress and effectiveness of individual tasks and interlinked outcomes.
+Technological Tools: Implement management and monitoring software to
+automate tracking, reporting, and communication.
+Communication Channels: Maintain transparent and open lines of
+communication among all stakeholders to ensure alignment and foster a sense of
+ownership.
+Page 14 of 63
+--- Page 15 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+viii. Training & Development: Offer continuous training and professional development
+to equip staff with the necessary skills and knowledge.
+ix. Resource Allocation: Ensure sufficient resources (financial, technological, human)
+are dedicated to each strategic initiative.
+x. Feedback Mechanisms: Implement regular reviews, surveys, and feedback loops
+to gauge progress and make necessary adjustments..
+xi. Agility: Develop an adaptive mindset, timely decision making allowing for
+flexibility in the face of changing external factors or unforeseen challenges.
+xii. Stakeholder Engagement: Involve all relevant stakeholders, from faculty and staff
+to students and external partners, ensuring a holistic approach.
+xiii. Continuous Review: Periodically revisit the strategy to ensure its relevance and
+make adjustments based on evolving institutional needs and external shifts.
+By prioritizing and integrating these enablers, HEls can effectively operationalize their
+strategic goals and drive towards successful implementation.
+Page 15 of 63
+--- Page 16 ---
+Institutional Development Plans for Higher Education Institutions (HEls)
+Institute Development Plan (IDP) FRAMEWORK - Major
+Components (Parameters for Institutional Excellence)
+As stated above, The IDP needs to reflect an integrated approach that is mindful of the
+institution’s context, life cycle stage, location, character, and aspirations. While each
+parameter represents a vertical and has depth, the need to integrate these into an optimal
+whole cannot be overemphasised. The overarching purpose along with the aims of each
+unique institution are the key determinants of the mix of choices that will create excellence
+for the institution. The 9 Enabler Parameters are enumerated here (and elaborated in the
+Annexure section). While significantly interconnected and interdependent, they are
+articulated in a logical flow emerging from the Strategic choices of the HEI and their
+manifestation into the parameters of Enablers of Governance, Financial, to Academic,
+Research & Intellectual Property, Networking & Collaboration, Human Resources, Supportive
+& Facilitative, Physical and Digital. The sequence of approaching these has benefits to the
+planning process and subsequent iterations. It is imperative for the Institutions to configure
+the Physical, Digital enablers as foundational, albeit “purpose driven” elements of the IDP.
+While each of these are substantive and have “stand alone” depth, they provide the web of
+parameters for thinking through the plan, warranting an iterative, continuous and concurrent
+approach to the journey towards Excellence.
+A. Governance Enablers
+1. Overview:
+In the context of HEls, governance refers to the systematic approach by which
+educational institutions are directed, controlled, and held accountable. It
+encompasses the methods and frameworks utilized for decision-making, risk
+monitoring, and performance enhancement.
+a) While it is process-oriented, good governance is integral to establishing an
+institution's core values and culture. Governance needs to balance and integrate
+the “belief systems” and the “control systems”.
+b) Governance within HEIs not only revolves around institutional structures and
+policy development but also entails a comprehensive mesh of legislative &
+regulatory frameworks, financial accountabilities, as well as informal structures
+that guide institutional behaviour.
+c) Good governance in HEls seeks to strike a balance between institutional autonomy
+and accountability. It can be a self-driven initiative by HEls to demonstrate
+responsible autonomy, an alignment with modern public management strategies,
+or a protective measure against potential mismanagement.
+Page 16 of 63
+--- Page 17 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+The Importance of Effective Governance in HEls
+a)
+b)
+¢)
+d)
+e)
+f)
+8)
+Institutional Structures: Establishing active leadership bodies like the Board of
+Governors (BOG), Senate, or Syndicate, Academic Councils, Finance
+Committees, and other prescribed and required bodies that ensure decision-
+making coherence and clarity.
+Balanced Autonomy: Offering autonomy to HEls should be complemented by
+transparent accountability mechanisms, promoting responsible — self-
+management.
+Quality Assurance: Robust processes and quality control mechanisms are vital
+to maintain and elevate academic standards.
+Stakeholder Inclusion: Encouraging comprehensive stakeholder involvement,
+especially from alumni, enriches decision-making by integrating diverse
+perspectives.
+Financial Independence: Setting levels of financial autonomy aids in steering
+the institution towards self-sustainability.
+Alignment with Society: Effective governance aligns academic values with
+societal expectations, ensuring institutions remain relevant and responsive.
+Leadership and Strategy: Emphasizing leadership skills, combined with a clear
+strategic vision, equip institutions to tackle present challenges and future
+uncertainties.
+Core Objectives of Adopting Good Governance in HEls:
+a)
+b)
+c)
+d)
+e)
+f)
+8)
+h)
+i)
+Bolstering stakeholder trust and confidence.
+Laying a solid foundation for enduring institutional success.
+Positioning the institution to adeptly navigate evolving external dynamics.
+Facilitating the smooth execution of institutional development plans.
+Nurturing employability and fostering a vibrant start-up ecosystem.
+Driving institutional brilliance by balancing autonomy with accountability.
+Embracing innovative educational mediums, including e-learning and distance
+education.
+Serving the diverse needs of all students, emphasizing inclusivity like
+promoting female participation, inclusion of SEDGs and PwD.
+Adapting to the rising global dimension of higher education and leveraging
+insights from research and innovation.
+Ensuring consistent quality assurance through structured governance.
+Page 17 of 63
+--- Page 18 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+2. How to improve Governance:
+Ensuring fully functional BOG/ Senate/ Syndicate/ Academic Council
+a) Providing autonomy with full accountability wrt all aspects of governance in
+HEI
+b) Putting in place processes and quality assurance mechanisms
+c) Involving all stakeholder including alumni in the processes leading to
+appointments/nominations/selections in the | BoG/Senate/Syndicate/
+Academic Council
+d) Various levels of financial autonomy to be defined including striving for self-
+sustainability
+e) Focusing on good governance which strives to preserve the integrity of the
+academic value system while at the same time adequacy of control systems.
+B. Financial Enablers and Funding Models (Resource Generation)
+1. Overview
+Financial Enablers are the heart of the financial system and a prerequisite for its
+operation. Financial Enablers comprise the technical systems that deal with payments
+and financial instruments. A robust financial Enablers system would help the
+institutions to make and receive payments safely and efficiently along with creating
+routes for sustained research funding options.
+A crucial enabler for HEls would also be the inculcation of a professional and
+contemporary Financial Management approach within the compliance, regulatory and
+statutory boundaries. While Compliant Accounting is a non-negotiable requirement,
+Management accounting and data-based decision support can hugely strengthen the
+HEls ability to navigate issues and options for financial structuring and resource
+mobilisation.
+2. How to improve Financial Enablers:
+a) Funding Sources: Identify and prioritize the existing & additional sources of
+funding for the development of financial enablers such as government grants,
+project overheads, research consultancies, patents, alumni donations, private
+sector partnerships, and fundraising campaigns.
+b) The public funded as well as other HEls must strive to work on a sustainable
+revenue model where the revenues are derived from the following main sources
+such as:
+i. tuition fee from the students
+ii. | government grants and subsidies
+Page 18 of 63
+--- Page 19 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+overheads earned on the sponsored research and development projects
+from the Government and private/ corporate sector
+endowments, philanthropic contributions and other income like CSR,
+royalties on intellectual property (IP)/ patents etc.
+c) In a fully developed HEI, each of these sources need to contribute a balanced
+percentage to the total revenue, depending on the strategy & size of the HEls.
+Therefore, HEls must also focus on expanding their revenue sources in a “fit for
+strategy” model.
+vi.
+vii.
+c.
+Budget Allocation: Determine how the budget will be allocated among
+different areas of the institution, such as Enablers of development, faculty
+and staff salaries, student services, and research initiatives.
+Transparency: Ensure that all financial transactions are transparent,
+accountable and auditable to maintain trust and credibility with
+stakeholders.
+Financial Sustainability: Develop a long-term financial plan that includes
+measures to ensure financial sustainability, such as diversifying income
+streams, controlling costs and increasing efficiency.
+Investment Strategy: Develop an investment strategy that maximizes
+returns while minimizing risk, to ensure that the funds generated from
+investments are used effectively to support the development of financial
+Enablers. The garnering of resources and their deployment including
+constructive policy recommendations for Funding Regulation and
+management can also be significantly aided.
+Collaboration: Foster collaboration and partnerships with government
+agencies, private sector entities, and bi-and multi-lateral agencies, other
+institutions to leverage resources and expertise to support the
+development of financial Enablers.
+Stakeholder Engagement: Engage with key stakeholders, such as students,
+faculty, staff, alumni, governments, local industry, and local communities,
+civil society and international bodies, to understand their needs and
+priorities for the development of financial Enablers.
+Additional Outreach Models for Fund Generation
+Academic Enablers
+1. Overview
+The Academic Enablers are a set of reference points which give institutions a shared
+starting point for setting, describing and assuring the quality and standards of their
+higher education courses & offerings. A desirable set of academic Enablers ensures a
+Page 19 of 63
+--- Page 20 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+healthy and progressive learning environment resulting in energy and interest which
+ultimately promotes better learning performance.
+It is the responsibility of an institution to create an environment that not only assures
+learning, but also pays special attention to the mental and physical well-being of the
+students. HEls need to provide a learning atmosphere to every student where they
+acquire knowledge and skills to grow as a responsible individual.
+2. How to develop & improve Innovative Academic Enablers:
+a) Development:
+Innovative academic Enablers can be developed by means of various activities for
+creating innovators by means of Planning, Implementation, Evaluation, Feedback, and
+self-study report. The following steps may be helpful for developing innovative
+academic Enablers:
+i. Conceiving and developing a robust institutional strategy based on
+adequate and appropriate analysis, choice making in line with the vision of
+the institution.
+ii. Creating & retaining a strong faculty base through faculty recruitment,
+performance analysis and regular development programmes.
+iii. | Designing flexible curriculum and introducing multidisciplinarity in HEls
+including appropriate integration of Vocational Education, Training and
+Skilling into the curriculum.
+iv. | Using appropriate industry experts in curriculum design & implementation.
+v. Appropriate Mechanism & Enablers for the Upgradation of Curriculum.
+vi. Developing leaders as role models through commitment & multi-tasking
+analysis.
+vii. Developing students by offering a confidence-building education model
+through student integrated development model.
+viii. Adhering to a specified/defined/regulated Student-Teacher Ratio for
+various forms of learning & assessment.
+ix. Growth & expansion of the university through environmental analysis.
+x. _ Introducing technology in the form blended mode of learning, Creation and
+delivery of digital content etc..
+b) Improvement:
+i. Learning and Teaching excellence, cooperative education, and research.
+ii. —Imparting high-quality professional and application-based education in a
+wide range of interdisciplinary areas.
+Page 20 of 63
+--- Page 21 ---
+vi.
+vii.
+viii.
+xi.
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Approach by academia by ensuring 360° access to teaching & learning, skill
+& capacity building resources, research and Intellectual Property (IP)
+creation, protection & deployment.
+Embedding appropriate skills and employability skills, including soft skills,
+life skills and foundational technology skills into learning.
+Curriculum to be a suitable blend of theory and practice and also available
+digitally that fosters potential minds to be active contributors in the process
+of social transformation of the habitat.
+Intensive and balanced use of the latest technology, i.e. AR, VR, ML/AI
+Practice-oriented and industry required research and pedagogy to make
+teaching and research unique, such as including Industry 4.0/5.0
+Implementation of blended mode of learning including digital and online
+learning
+Academic excellence and Professional Education delivery — student centric
+teaching and learning process, top quality professional education to
+students
+Faculty: a high proportion of full-time faculty 45-80%} with Ph.D. or
+required industry expertise and quality research publications, IP Creation,
+Protection & Deployment. Incentivising industry and socially linked
+collaborative teaching and development of pedagogic material is a
+powerful enabler.
+Regular and continuous capacity building of faculty through refresher
+programs and training of trainers (in case of VE) especially in the following
+areas:
+a) Implementation and operationalisation of National Credit
+Framework (NCrF)
+b) Implementation and operationalisation of Academic Bank of
+Credits (ABC)
+c)Ilmplementation and operationalisation of National Higher
+Education Qualification Framework (NHEQF) with level descriptors
+d) Integrating Vocational Education, Training & Skilling into HEls
+e) Implementation and operationalisation of National Skills
+Qualification Framework (NSQF) with level descriptors
+f)Implementation and operationalisation of Indian Knowledge
+System (IKS) and Future Skills
+Page 21 of 63
+--- Page 22 ---
+Institutional Development Plans for Higher Education Institutions (HEls)
+xii. | Curriculum for sensitization in terms of providing educational program for
+inculcating empathy, environmental understanding, PwDs and other
+special sections of the society.
+xiii. Excellent physical and soft Enablers, modern Labs, with ubiquitous
+technology and learning platforms embedded
+xiv. | Create world class Open Online/ Digital/ Blended learning Resources for a
+Global student/ Audience (OCW, MOOCs)
+xv. Provide Educational Leadership to other Institutions, Nationally and
+Globally
+xvi. Inspiring and motivating learning environment - student or learner-
+centered; knowledge- centered; innovation-centered; and community-
+centered
+xvii. Promote commercial business ideas while mentoring the student and
+becoming part of their Start-up ecosystem.
+D. Research, Intellectual Property, and Supportive Enablers
+1. Overview
+Intellectual enablers, such as basic research, ideas, general-purpose technologies, and
+languages, serve as the foundation for a wide range of downstream productive
+activities. These enablers facilitate information production, innovation, education, and
+various socially valuable activities. Intellectual enablers are the "building blocks" of
+cumulative
+, dynamic systems. Additionally, intellectual property rights play a crucial
+role in protecting and commercializing research outcomes.
+2. How to Develop Research, Intellectual Property & Supportive Enablers
+To enhance new knowledge creation and intellectual property enablers, academic
+institutions can implement various strategies, including:
+a) Involving all stakeholders in research, innovation, and scholarly publication.
+b) Cultivating a culture of innovative thinking.
+c) Promoting systematic institutional research.
+d) Collaborating with universities, research centres, industry, and the community.
+e) Focusing on quality research programs and intellectual property development.
+f) Encouraging faculty participation in research projects.
+g) Setting
+aspirational goals and creating resource optimization mechanisms.
+h) Monetizing research outcomes through IP protection and commercialization
+efforts.
+Page 22 of 63
+--- Page 23 ---
+i)
+k)
+m
+n)
+a)
+b)
+¢)
+d)
+4.
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Identifying commercially valuable research outcomes and engaging with industry
+and fostering collaborations with industry stakeholders.
+Providing training programs for researchers on research monetization and IP
+protection.
+Defining clear licensing and technology transfer processes.
+Offering mentorship and support to startups.
+Exploring funding mechanisms and cultivating an entrepreneurial culture.
+Continuously monitoring and evaluating research monetization efforts.
+Research Enablers
+Recognising and engaging with Government, Industry, Academia, and Society as
+key stakeholders in research and development activities, with evolving roles in a
+knowledge-based society and economy.
+Choosing to play an appropriate role in advancing knowledge and creating a robust
+research ecosystem relevant to the Institution’s aims.
+Pursuing appropriate opportunities for the institution would include establishing a
+powerful research vision and portfolio. Improving resource availability, and
+enhancing research ecosystem support is a powerful driver.
+Enabling interventions in the institution may involve creating research
+management structures, industry liaison offices, and fundraising offices to
+strengthen governance and collaboration.
+Supportive and Facilitative Enablers
+Supportive and facilitative enablers encompass intellectual and emotional aspects that
+foster a sense of belonging, pride, and ownership among HEI stakeholders.
+a)
+b)
+c)
+To develop emotional surplus as enablers, universities need to provide an
+appropriate working environment, transparency in administration, and a culture of
+trust and respect.
+Strategies for developing emotional surplus include learner-centric practices,
+visionary leadership, mutual trust, core values, accountability, and social
+responsibility.
+Inclusion and diversity initiatives involve supporting underrepresented learners
+through mentorship and buddy inititaives, promoting diversity, mitigating costs,
+providing financial assistance, and creating an inclusive curriculum and facilities.
+Page 23 of 63
+--- Page 24 ---
+E.
+1.
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Human Resources Management Enablers
+Overview
+Balancing the need for autonomy and flexibility within a Higher Education Institution
+(HEI) while adhering to regulatory and HR practices can be challenging but essential
+for fostering innovation and academic excellence. The emphasis here is the careful
+balance and interlinkage between principles and precepts. Here are some strategies to
+strike that balance:
+a)
+b)
+¢)
+d)
+e)
+f)
+8)
+Institutional Autonomy and Policy Development:
+HEls need to establish their own policies and guidelines within the broader
+framework of regulatory requirements. This needs flexibility in tailoring HR
+practices to suit the institution's unique requirements and culture, while operating
+within the regulatory compliances.
+Engage Faculty and Stakeholders:
+Involve faculty members, administrators, and other stakeholders in the
+development of institutional policies and practices. Their input can help create a
+sense of ownership and ensure that policies align with the institution's values and
+goals.
+Clear Communication:
+Clearly communicate the rationale behind HR practices and the importance of
+compliance with regulatory bodies. This helps build understanding and support for
+these practices among faculty and staff.
+Customize Where Appropriate:
+Identify areas within HR practices where customization is possible without
+compromising compliance. For example, while adhering to the minimum
+qualifications required by regulatory bodies, HEls can consider additional
+qualifications and expertise that align with their specific programs and research
+focus.
+Flexibility in Implementation:
+Provide flexibility in how HR practices are implemented. Allow departments or
+academic units some autonomy in adapting certain policies to better suit their
+specific needs and academic disciplines.
+Regular Review and Feedback:
+Establish a system for regular review of HR practices. Solicit feedback from faculty
+and staff to identify areas where flexibility can be introduced or where existing
+policies may need adjustment to better align with the institution's goals.
+Compliance Teams and Committees:
+Page 24 of 63
+--- Page 25 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Create dedicated compliance teams or committees responsible for ensuring that
+HR practices align with both regulatory requirements and institutional autonomy.
+These teams can serve as an agile bridge between regulatory compliance and
+institutional goals in a changing world.
+h) Training and Awareness:
+Provide training and awareness programs to faculty and staff regarding the
+importance of regulatory compliance and how it can coexist with institutional
+autonomy. Ensure that they understand the benefits of both.
+i) Seek Regulatory Clarifications:
+In cases where there is ambiguity in regulatory requirements, engage with
+regulatory bodies to seek clarifications or exemptions that align with the
+institution's goals and autonomy.
+j) Continuous Improvement:
+Encourage a culture of continuous improvement where HR practices are
+periodically assessed and refined to better meet the evolving needs of the
+institution. Flexibility should extend to adapting practices based on lessons
+learned.
+k) Transparency in Decision-Making:
+Ensure transparency in decision-making processes related to HR practices. Faculty
+and staff should understand how decisions are made and how they contribute to
+the institution's mission.
+1!) Celebrate Autonomy Success Stories:
+Showcase examples of how institutional autonomy has led to positive outcomes,
+such as innovative teaching methods or research breakthroughs. Highlighting
+these successes can inspire further autonomy while maintaining compliance.
+2. How to - Contextualization of key HR practices in Higher Education Institutions
+Balancing autonomy and flexibility with regulatory and HR practices in HEls also
+requires a thoughtful and collaborative approach. It's crucial to recognize that
+compliance and autonomy are not mutually exclusive but can complement each other
+when managed effectively. By involving stakeholders, fostering open communication,
+and continuously adapting policies, HEls can achieve this balance while thriving in a
+dynamic academic environment.
+(HEIs) need to include regulatory and statutory requirements, an_ illustrative
+enumeration is provided below:-
+a) Recruitment and Selection (Faculty Hiring):
+i.  HEls, as per Regulatory guidelines, must adhere to specific academic and
+research requirements for faculty positions.
+Page 25 of 63
+--- Page 26 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+ii. | Recruitment processes in HEls should align with academic standards set by
+regulatory bodies and the institution's mission.
+iii. Compliance involves ensuring that faculty hires meet educational
+qualifications, research experience, and other criteria mandated by UGC,
+AICTE, and institutional policies.
+b) Onboarding and Orientation (Faculty Orientation):
+i. Regulatory guidelines recommend that faculty members receive
+comprehensive orientation regarding the institution's culture, academic
+programs, and policies.
+ii. Orientation includes familiarizing new faculty with departmental
+expectations and research opportunities, and ensuring compliance with
+regulatory and institutional guidelines.
+iii. | Compliance may include providing information on ethical research conduct
+and academic integrity, as stipulated by these regulatory bodies.
+c) Training and Development (Faculty Development):
+i.  HEls, in accordance with regulations, invest in faculty development to
+enhance teaching and research skills.
+ii. | Training may include workshops on pedagogy, research methodologies,
+and academic technology, aligning with the guidance provided by these
+regulatory bodies.
+iii. | Compliance involves ensuring that faculty engage in ongoing professional
+development as mandated by regulatory guidelines, and accreditation
+requirements.
+d) Performance Management (Faculty Evaluation):
+i. Regulatory guidelines emphasize the importance of regular faculty
+evaluations based on teaching, research, and service.
+ii. | Faculty performance reviews are critical for promotion and tenure
+decisions, with criteria and processes aligned with the recommendations
+of these regulatory bodies.
+ii. Compliance entails adhering to established evaluation criteria and
+processes set by UGC, AICTE, and accrediting agencies.
+e) Compensation and Benefits (Faculty Compensation):
+i. | Faculty compensation, as per Regulatory norms, includes salaries, research
+grants, and benefits packages that meet regulatory requirements.
+ii. | HEls need to offer competitive compensation to attract and retain top
+academic talent, ensuring compliance with labour laws and guidelines
+provided by these regulatory bodies.
+Page 26 of 63
+--- Page 27 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+f) Employee Relations (Faculty Relations):
+i. Building positive faculty relationships, as suggested by Regulations, is
+essential for academic collaboration and institutional harmony.
+ii. | Employee relations may include addressing faculty concerns and conflicts,
+and following institutional policies and guidelines in line with regulatory
+requirements.
+iii. | Compliance includes handling grievances in accordance with the processes
+prescribed by regulatory bodies, and labour laws.
+g) Workforce Planning (Faculty Workforce Planning):
+i. HEls plan for faculty needs based on academic program growth and
+retirements, taking into consideration Regulatory recommendations.
+ii. | Succession planning, aligned with these regulatory bodies' guidelines,
+ensures a steady pipeline of qualified faculty.
+iii. Compliance involves aligning workforce planning with accreditation
+requirements, regulations, and academic goals.
+h) Diversity and Inclusion (Faculty Diversity):
+i.  HEls, guided by Regulatory guidelines, aim to create diverse faculty teams
+to enrich the learning environment.
+ii. Inclusion initiatives, in accordance with Regulatory guidelines, promote
+equity and equal opportunities for faculty from diverse backgrounds.
+iii. Compliance includes tracking and reporting on diversity metrics and
+implementing inclusive hiring practices as recommended by these
+regulatory bodies.
+i) Legal Compliance (Faculty Contracts and Labor Laws):
+i. | HEls must adhere to employment contracts, tenure policies, and labour
+laws, in compliance with regulatory, and statutory requirements.
+ii. Compliance ensures that faculty members' contractual rights are
+protected, and faculty contracts may include terms related to teaching
+loads, research expectations, and tenure criteria in line with regulatory
+guidelines.
+j) Talent Acquisition and Succession Planning (Faculty Recruitment Strategy):
+i. HEls, in alignment with regulatory, and statutory requirements,
+strategically recruit faculty to fill academic gaps and align with research
+priorities.
+ii. | Succession planning involves identifying potential future academic leaders
+as per the recommendations of these regulatory bodies.
+Page 27 of 63
+--- Page 28 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+iii. | Compliance includes adhering to fair and transparent faculty recruitment
+processes as outlined by regulatory guidelines, and institutional policies.
+These HR practices, when contextualized with references to regulatory, and statutory
+requirements, ensure that HEls ethos and purpose, not only meet regulatory standards
+but also uphold academic excellence, compliance with accreditation standards, and a
+positive working environment for faculty members and students.
+For Students and Learners:
+a) Career Development Services: Provide robust career counselling and placement
+services, including internships, industry projects, and job placement assistance.
+b) Skill Development Workshops: Organize regular workshops on soft. skills,
+leadership, and industry-specific skills to prepare students for the workforce.
+c) Scholarships and Financial Aid: Offer a variety of scholarships, grants, and financial
+aid options to support students from diverse backgrounds.
+d) Mentoring Programs: Establish mentoring programs pairing students with faculty,
+alumni, or professionals for guidance and support.
+e) Student Exchange Programs: Facilitate international exchange programs to
+provide global exposure and learning opportunities.
+f) Safeguarding and well-being: Ensuring the protection and well-being of students
+within these approaches is an important part of the ethos and the commitment of
+the HEls.
+For Staff:
+a) Professional Development: Invest in continuous education and training programs
+to enhance the skill set of administrative staff.
+b) Well-being Programs: Implement initiatives that support the mental and physical
+well-being of staff, such as health benefits, gym memberships, and counselling
+services.
+c) Performance Management Systems: Develop clear performance appraisal
+systems that reward excellence and provide constructive feedback.
+d
+Flexibility and Work-Life Balance: Create policies that offer flexible working hours
+and telecommuting options to support a healthy work-life balance.
+For Faculty and Researchers:
+a) Research Grants and Funding: Provide accessible information and support for
+faculty to apply for research grants and funding opportunities.
+b) Sabbatical Leave: Offer sabbatical leave for faculty to pursue research interests,
+further study, or community engagement projects.
+Page 28 of 63
+--- Page 29 ---
+¢)
+d)
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Teaching Excellence Resources: Provide resources and support for pedagogical
+innovation and teaching excellence, such as access to the latest educational
+technology.
+Collaboration Opportunities: Foster opportunities for collaboration with industry,
+other institutions, and within the university to encourage cross-disciplinary
+research and teaching.
+Cross-Sectional Enablers:
+a)
+b)
+¢)
+d)
+e)
+F.
+1.
+Technology and_ Infrastructure: Ensure state-of-the-art technological
+infrastructure is available to support the educational and research activities of
+students, faculty, and staff.
+Diversity and Inclusion Programs: Develop programs that promote diversity,
+equity, and inclusion across all levels of the institution.
+Recognition and Awards: Institute recognition programs to celebrate the
+achievements and contributions of students, staff, faculty, and researchers.
+Communication Platforms: Establish effective communication channels that
+facilitate open dialogue and information sharing within the HEI community.
+By implementing these human resource enablers, HEls can create a nurturing and
+productive environment for all members of their community, fostering thriving,
+personal and professional growth.
+Enablers for Networking and Collaborations
+Overview:
+Networking plays a pivotal role in the growth and development of Higher Education
+Institutions (HEIs). These institutions serve as crucibles of knowledge and innovation,
+not only for students but also for the broader society. Recognizing the significance of
+networking, HEls aim to establish robust connections with various stakeholders to
+enhance their impact and relevance.
+a. Networking and Its Societal Impact: i. Beyond academic endeavours, HEls can
+contribute to civil society and the development sector through high-quality
+education, impactful research, on-ground initiatives, and advocacy. HEls are
+shifting their focus from merely monitoring inputs to incentivizing outcomes
+and societal impacts. Establishing partnerships with Centres of Excellence and
+institutions across borders is essential for achieving excellence in research and
+teaching. HEls need to engage deeply with a diverse range of stakeholders,
+including other academic/research institutions, industry, and civil society.
+Page 29 of 63
+--- Page 30 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+b. ALUMNI networks: HEls, as hubs of learning and research, play a crucial role
+in shaping the future of students who remain associated with them for various
+periods, ranging from 2 years in post-graduate programs to 5 years in
+integrated Masters/PhD programs. Moreover, the HEI's influence continues
+throughout their careers, which may span up to 60 years. This enduring
+connection underscores the importance of alumni as valuable stakeholders
+who contribute significantly to the governance, management, and growth of
+HEls. To enable effective networking and connectivity, including support for
+endowments, new projects, funding, knowledge sharing, and mentorship,
+HEls need to establish trust and facilitate lifelong engagement.
+2. Developing Networking Enablers:
+a. Effective networking, encompassing connections within and beyond the
+academic realm, is a cornerstone of HEls' ability to excel as global leaders in
+education.
+a
+A collaborative network model needs to be thoughtfully structured, involving
+industry in various aspects of HEI activities, notably the teaching-learning
+process. This encompasses collaborative course planning, curriculum
+development, training, evaluation, employment opportunities, continuous
+learning, and research and development. Industry-institute interaction, when
+nurtured effectively, can yield substantial benefits for both parties.
+Additionally, HEls need to actively engage with industry, alumni, other higher
+education and research institutions, as well as the wider community, fostering
+9
+synergies that drive collective development.
+d. Steps to Develop Networking Enablers for HEls:
+i. HEls, being institutions that exist "by the society and for the society," nee
+to embrace partnerships and collaboration to fulfil their objectives and
+make substantial societal contributions.
+ii. Alumni engagement, needs to be leveraged across multiple processes,
+industries, student feeder institutions, other HEls, and national and
+international universities. This represents a significant opportunity for
+mutual benefit and societal impact.
+iii. Well-structured collaborations, when executed effectively, lead to a
+positive-sum game. HEls that prioritize effective networking can seize more
+opportunities for self-improvement and mutual development while
+enhancing their brand image.
+Collaboration and partnership-building with local, national, and global agencies can
+further support a range of enablers, including innovative academic initiatives,
+intellectual property development, and emotional support programs.
+Page 30 of 63
+--- Page 31 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+G. Physical Enablers
+1. Overview:
+A physical Enablers consists of the basic physical structures needed for an economy to
+function, such as transportation networks, electricity grids, sewage systems, and waste
+disposal facilities. Creating an attractive and functional physical infrastructure is as
+important as creating an infrastructure compliant to statutes, regulations, codes and
+all relevant regulatory frameworks and operated within them as well. Physical
+Enablers can support brand building. Physical Enablers needs to support both
+academic and research activities of various schools and departments of universities. In
+public universities, the physical Enablers investment is done by the government
+through various independent authorities whereas, in private universities, the decision
+is taken by a sponsoring organization.
+2. How to improve the Physical Enablers:
+Physical Enablers are often imagined as requiring significant financing to the HEls and
+therefore alternative & innovative measures to fund the Enablers may need to be
+explored.
+Campus Planning and Environmental Principles:
+a. Integrated Activity: Design the campus layout so academic, research, cultural,
+and operational facets harmoniously interact.
+b. Preservation of Essence: Uphold the campus as a vital component of the
+university's living and learning mission, maintaining its aesthetic appeal.
+c. Environmental Responsibility: Champion environmental stewardship by
+enhancing energy efficiency, minimizing waste, and reducing environmental
+impacts.
+d. Facility Integration: Ensure facilities and equipment are integrated, especially
+for Vocational Education, Training, and Skilling.
+e. Inclusivity and Safety: Ensure accessibility for Persons with Disability (PwD),
+promote gender inclusivity, and ensure a zero-tolerance approach towards
+discrimination, ragging, bullying, including cyberbullying.
+f. Safety and Risk Management: Prioritize the safety of the campus community
+and establish protocols for risk management in design and operation.
+g. Holistic Development: Provide facilities for artistic expression, sports, fitness,
+and health, including mental health services like counselling and wellbeing
+centres.
+h. Resource Management: Emphasize knowledge management as a principle for
+resource generation and management.
+Page 31 of 63
+--- Page 32 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+3. Green Campus Strategy:
+a. Ecological Preservation: Protect the natural topography, minimize carbon
+footprint, and conserve water and natural resources.
+b. Environmental Awareness: Foster sensitivity towards the environment and
+promote awareness campaigns.
+c. Sustainable Infrastructure: Prioritize the use of recycled materials and
+consider heat island effects in construction designs.
+d. Sustainable Mobility: Reduce fossil fuel consumption with efficient transport
+strategies.
+e. Technology and Energy: Embrace alternative energy sources and adapt to eco-
+friendly technologies.
+H. Digital Enablers:
+1. Overview
+Digitalization has taken the world by storm due to its capacity to cause substantial
+transformations in how institutes function by improving their internal processes.
+Information and Communication Technologies (ICT) and its Enablers support have
+become an integral part of existence and learning experiences in all aspects of life. ICT
+has fundamentally changed the systems and processes of nearly all forms of institutes
+within their learning activities and governance. The presence of ICT in the education
+and research domains/sectors has made a substantial impact in the last few years.
+There are various advantages to digitalization including increased efficiency, increased
+productivity, lower operational costs, improved learner experience, higher agility,
+enhanced morale, improved communication, increased transparency, improved
+competitive advantage, and faster decision-making.
+With the world moving rapidly into digital media and other niche areas of technology,
+the role of ICT in education is becoming very significant and this will continue to
+advance in the 21st century. The ICT Enablers of the Institute would contribute in
+transforming the delivery quality of the teaching and learning process activities and
+seek to enhance the impact it would make for a much more effective way the academic
+programmes would be offered and delivered in the years to come.
+The HEls need to create a road map along with requisite modes of learning and
+teaching using ICT and virtual technologies to move towards the idea of ‘Digital
+Universities’. NEP 2020 also envisages investing in the creation of open, interoperable,
+evolvable, public digital Enablers in the education sector that can be used by multiple
+platforms and point solutions, to solve for India’s scale, diversity, complexity and device
+penetration
+Page 32 of 63
+--- Page 33 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+2. Digital & ICT Framework for HEIs:
+a. Infrastructure:
+i. Ensure a strong ICT infrastructure across all campuses for high-speed
+internet, communication, and digital information access.
+ii. Deploy a dedicated campus area network with multiple internet
+connectivity options and a central ICT centre.
+b. Data Management:
+i. Host in-house or cloud-based data servers with real-time monitoring,
+security, and structured Wi-Fi networks.
+ii. Create a digital content repository, encompassing coursework,
+multimedia content, learning games, AR, and VR modules.
+c. Teaching and Monitoring:
+i. Develop an online teaching platform with two-way communication and
+advanced tools for monitoring student progress.
+ii. Implement a dashboard for real-time monitoring of resources,
+environmental factors, and infrastructure utilization.
+d. Data Privacy and Security:
+i. Adhere to cyber security protocols, ensuring protection from external
+threats and natural disasters.
+ii. | Prioritize data privacy by processing personal data in a secure and
+lawful manner, recognizing individual rights.
+e. National Integration & Policy Adherence:
+i. Store credentials in national repositories, connecting student and
+faculty information through unique identifiers, as per government
+norms.
+ii. | Adhere to guidelines set by UGC and other relevant bodies, ensuring a
+consistent and trustworthy framework.
+iii. | Ensure compatibility and contribution to national missions, preparing
+for future growth and challenges.
+3. Implementing Digital Initiatives in HEIs:
+a. Digital Transformation:
+i. Transition to a paperless system, incorporating digital processing for all
+educational activities, and providing stakeholders with online access.
+Centralize admission processes, student fees, and faculty
+compensation through digital platforms.
+Page 33 of 63
+--- Page 34 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+b. Enhancing Digital Presence:
+i. Elevate the digital presence through dynamic websites, online teaching
+systems, computerized examination processes, and_ digital
+credentialing.
+ii. | Foster online networks for alumni, and support e-placement initiatives.
+c. Implementation Strategy:
+i. Aim for a phased digital transformation, spanning one to two years,
+either through in-house efforts or by collaborating with experienced IT
+organizations or EdTech companies.
+Summary
+The essence of institutional development for Higher Education Institutions (HEIs) is embodied
+in a strategic framework designed to advance excellence, inclusivity, and innovation across all
+facets of the educational landscape, in alignment with the National Education Policy (NEP) and
+all applicable regulatory requirements. This comprehensive and practical approach seeks to
+guide HEls in the creation of an Institution where every member of the educational
+community can thrive.
+At the core of this framework is a learner-centred development paradigm that intricately
+weaves curriculum enhancement with new knowledge systems. It's complemented by robust
+financial inclusivity initiatives and mentorship programs that support a diverse spectrum of
+learners, aligning with NEP's vision of inclusivity and equity in education while addressing
+employability and entrepreneurship.
+Empowering staff and faculty is another critical pillar, extending from purpose-informed
+recruitment processes to a culture that encourages continuous professional development.
+Faculty diversity is valued, nurturing talent, and offering pathways for career progression in
+line with and extending beyond global best practices. The pursuit of academic and research
+excellence necessitates an inclusive recruitment strategy that fosters collaboration within
+disciplinary and across-disciplinary research domains. Recognizing and celebrating faculty
+contributions to these areas is essential, showcasing the institution's commitment to
+integrating diverse knowledge systems into the academic fabric.
+Commitment to integrating community building and education excellence is vital.
+Acknowledging the emotional aspects of the academic journey, dedicated support services
+for the emotional well-being of the community are indispensable. Coupled with this is the
+imperative for pedagogical innovation, ensuring faculty are equipped with diverse teaching
+methodologies that cater to and value the heterogeneity of the student body.
+Strategic governance, infused with mission-driven perspectives, plays a pivotal role in steering
+HEls towards a future that values community engagement, industry relevance and outcome-
+oriented strategic planning. The development of appropriate facilities underscores the HEls'
+Page 34 of 63
+--- Page 35 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+dedication to creating spaces that reflect and honour the balance of traditional wisdom and
+contemporary knowledge creation and dissemination.
+To cultivate academic and research excellence within HEls, a comprehensive strategy aligned
+with NEP is indispensable. This strategy integrates a robust academic framework with state-
+of-the-art research & teaching facilities, emphasising faculty recruitment and development
+alongside industry partnerships.
+For students, it seeks to enable our national commitment to inculcate their lifelong learning
+and their pursuit of gainful and value-creating contributions to self and society. The process
+seeks not only academic prowess but also a demonstrated ability to think creatively and
+engage in problem-solving.
+HEls need to implement a comprehensive support system that emphasizes the importance of
+mental health, well-being, safeguarding, while balancing the pursuit of academic and research
+excellence with the well-being of the academic community.
+This framework is not merely a set of guidelines but a blueprint for HEls intent on embedding
+excellence into their institutional DNA, it positions Academic and Research Excellence and
+depth with width as cornerstones of an exemplary educational experience, aligning with the
+aspirations of NEP to cultivate a new generation of enlightened individuals equipped to
+navigate, thrive in and celebrate the diversity of the global village.
+Page 35 of 63
+--- Page 36 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Annexures
+A. Governance Enablers
+Fina Types of Details of its usage
+Infrastructure
+1. BoG/ Senate/ full functional
+Syndicate fully/ Majorly staffed
+defined roles and responsibilities and accountability
+involvement of alumni as major stakeholder
+2. Quality Well defined Processes
+Assurance Processes to capture various aspects of governance
+Clearly defined deliverables and outcomes
+3. Financial Striving for self-sustainability
+autonomy Generating external revenue sources
+Creation of Chair for Research in specific areas
+4. Leadership Effective leadership
+Strategic management
+Laying down objectives and targets
+5. Vision, Mission Prepare Vision and mission document.
+and Roadmap Evolve Shared Vision through detailed discussions with
+for the HEI stakeholders.
+Short, medium and long-term (2, 5, and 10 years) Plan
+document
+To reliable consultants of repute and or insource capability
+as needed.
+Templates designed and given to HODs/ Section In-charges
+for Roadmap preparation-
+6. Close monitoring Parameters for performance to be finalized by appropriate
+by IT/ Web-based
+based
+Management
+Information
+System
+Committee. Source of feedback, Also UGC, and AICTE
+guidelines to be kept in mind.
+Academic system should be implemented on priority.
+Page 36 of 63
+--- Page 37 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Risk e At least yearly meeting with insurance company
+Management representatives to discuss scenarios for mitigating risks
+Analysis (legal, safety, financial, natural disaster preparedness,
+environmental, hazards, etc.)
+External e Establish an external advisory board consisting of
+Advisory Boards prominent industrialists, academics, and governmental
+officers to advise on the running and make-up of the
+School.
+e Board to meet at least once per semester in conjunction
+with a student presentation or other function
+Student e Evolve Regular 360 Degree feedback for all faculty and
+Feedback consistently monitor and act upon the observations.
+e Methodology to be proposed by Faculty members through
+HODs.
+e Feedback to be taken on a regular basis and faculty
+members to be motivated to improve their delivery
+Page 37 of 63
+--- Page 38 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+B. Financial Enablers and Funding Models (Resource Generation)
+S. No. | Types of Financial Details of financial infrastructure
+infrastructure
+1. Financial Policies e The policies shall outline the roles and responsibilities of
+various university/ institution officers and organizations
+in managing the university's financial assets.
+2. Action Plan and e Finalize Action Plan based on the proposed IDP
+Budgets e Define budget line items (Income: fees, grants if any,
+research projects, endowments, CSR funds, donations,
+etc., Expenses: salaries, utilities, maintenance, etc.)
+e Budget granularity to be monthly for the first year,
+quarterly for the next 4 years
+e Indicate clear responsibility, milestones, and timelines
+for each activity
+e Finalize 1-year and 5-year budget forecast
+e Detail out one year Capital Budget, Recurring Budget
+e Allocate funds and put these in a separate account
+e Utilize funds and track spending against milestones per
+budget.
+e Revisions to the budget are to be approved only after a
+meeting and discussion with the budget committee.
+e Planning of recurring and non-recurring expenditures for
+each department. Consumables, etc.
+e Separate budget for Non-Recurring and Recurring
+expenditures.
+e HODs to prepare details for departments.
+3. Main sources of e tuition and other fees from the students
+revenue to be
+developed
+e government grants and subsidies
+e consultancy fees and overheads earned on the
+sponsored research and development projects from the
+Government and private/ corporate sector
+e endowments, philanthropic contributions, and other
+income like CSR, royalties on intellectual property (IP)/
+patents etc.
+Page 38 of 63
+--- Page 39 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Close liaison with
+GOI ministries/
+agencies and others
+for funding and
+Access to external
+grants and funding
+More than 20 ministries of the Government of India
+offer Projects/ Research Projects for HEls.
+Proforma for financial assistance is to be procured from
+the concerned Ministries.
+Widening the responsibility for getting grants from all
+appropriate source
+Standardized proforma/ template for new R& D /
+Modernization proposals for funding by the Government
+of India/ other external agencies.
+Templates to be designed and prescribed in
+consultations with respective heads and deployment of
+SOPs.
+IRG scheme in each
+department
+Commercial Utilization of existing facilities: Collection of
+information indicating the strength of each department
+& the lab equipment/instruments available for use by
+external agencies
+Consultancy by Each Department: The strength of each
+department May be circulated and advertised in
+Newspapers.
+Funding from external funding agencies
+Financial/
+Investment
+Committee
+A financial/investment committee is responsible for
+making decisions regarding the investment and
+reinvestment of funds, purchasing and selling securities
+belonging to the endowment, or other long-term
+university assets, as well as prescribing and approving
+investment policies for university investment agents.
+Staff providing
+financial services
+Finance team need some specific roles and incumbents
+like a chief financial officer, treasurer, assistant treasurer
+as dedicated resources ; and /or access to capabilities
+like chief investment officer, accountants, clerks, Data
+Entry Clerks, CA, etc.
+Page 39 of 63
+--- Page 40 ---
+c.
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Academic Enablers
+S.No. | Types of Innovative | Details of innovative academic infrastructure & its usage
+academic
+infrastructure
+1. Courses cateringto |e The institutions need to provide for giving a varied
+professional/future choice of relevant programs.
+requirements e Courses to allow for in-depth learning of students as per
+their interest allowing for future growth of the student.
+e =©Multidisciplinary and relevancy of programs
+2. Curriculum- e §=The curriculum should be updates regularly to cater to
+updated as per the dynamic requirement of the changing employment
+industry landscape.
+requirements e programs to suit the industry requirements both in short
+term and for future readiness.
+e Industry linked/ internship/ apprenticeship embedded
+programs.
+e =Modularization of curriculum to enable Multiple Entry-
+Multiple Exit options
+3. Curriculum e =The curriculum needs to focus on inculcating basic skills
+embedded with important for increasing the employment avenues and
+Employability Skill
+readiness.
+Adding Employability Skills (ESs) across all disciplines like
+Constitutional values/ Citizenships, universal values;
+Career Development & Goal Setting; Becoming a
+professional in 21st Century; Communication Skills;
+English Skills; Inclusivity and Diversity including Gender
+sensitization, PwD etc.; Digital Literacy/ Skills/ digital
+fluency; Financial & Legal Literacy; Start-up management
+and Entrepreneurship; Customer Service orientation;
+and Job readiness and exam preparation
+Curriculum to focus on competencies and skills like
+Critical thinking and problem solving; Creative thinking
+and innovation; Analytical Thinking; Adaptive Thinking;
+Design Thinking & Creativity; Computational thinking;
+Social intelligence; Cross cultural competency; New
+media literacy; Virtual collaboration; Decision Making;
+Conflict resolution and negotiations etc
+Page 40 of 63
+--- Page 41 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Curriculum HEls in education & skilling ecosystem need to bring the
+embedded with Skill core skills that are used in the era of digitization and
+Enhancement automation like Al, Block-Chain, loT, drones, Industry 4.0
+Courses and beyond, etc. as also integrate 21st-century digital
+skills wherever required.
+Curriculum The future skills would need to be developed in the
+embedded with emerging technology areas keeping in view the
+emerging important foundational technologies fundamentally
+technologies to be
+integrated with
+future of work
+changing the nature of work.
+Some of these technologies are Artificial Intelligence and
+machine learning; Robotic Process Automation/ hyper
+automation; Data Analytics; loT/ IloT; Blockchain; Cyber
+Security; Cloud Computing; Social & Mobile; 3D Printing;
+Augmented reality/ virtual reality/ extended reality
+(AR/VR/ XR); Digital content development: simulators,
+digital twins, Metaverses. etc
+Development of centers that will continuously upgrade
+the curriculum and at the same time incorporate 21st
+century skills in the credit system — which includes
+communication, collaboration, creativity, problem
+solving, initiative, emotional stability, physical fitness,
+confidence to be best at the world stage etc
+Center for Curricular
+& Life Skills
+Development
+(CCLSD)
+Full strength as per sanctioned post
+Faculty/ teaching
+Staff
+Qualified, Experienced, and committed faculty is an
+asset of the organization.
+Regular upgradation of knowledge
+Focused on research activities and motivated students
+to involve in research to create new knowledge or to do
+innovations.
+SMEs from the industry may be engaged as teaching
+staff/trainers/ instructors.
+Be role models for students by providing appropriate
+guidance
+Create new projects (aligned to COE), develop expertise
+and present it in peer conferences and create a platform
+for continuous improvement
+Page 41 of 63
+--- Page 42 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Center for Faculty
+Development (CFD)
+Exchange/internship programs with industry to cross
+pollinate skills
+Facilities to learn from the best in the world, with
+appropriate tools for research as well as tools for
+imparting new age education such as videography,
+games, Al, robotics, metaverse, AR/VR as a means to
+deliver content
+Appropriate non-teaching staff to support the
+organization.
+Non-teaching staff
+Must have requisite qualification, experience for the
+relevant post
+Systematic planning in teaching and learning process is
+required which includes session wise teaching plan and
+following such teaching plan.
+10.
+Session wise
+teaching plan
+Relevant and updates course material and books
+11.
+Learning material
+like Study books
+To provide equal amount of essential information to all
+the students in a class
+essential to provide study books prepared as per the
+syllabus of the subject.
+Question bank- to have a resource pool of all possible
+questions prepared as per the examination pattern.
+12.
+Question bank
+Such question bank eliminates the chance of asking
+questions out of the syllabus.
+Question bank should be such that it enables evaluating
+the holistic learning of a student
+Relevant assignment of varying types and nature to be
+conducted
+13.
+Assignments
+This could include term papers, practicums, or assigning
+students with task of preparing answers for question
+banks.
+The students are encouraged to work more by
+answering all question bank questions in the form of
+assignments.
+Periodic assignment submission with due date
+Internal assessment for these assignments for doing
+work time bound manner.
+Timely and relevant assessments.
+Page 42 of 63
+--- Page 43 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+14.
+Assessments
+All kinds of assessment strategies to be used.
+Mode of assessment could be online, offline or blended.
+Opportunities like on demand assessments, make-up
+assessments etc to be given
+The syllabus must not be restricted to core and elective
+subjects.
+15.
+Value added skills
+enhancement
+Papers
+Provision of providing modules on general skills for
+enhancing the employability of the students by
+improving their professional knowledge.
+can be introduced as skill development-based value-
+added papers should be offered as separate papers and
+taught by industry or professional people in the field.
+The teaching — learning pedagogy should contain
+substantial amount of experimental learning part related
+to their specialization trough either real environment or
+virtual environment
+16.
+Pedagogy
+The pedagody should be an appropriate mix of
+traditional and modern methods
+Usage of technology must be encouraged
+enhanced usage of blended mode of learning
+Teaching learning material for PwDs to be made
+available
+Must be learner centric
+Activities to support the overall development of
+students like sports, music etc must be integrated in the
+core curriculum.
+17.
+Other activities as
+part of learning
+Integration of these activities as core
+Proper assessment and weightage of marks to be
+assigned
+Develop additional skills with them by involving in
+inculcating cultural and traditional skills which enhances
+their design thinking ability
+Activities in teams or groups related to social work and
+social contribution also moulds good character and team
+working skills of the students and incorporates collective
+responsibility in them.
+Page 43 of 63
+--- Page 44 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+These activities support all-round development of
+students and enhance their competency and confidence
+in facing any challenges.
+To support students who are from financially weaker
+background
+18.
+Earn while learn
+facility & flexibility
+Earn while learn model has dual objectives : it gives
+working skills for a student with responsibility and it also
+supports financial needs of a student so that he need
+not depend on his parents for his pocket money.
+The course design needs to be varied, multi-disciplinary
+in nature
+19.
+Flexibility and
+multidisciplinarity
+Universities can design and implement UG/PG programs
+to suit the requirement of students at various levels
+Additional certificate programs across the field may be
+offered.
+Universities can also offer certificate programs by having
+MouUs with industries, reputed international
+organisations, etc.
+The UG & PG curriculum must allow students to explore
+and work independently on their projects/research
+under the guidance of their research guide
+20.
+Opportunities to
+develop & utilize
+Research &
+innovative thinking
+skills.
+students should be encouraged to work either
+individually or in a team.
+Enhancing the innovative ability of students and
+increasing their competency and confidence.
+Academic support to raise knowledge, skills, attitude,
+and experience-based competency to improve
+confidence in doing innovation.
+Organising Hackathons and other similar competitions
+Overseas Exchange programs
+21
+International
+Exposure
+International Collaboration
+Foreign Faculty (visiting)
+International Scholarships
+International Conferences
+Page 44 of 63
+--- Page 45 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+post-doctoral
+research scholars
+D. Research, and Intellectual Property Enablers
+Ss. Types of Details of intellectual property infrastructure & its generation
+No. intellectual
+property
+infrastructure
+1. Quality Research | e increased intake of students in research based curriculum
+e undertaking quality research projects
+e establish a portfolio approach to research projects and
+quality research facilities and research labs
+2. Research e — self-sustaining model
+oriented e undertake basic and applied research
+experienced
+faculty members e enable development of disruptive and affordable
+technologies
+e Faculty members who are research oriented are usually
+research inclined.
+3. API based faculty | e They encourage participation in research and innovation
+compensation among academics, staff, and students, strengthening the
+university's framework for intellectual property.
+e ~The creation and implementation of a faculty
+compensation scheme based on Academic Performance
+Indicator (API) scores encourages faculty participation in
+research and publication activities.
+e API based compensation creates healthy competition
+among the faculty members for accelerated IP
+contribution.
+4. Targeted research | e The institution finds some new fields in several disciplines
+and collaborative and helps the competent faculty members in such fields
+research do research, publish papers, and file patents.
+e ein the portfolio approach this is called targeted research
+and the university can create IPR as well as an
+international brand through such efforts based on a
+strategic approach.
+5. More Ph.D. & e The university must admit more research scholars within
+its capacity of support.
+e The institution should exercise its autonomy to appoint
+more research professors, who may eventually retire from
+Page 45 of 63
+--- Page 46 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+active employment, only for the purpose of supervising
+research scholars.
+Universities should create post-doctoral research
+programmes as well to maintain the Ph.D. graduates’
+contributions to ongoing research.
+6. More Faculty The university ought to adopt a strategy to boost the
+members with proportion of Ph.D. holders among its faculty.
+Ph.D. The Ph.D. degree holders are ready to mentor the
+research scholars for Ph.D. programmes in addition to
+acting as teaching faculty.
+7. Faculty The university should have a policy to promote IPR
+encouragement contributors, who are none other than UG & PG Students,
+for Book Research scholars, and Faculty members, in order to
+Publications, increase the intellectual property rights (IPR) of the
+Research institution.
+Publications and The institution can improve its IPR infrastructure by
+Patents setting up supportive policies that stimulate research and
+publications at all of the aforementioned levels. Such a
+task will be assisted by numerous incentives and funding
+plans.
+8. More Research scientists, faculty members, and students are
+conferences (At kept active through the periodic organisation of
+least two conferences for the presentation of research papers.
+conferences per These conferences offer an opportunity for goal-setting
+year per College and networking with other academics.
+9. Student The most valuable resource in the university system is its
+involvement in students, who, when properly supervised, can create
+Research innovations by creating patented inventions. Similarly,
+through systematic research, they can also come out with
+scholarly publishable results.
+By involving students at the graduate and postgraduate
+levels, the university can boost its IPR infrastructure.
+10. Industry and Supports collaboration-based research so that the
+institutional university can create IPR along with industry personnel.
+collaboration &
+Consultation
+This also gives the opportunity to use industry research
+facilities by university personnel.
+Further collaborative research leads to more patents &
+publications.
+Page 46 of 63
+--- Page 47 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Industries’ contribution to the research activities so as to
+do the research on live projects and quantify the output.
+11. University University business incubators assist students who want
+Incubation to establish their own companies after graduation.
+centres Any ideas generated while working on a project or an
+internship might be fostered and encouraged as a
+business plan to initiate self-employment.
+12. University To hasten scholarly publications, many colleges launch
+Publication their own publishing houses. Additionally, this streamlines
+through its own or lowers the cost of publishing and encourages academic
+press members to use their press for the dissemination of
+newly developed knowledge.
+Online and digital publications are prevailing and
+recognized as one of the most significant initiatives of top
+colleges.
+13. University Universities have been offering citation services to their
+publications & academic members, stakeholders, and the general public
+Citation service as a convenience to researchers that will aid researchers
+in improving the caliber of their articles.
+14. Target patent Setting goals for undergraduate and graduate students in
+claim for UG & PG terms of internships and regular mentoring and
+projects in supervising them as they prepare and submit patent
+Professional applications for their inventions enhances the outcome.
+subject areas
+15. Faculty Ranking Faculty members generate a winning spirit and constantly
+(Annual) system strive for excellence when their annual API rankings are
+announced and they are graded according to different
+levels.
+Faculty oversight at every stage can be reduced in such
+scenarios.
+16. Chief Technology A centralised office to operationalise and monitor
+Officer (CTO)
+Research
+Monetisation
+research activities as planned
+Technology transfer office (TTO) with experienced
+professionals to manage IP protection, licensing, and
+technology transfer activities
+Training programs to educate researchers and staff about
+research monetization and IP protection
+Page 47 of 63
+--- Page 48 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Clear processes and guidelines for licensing and
+technology transfer, including royalty structures and
+licensing fees
+Internal & External funding mechanisms in place
+Mode of assessment could be online, offline or blended.
+Opportunities like on demand assessments, make-up
+assessments etc to be given
+The syllabus must not be restricted to core and elective
+subjects.
+17.
+Value added skills
+enhancement
+Papers
+Provision of providing modules on general skills for
+enhancing the employability of the students by improving
+their professional knowledge.
+can be introduced as skill development-based value-
+added papers should be offered as separate papers and
+taught by industry or professional people in the field.
+The teaching — learning pedagogy should contain
+substantial amount of experimental learning part related
+to their specialization trough either real environment or
+virtual environment
+18.
+Other activities as
+part of learning
+Integration of these activities as core
+Proper assessment and weightage of marks to be assigned
+Develop additional skills with them by involving in
+inculcating cultural and traditional skills which enhances
+their design thinking ability
+Activities in teams or groups related to social work and
+social contribution also moulds good character and team
+working skills of the students and incorporates collective
+responsibility in them.
+These activities support all-round development of
+students and enhance their competency and confidence
+in facing any challenges.
+To support students who are from financially weaker
+background
+19.
+Earn while learn
+facility &
+flexibility
+Earn while learn model has dual objectives : it gives
+working skills for a student with responsibility and it also
+supports financial needs of a student so that he need not
+depend on his parents for his pocket money.
+Page 48 of 63
+--- Page 49 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+The course design needs to be varied, multi-disciplinary in
+nature
+20.
+Flexibility and
+multidisciplinarity
+@ Universities can design and implement UG/PG programs
+to suit the requirement of students at various levels
+Additional certificate programs across the field may be
+offered.
+Universities can also offer certificate programs by having
+MouUs with industries, reputed international
+organisations, etc.
+The UG & PG curriculum must allow students to explore
+and work independently on their projects/research under
+the guidance of their research guide
+21.
+Opportunities to
+develop & utilize
+Research &
+innovative
+thinking skills.
+students should be encouraged to work either individually
+orinateam.
+Enhancing the innovative ability of students and
+increasing their competency and confidence.
+Academic support to raise knowledge, skills, attitude, and
+experience-based competency to improve confidence in
+doing innovation.
+Organising Hackathons and other similar competitions
+Overseas Exchange programs
+Page 49 of 63
+--- Page 50 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+E. Human Resources and Supportive- Facilitative Enablers
+This annexure contains two dimensions closely related. Human resource Management
+and the emotional strength supportive and facilitative enablers.
+Human Resource Enablers
+In the quest for academic excellence and institutional resilience, Higher Education
+Institutions (HEIs) must prioritize the development of robust Human Resource (HR)
+strategies that encompass comprehensive enablers for students, staff, faculty, and
+researchers. The overarching Regulatory and Binding Laws of the Land, Academic
+regulations, other applicable regulations and rules need to be complied with while efforts
+are made to create an enabling HR Framework cannot be overemphasised. Within that, the
+following integrated approach outlines key HR enablers that would support a vibrant
+educational ecosystem:
+1. Student and Learner
+Enablers:
+Holistic Admissions Framework: Streamline the
+student selection process with a holistic approach,
+assessing academic prowess alongside extracurricular
+talents, ensuring diversity and inclusion.
+Merit and Equity-Based Financial Aid: Deploy merit-
+based scholarships and financial aid for
+underrepresented groups to democratize access to
+education and attract a rich tapestry of student talent.
+Academic Success Programs: Institute robust academic
+advising, mentorship, and tutoring programs that
+provide tailored support from entry through
+graduation, ensuring learners can navigate their
+educational paths successfully.
+2. Staff Empowerment
+Enablers:
+Competency-Based Recruitment: Adopt a competency-
+based recruitment approach that aligns with
+institutional goals, promoting a culture of performance
+and shared values.
+Professional Development and Growth: Establish clear
+career pathways and continuous professional
+development opportunities that encourage staff
+growth, satisfaction, and retention.
+Inclusive Induction Protocols: Ensure a seamless
+integration of new staff with comprehensive induction
+Page 50 of 63
+--- Page 51 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+protocols, fostering a sense of belonging and
+commitment to the HEl's mission.
+Faculty and e Transparent Recruitment and Appointment:
+Researcher Implement transparent procedures for faculty
+Enablers: recruitment and appointments that prioritize
+excellence and diversity in educational backgrounds,
+research expertise, and pedagogical skills.
+e Continuous Professional and Pedagogical
+Development: Offer fellowships and development
+programs for faculty to advance their pedagogical
+skills, research methodologies, and leadership
+capabilities.
+e Tenure and Promotion Mechanisms: Create equitable
+tenure and promotion mechanisms that recognize
+diverse achievements in research, teaching, service,
+and community engagement, motivating faculty to
+pursue long-term careers within the institution.
+Cross-Functional e Recognition and Reward Systems: |Introduce
+Enablers: comprehensive recognition systems that celebrate a
+wide array of achievements, such as research
+innovation, exceptional mentorship, community
+service, and transformative leadership.
+e Resilience and Well-Being Programs: \ncorporate
+resilience-building initiatives and mental health
+support services to foster an environment of well-being
+for all members of the HEI community.
+e Leadership and Collaborative Opportunities: Develop
+leadership programs and collaborative platforms that
+allow staff and faculty to lead initiatives, drive change,
+and engage in cross-disciplinary projects.
+Strategic Funding e Innovative Funding Strategies: Cultivate funding
+and Emotional strategies and incubation grants that empower early-
+Support Enablers: career researchers and attract pioneering projects,
+enhancing the institution's research profile.
+e Emotional Intelligence and Support Networks: Embed
+emotional intelligence training and establish support
+networks to aid students, staff, and faculty in managing
+the demands of academia with resilience.
+Page 51 of 63
+--- Page 52 ---
+Institutional Development Plans for Higher Education Institutions (HEls)
+Enablers for
+Pedagogical
+Innovation:
+e Pedagogical Excellence Initiatives: Promote teaching
+excellence through specialized fellowships and
+programs that encourage innovative curriculum design,
+leveraging the latest educational technologies.
+By integrating these enablers into a cohesive HR strategy,
+HEls can ensure they not only meet but exceed the
+expectations of their diverse stakeholders, positioning
+themselves at the forefront of higher education and
+research. The commitment to comprehensive HR practices is
+essential in cultivating an environment where every member
+of the institution can thrive and contribute to the HEI's
+overarching goals of innovation, inclusion, and excellence.
+Supportive- Facilitative Enablers
+S.No. | Types of Details
+emotional
+strength enablers
+1. Accessibility/ Proximity: leaders being readily
+available and approachable as a collective leadership
+style where leaders to make themselves available for
+Accessibility/ support, creating a pull-based (by choice) interaction
+Proximity rather than a push-based (forced) one.
+2. Rich Communication: real-time, interactive
+communication. Messages are not only conveyed
+clearly but also understood as intended. Importance
+Rich of immediate and interactive communication,
+Communication promoting collaboration among engaged individuals.
+3. Role Model: developing leaders who share a vision
+for the university's planned growth who motivate and
+set targets for others, serving as examples for the
+Role Model entire community.
+4. Institutional Institutional Values (Core Values): The belief system
+values (Core foundation of the institution to guide the behaviour
+Values) and decisions of all stakeholders.
+5. Vision: A well-articulated and ambitious vision.to
+encourage forward-thinking & planning for future
+Vision opportunities rather than reacting to constraints.
+Page 52 of 63
+--- Page 53 ---
+Institutional Development Plans for Higher Education Institutions (HEls)
+6. Trust among stakeholders: Building trust among all
+stakeholders, based on their commitment and
+Trust among contributions to the institution.. Fosters a sense of
+stakeholders and unity and responsibility toward Institutional
+outsiders development.
+7. Institutional Tradition Rituals: upholding the
+traditions, established by the institution as emotional
+Institutional bonds among stakeholders and enhance
+Tradition Rituals commitment to the institution.
+8. Alternative strategy & Support: prepared with
+backup plans to ensure the delivery of commitments
+Alternative including includes facilities, faculty, exams, and timely
+strategy & result announcements, ensuring uninterrupted
+Support network academic services.
+9. Goal setting in every student: Encouraging students
+Goal setting in to set and work towards their goals by creating
+every student awareness about opportunities.
+10. Safety & Security: safe and secure campus
+environment. Such that it contributes to the well-
+Safety & Security being of all stakeholders.
+11. Search for Search for proximity: Students often seek a sense of
+proximity (Local belonging during their initial year. The institution
+friends. Local needs to facilitate connections by encouraging
+food, local friendships, providing local cuisine, and celebrating
+culture) local culture.
+12. Legacy of the system: Maintaining and continuing
+the institution's traditions, cultures, and legacy
+Legacy of the through programs and festivals. It also involves
+system maintaining organizational hierarchy respectfully.
+13. Respect & perception: Ensuring that every individual
+stakeholder has a positive perception of the
+Legacy of the institution and holds it in high regard as their alma
+system mater.
+14. Openness in terms of information: The institution
+Openness in should maintain transparency in its operations,
+terms of including admission, teaching, examinations,
+information research, and financial matters.
+Page 53 of 63
+--- Page 54 ---
+Institutional Development Plans for Higher Education Institutions (HEls)
+15. The Ability of the | ° Ability to deliver promises: Addressing and
+institution to rectifying any failures promptly building a good
+deliver on reputation. Using the autonomy of the university to
+promises resolve issues effectively.
+16. e Accountability measures: systems to deter mine,
+Accountability evaluate accountability of all stakeholders and their
+measures consequence.
+17.
+Mental Health
+e Mental Health: Ensuring students mental health,
+providing appropriate infrastructure and support.
+Page 54 of 63
+--- Page 55 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+F. Networking and Collaborations Enablers
+Strategic
+Collaborations
+Integrated Partnerships: Forge partnerships across
+industry, academia, and communities through
+MoUs to encourage diverse collaboration for
+research, curriculum design, and community
+engagement initiatives.
+Alumni Networks: Develop strong alumni
+networks that contribute to mentorship, funding,
+and domain expertise, supporting research and
+infrastructure development.
+Industry Integration: Collaborate with industry for
+curriculum development, internships,
+apprenticeships, and joint projects that align with
+dynamic industry needs.
+Academic and
+Research Excellence
+Cross-Institutional Synergy: Pursue academic
+collaborations for co-research, shared curricula,
+and intermobility of students, enabling dual
+degree programs and joint use of facilities.
+Research Collaboration: Create consortia for
+shared databases, library access, and co-authored
+research to drive innovative outcomes and
+participate in international research projects.
+Practical Exposure
+and Experience
+Hands-On Learning: Integrate practical skilling
+with theoretical learning through industry
+consultations, usage of shared workshops, and live
+project opportunities.
+Earn While Learn Initiatives: Establish programs
+that allow students to engage in live projects and
+hybrid learning models to gain professional
+experience while studying.
+Community
+Engagement and
+Service
+Social Integration: Collaborate with NGOs and
+social service organizations for rural outreach and
+fieldwork, participating in government programs
+like Unnat Bharat Abhiyan for societal
+development.
+Civic Partnerships: Engage with local bodies and
+communities to foster sustainable development
+and implement field-based educational programs.
+Page 55 of 63
+--- Page 56 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Professional
+Development and
+Employment
+Placement Networks: Build networks with various
+industry sectors for internships and job
+placements, leveraging placement cells for
+networking and employment opportunities.
+Faculty Consultancy: Promote faculty-led
+consultancy to enhance industry-institute
+relationships and ensure faculty remain current
+with industry practices.
+Quality and
+Credibility
+Accreditation and Certification: Secure recognition
+from national and international accreditation
+bodies, enhancing the institution's brand value
+and ensuring a commitment to educational
+excellence.
+Quality Assurance: Adopt quality assurance
+frameworks from recognized agencies to improve
+internal standards and learning outcomes.
+Innovation and
+Entrepreneurship
+Startup Ecosystem: Establish incubation centers,
+funding avenues, and ideation networks to
+support startup initiatives and foster a vibrant
+entrepreneurial ecosystem.
+Digital Infrastructure: Provide a strong digital
+backbone to support startup activities, including
+access to digital resources and networks.
+Page 56 of 63
+--- Page 57 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+G. Physical Enablers
+S. No.
+Types of Physical
+digital
+Details of physical infrastructure & its usage ESSENTIAL/
+DESIRABLE / ASPIRATIONAL
+Smart Campus
+e ASmart Campus creates the best balance of cost,
+comfort, risk and resilience.
+e When a campus is "smart," it detects and fixes small
+problems before they grow into big ones or cause
+distractions for students, staff, and visitors.
+e = It creates a performance infrastructure where building
+systems "talk to each other" in order to coordinate
+common outcomes, such as lighting, security, and
+environmental controls.
+e It focuses on the uptime of facilities, performance of
+campus buildings on demand, greenhouse gas reduction
+targets, protection and mitigation against variable
+energy prices, and adopting new technologies.
+Green/ Sustainable
+building
+e Constructing green buildings on university campuses
+involves using resources as efficiently as possible during
+the structural process and for future use of the building.
+(Basic requirements)
+e It is based on the principle of open environment by using
+optimum models of water & energy consumption.
+e Internally, the campus uses green energy, harvested
+water, renewable and recycled resources to produce and
+provide air, water, food, light, and electricity in a
+sustainable way.
+e Central Air Conditioned High Tech Buildings With
+modern clean-green environmental concept.
+(Aspirational requirements)
+Infrastructure to
+commute
+e Better infrastructure along with signs on the streets and
+separate spaces for commute for differently-abled
+e Students and staff should have access to high-quality
+motorways and bicycle paths so they can commute by
+bicycle or battery-powered vehicles.
+e = Accessibility for PwD
+e Having adequate space for administrative activities (such
+as admission and counseling activities) is essential.
+Page 57 of 63
+--- Page 58 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Administrative Block
+(Admission &
+Counselling Area)
+Faculty Cubicles in adequate numbers as per the
+demands (Desirable Requirements)
+Different departments may have their own buildings
+5. Library/ Digital Adequate in size with reading rooms, stock areas for
+resource centre books & Journals with online information access facility.
+6. Lecture Complex, Students should have access to Lecture complexes,
+Classrooms classrooms, tutorial rooms, discussion rooms of different
+sizes with comfortable seating arrangements and
+teaching-learning facilities.
+7. Tutorial rooms Video Recording Facilities
+8. Examination branch There should be a separate examination branch with
+strong room large enough to accommodate confidential
+documents and examination papers.
+9. Facilities to Faculty There should be an adequate number of well-equipped
+and Staff faculty chambers to accommodate all permanent faculty
+members, visiting faculty members, part-time faculty
+members, research scholars, etc. (Basic Requirements)
+The Campus shall have 2-3 bedroom facilities/ quarters
+for the resident faculties/ staffs. (Desirable
+Requirements)
+10. Meeting rooms Meeting rooms with enough space (as per standard
+norms), furniture, and electronic
+communication/presentation equipment.
+11. Office Rooms Suitable for meeting the needs of all staff members
+12. Laboratories and Modern laboratories and advanced super specialty
+Research Centres research centers in a wide variety of scientific and
+technological fields.(Basic Requirements)
+Departmental Libraries with reference books & online
+digital information resources. (Desirable Requirements)
+13. Computer Centre/ Computer Centre having appropriate Computer: Student
+Multimedia Studios Ratio as per standard norms. (Basic Requirements)
+Multimedia Studios for creation of digital contents with
+optimum sound control & recording facilities.
+(Aspirational requirements)
+14. Cafeteria/Dining Cafeteria/ Dining room/ Mess facility equipped with
+Room/ Mess Facility
+modern cooking apparatus/equipment to ensure quality,
+cleanliness, and hygiene. (Basic Requirements)
+Page 58 of 63
+--- Page 59 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+15. Games & Sports e Playground and indoor Stadium of sufficient size to
+facility accommodate variety of games.(Basic Requirements)
+e Gymnasium and workout center, Swimming Pool,
+Stadium and High Tech Playgrounds, Modern type
+indoor stadium with multi-purpose arena (Aspirational
+requirements)
+16. Auditorium add e One auditorium of sufficient size and or conference
+conference rooms rooms of various capacities depending upon the size of
+the institution (Basic Requirements)
+17. Hostels e Student Hostels : for at least 60 % students, especially
+for out stationed students. (Basic Requirements)
+e Research Scholars Hostels with contemporary facilities
+(Desirable requirements)
+18. Parking e Suitable for meeting the needs of all stakeholders
+e International Student Hostels (Aspirational
+requirements
+19. Exhibition Hall e In order to fulfill the requirements of all curricular
+activities (Academic/Vocational/Skilling), there should be
+an adequate number of exhibition halls/ space.
+20. Guest e Suitable guest house for meeting university requirement
+Accommodation (Basic Requirements)
+e Star hotel type guest hostels with accommodation, food,
+and recreation facility (Desirable requirements)
+21. Commercial Shops/ |e Convenience Shops for students and staff to purchase
+centers essential items (Basic Requirements).
+e Shopping Complex/ Centers suitable for all kinds of
+shopping (Aspirational requirements)
+22. Health and well Modern Dispensary / hospital that offers inpatient and
+being outpatient services 24 hours a day, 7 days a week. (Desirable
+requirements)
+23. Student recreation Student recreation facilities with appropriate blend of
+facilities modernity and functionality (Desirable requirements)
+24. International With contemporary student amenities whenever
+student centres international students are large in number (Aspirational
+requirements)
+25. Incubation centre With in-house industry R & D units & collaboration
+and Research park (Aspirational requirements)
+26. Botanical Park/ Natural type, with a documented collection of living plants
+Garden
+that may be used for the purpose of scientific research,
+Page 59 of 63
+--- Page 60 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+conservation, display, and education. (Aspirational
+requirements)
+27.
+Vocational
+Education, Training
+and Skilling
+infrastructure
+e Adequate well equipped building space with appropriate
+equipment, machinery and tools, including computer
+labs and technology labs for learning skill/ vocational
+education as part of course curriculum
+Page 60 of 63
+--- Page 61 ---
+H.
+Institutional Development Plans for Higher Education Institutions (HEIs)
+Digital Enablers
+S. No.
+Types of infrastructure digital
+Details of digital infrastructure & its usage
+ESSENTIAL
+Internet usage
+Connecting external world through an
+electronic device to the stakeholders
+Website
+For providing institutional information to the
+public
+’
+Online Messaging stakeholders
+groups
+For vertical and horizontal communication
+between Stakeholders
+Online Blogs & sites for every
+course
+To provide course information and day to
+day progress of the students who enrolled in
+the course to stakeholders and publics.
+Wi-Fi Campus
+To access online ubiquitous information in
+the campus and classes.
+Online Study material
+Development of study materials both in
+audio, video, and text form as per the
+curriculum and providing them to concerned
+students online as additional support to
+classroom teaching — learning process. The
+study material in the form of a PDF book to
+be stored in a smartphone, tablet, or laptop
+computer will help provide a ubiquitous
+reference for the covered portion of the
+course subjects.
+Digital Library
+Developing and updating digital library and
+providing digital library membership to every
+stakeholder of the university for ubiquitous
+access of books, periodicals, study materials,
+magazines, annual/year books of
+organizations, journals in digital form is the
+responsibility of University digital library. For
+this purpose, the University digital library can
+collaborate with national digital libraries and
+Global digital libraries.
+Digital Publication
+The university should have its own
+publication for books, newsletters,
+magazines, journal proceedings, and printing
+question papers for examinations. Online
+Page 61 of 63
+--- Page 62 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+digital publication as open access publication
+globally is the best practice.,
+9. Paperless office By developing academic administrative
+software the university should provide an
+online office environment to cater the
+services of stakeholders.
+10. | Paperless exams Adopting a digital examination system
+eliminates the wastage of papers in the
+examination process.
+11. | Online Evaluation Automated & digitized online evaluation
+system eliminates the wastage of time of
+evaluators & speeds up the evaluation
+process.
+12. | Website based result oo
+Ubiquitous reachability.
+announcement
+13. | NAD markscards Facility A convenient and completely secure digital
+academic depository solution.
+14. | Online admission test A ubiquitous facility for global admission
+15. | Education ERP To integrate various departments of the
+university for timely exchange & access of
+information.
+16. | Plagiarism software facility A software facility available to every
+stakeholder to check plagiarism content in
+the documents.
+17. | Online digital magazine & In online publication. Digital format through
+Student publication University
+18. | Online placement (Project, . oo
+. . . Online ubiquitous support.
+internship, & final)
+19. | Video documentation of each ; .
+For open information access from globally
+course & each College
+20. | Video documentation on online ; .
+. For open information access from globally
+public platforms
+21. | Social Media based promotions Information access & Brand building
+promotions
+22. | Use of ICCT underlying . oo. ;
+on Adopting present technologies in automating
+technologies like Al, BA, CC, DS, .
+the services
+MB, OC, VR & AR
+23. | Studio for video online classes Studio for digitization of sound and scene
+Page 62 of 63
+--- Page 63 ---
+Institutional Development Plans for Higher Education Institutions (HEIs)
+24. | Video conference facility For global information exchange in digital
+format
+25. | Online open Publication system For exchange of new knowledge
+generated to everybody through open
+access system
+Page 63 of 63
+--- Page 64 ---
+= .
+a
+———
+— een
+=
+—————
+—
+WN
+eae
+a4
+Pigeon ee ii
+tens leas ati : %
+i
+il!
+i ‘c i:
+BiG
+~
+~
+University Grants Commission
+Bahadur Shah Zafar Marg, New Delhi-110002
