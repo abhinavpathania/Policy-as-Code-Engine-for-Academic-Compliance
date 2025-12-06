@@ -1,0 +1,75 @@
+question_id,question,top_k,hit_rate,precision,avg_distance,answer_correctness,context_length,latency_sec,answer_preview,composite_score
+Q1,What are the three main objectives of the SEDGs guidelines?,1,1.0,1.0,328.9039,0.5,30611,39.14,"The three main objectives of the SEDGs guidelines, as outlined in the document, appear to be:
+
+1. To ensure equal access to higher education for Socio...",0.85
+Q2,Who are included in Socio-Economically Disadvantaged Groups according to NEP 2020?,1,1.0,1.0,280.4281,0.286,30611,32.97,"According to NEP 2020, Socio-Economically Disadvantaged Groups (SEDGs) include those who, due to historical reasons and their prevailing disadvantaged...",0.7857999999999999
+Q5,How many Ph.D. Excellence Citations does UGC award annually?,1,1.0,1.0,224.3107,0.75,6950,26.28,"UGC awards ten Ph.D. Excellence Citations annually, with two citations from each discipline [Source: 1797652_Guidelines-for-PhD-Excellence-Citation.tx...",0.9249999999999999
+Q9,What are the three main objectives of NEP SAARTHI initiative?,1,1.0,1.0,228.0343,0.75,5341,32.14,"The three main objectives of NEP SAARTHI initiative are:
+1. To create awareness and promote the initiatives of NEP 2020 among students on campus.
+2. T...",0.9249999999999999
+Q13,What are the four main objectives of University-Industry linkage guidelines?,1,1.0,1.0,234.4832,0.2,16314,29.8,"The four main objectives of University-Industry linkage guidelines, as outlined in the document, are:
+
+1. To enhance practical learning and skill deve...",0.76
+Q16,What are the two categories of undergraduate internships?,1,1.0,1.0,292.9073,0.333,34261,30.07,"The document does not explicitly state two specific categories of undergraduate internships, but it discusses different types of research internships ...",0.7998999999999999
+Q17,How many credits are assigned for internship in UG degree programmes?,1,0.75,1.0,269.4847,0.0,34261,22.52,"In a 4-year UG degree programme, universities/HEIs may offer 4 additional credits towards internships over and above the prescribed credits in the 4-y...",0.6000000000000001
+Q1,What are the three main objectives of the SEDGs guidelines?,3,1.0,0.667,342.4625,0.25,133488,29.4,"The three main objectives of the SEDGs guidelines are:
+
+1. To ensure that all teachers and non-teaching staff in higher education institutions have a ...",0.6751
+Q2,Who are included in Socio-Economically Disadvantaged Groups according to NEP 2020?,3,1.0,1.0,307.004,0.0,40142,37.13,"According to the guidelines provided by the National Education Policy (NEP) 2020, Socio-Economically Disadvantaged Groups (SEDG) include a specific ce...",0.7
+Q5,How many Ph.D. Excellence Citations does UGC award annually?,3,1.0,1.0,284.2098,0.25,107195,22.17,The document does not specify the number of Ph.D. Excellence Citations awarded annually by UGC. It only mentions that these citations are given to out...,0.7749999999999999
+Q9,What are the three main objectives of NEP SAARTHI initiative?,3,1.0,0.667,301.9812,0.0,849646,29.11,The document does not provide specific information about the objectives of NEP SAARTHI initiative. The given text focuses on guidelines for public sel...,0.6001000000000001
+Q13,What are the four main objectives of University-Industry linkage guidelines?,3,1.0,0.667,268.9235,0.0,111442,24.07,"The four main objectives of University-Industry linkage guidelines are:
+
+1. To promote interaction between universities and industries.
+2. To facilita...",0.6001000000000001
+Q16,What are the two categories of undergraduate internships?,3,1.0,0.333,338.3752,0.333,45149,23.98,"The document does not provide specific details about the categories of undergraduate internships. Therefore, based on the given text, it is not possib...",0.5998
+Q17,How many credits are assigned for internship in UG degree programmes?,3,0.75,0.667,301.7669,0.0,66976,19.42,"Based on the information provided in the document, 60 credits are assigned for internship in UG degree programmes.",0.5001
+Q1,What are the three main objectives of the SEDGs guidelines?,5,1.0,0.8,348.6331,0.25,168965,26.53,"The three main objectives of the SEDGs guidelines are:
+
+1. To provide a framework for Higher Educational Institutions (HEIs) to offer Apprenticeship E...",0.715
+Q2,Who are included in Socio-Economically Disadvantaged Groups according to NEP 2020?,5,1.0,0.8,330.0044,0.0,887209,26.69,"According to the National Education Policy 2020 (NEP 2020), Socio-Economically Disadvantaged Groups include Scheduled Castes, Scheduled Tribes, Other ...",0.64
+Q5,How many Ph.D. Excellence Citations does UGC award annually?,5,1.0,1.0,302.2707,0.25,409708,20.39,"Based on the information provided in the given text, UGC awards 500 Ph.D. Excellence Citations annually.",0.7749999999999999
+Q9,What are the three main objectives of NEP SAARTHI initiative?,5,1.0,0.6,324.5512,0.0,872912,29.66,"The three main objectives of NEP SAARTHI initiative are:
+
+1. To create a regulatory framework for courses and common frameworks for running URCs (Univ...",0.5800000000000001
+Q13,What are the four main objectives of University-Industry linkage guidelines?,5,1.0,0.4,277.7427,0.0,125092,56.5,"The provided text does not outline any specific objectives for University-Industry linkage guidelines. Instead, it focuses on the Guidelines for Pursu...",0.52
+Q16,What are the two categories of undergraduate internships?,5,1.0,0.6,358.9186,0.333,89990,19.34,"The guidelines mention two categories of undergraduate internships:
+
+1. Internship for Undergraduate Students (Short-term) - 6 months or less
+
+2. Inte...",0.6799000000000001
+Q17,How many credits are assigned for internship in UG degree programmes?,5,0.75,0.6,320.0477,0.0,172615,18.98,"The provided text does not contain any information about the number of credits assigned for internships in UG degree programmes. Therefore, I cannot d...",0.48000000000000004
+Q1,What are the three main objectives of the SEDGs guidelines?,7,1.0,0.857,353.7583,0.25,190622,22.53,"The three main objectives of the SEDGs guidelines are:
+
+1. To provide a framework for strengthening and formalizing Industry-University linkages.
+
+2. ...",0.7321
+Q2,Who are included in Socio-Economically Disadvantaged Groups according to NEP 2020?,7,1.0,0.857,344.4775,0.143,987454,23.13,"According to the National Education Policy 2020 (NEP 2020), Socio-Economically Disadvantaged Groups include Scheduled Castes, Scheduled Tribes, Other ...",0.7
+Q5,How many Ph.D. Excellence Citations does UGC award annually?,7,1.0,1.0,311.2822,0.25,462189,16.02,"According to the given text, the University Grants Commission (UGC) awards 200 Ph.D. Excellence Citations annually.",0.7749999999999999
+Q9,What are the three main objectives of NEP SAARTHI initiative?,7,1.0,0.714,336.6329,0.0,1000126,25.03,"The three main objectives of NEP SAARTHI initiative are:
+
+1. To ensure that all higher educational institutions (HEIs) and their academic staff comply...",0.6142
+Q13,What are the four main objectives of University-Industry linkage guidelines?,7,1.0,0.571,282.1961,0.2,345720,21.18,"The four main objectives of University-Industry Linkage Guidelines as per the document are:
+
+1. To promote research and development (R&D) activities.
+...",0.6313
+Q16,What are the two categories of undergraduate internships?,7,1.0,0.571,369.7218,0.333,227657,21.02,"The document does not explicitly list two specific categories of undergraduate internships. However, it mentions ""Undergraduate Internship"" as a categ...",0.6712
+Q17,How many credits are assigned for internship in UG degree programmes?,7,0.75,0.571,329.3388,0.0,475128,16.97,"For a 3-month internship in UG degree programmes, 4 credits are assigned. For a 6-month internship, 8 credits are assigned.",0.47130000000000005
+Q1,What are the three main objectives of the SEDGs guidelines?,10,1.0,0.8,360.0681,0.25,1059807,35.21,"The three main objectives of the SEDGs guidelines are:
+
+1. Recognizing, identifying, and fostering the unique capabilities of each student by sensitiz...",0.715
+Q2,Who are included in Socio-Economically Disadvantaged Groups according to NEP 2020?,10,1.0,0.9,358.9014,0.0,1415431,22.4,"According to the National Education Policy 2020 (NEP 2020), the socio-economically disadvantaged groups include Scheduled Castes, Scheduled Tribes, Ot...",0.67
+Q5,How many Ph.D. Excellence Citations does UGC award annually?,10,1.0,1.0,319.4023,0.25,510747,21.01,The provided press release does not contain any information about the number of Ph.D. Excellence Citations awarded annually by UGC. The text focuses o...,0.7749999999999999
+Q9,What are the three main objectives of NEP SAARTHI initiative?,10,1.0,0.8,348.3022,0.25,1430189,23.64,"The three main objectives of the NEP SAARTHI initiative are:
+
+1. To facilitate a smooth transition for students from school to higher education.
+2. To...",0.715
+Q13,What are the four main objectives of University-Industry linkage guidelines?,10,1.0,0.6,289.7142,0.0,391619,21.95,"The four main objectives of University-Industry linkage guidelines, as per the document, are:
+
+1. To enhance the quality of education and research.
+2....",0.5800000000000001
+Q16,What are the two categories of undergraduate internships?,10,1.0,0.5,381.9957,0.333,481783,19.94,"The two categories of undergraduate internships mentioned in the document are:
+
+1. Paid Internships 
+2. Unpaid Internships",0.6499
+Q17,How many credits are assigned for internship in UG degree programmes?,10,0.75,0.5,337.1776,0.0,1397573,25.38,"Based on the information provided in the document, there is no specific mention of how many credits are assigned for internship in UG degree programme...",0.45000000000000007
