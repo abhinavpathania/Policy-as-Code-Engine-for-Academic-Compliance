@@ -1,0 +1,5 @@
+,latency_sec,latency_sec,latency_sec,latency_sec,output_tokens_per_sec,output_tokens_per_sec,quality_score,quality_score,key_term_coverage,key_term_coverage,word_count,total_tokens,cpu_usage_percent,memory_mb
+,mean,std,min,max,mean,std,mean,std,mean,std,mean,mean,mean,mean
+model,,,,,,,,,,,,,,
+qwen2.5:3b-instruct,6.958,2.859,4.41,14.12,43.931,2.356,0.292,0.294,0.249,0.352,99.636,4226.818,23.082,178.963
+qwen2.5:7b,43.707,10.08,29.03,62.91,4.687,0.3,0.263,0.235,0.223,0.294,76.727,4199.455,15.905,160.075

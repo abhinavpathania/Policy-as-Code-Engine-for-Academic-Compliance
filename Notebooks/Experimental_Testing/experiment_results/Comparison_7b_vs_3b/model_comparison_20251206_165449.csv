@@ -1,0 +1,229 @@
+model,question_id,question,category,complexity,context_length,prompt_length,answer,latency_sec,total_duration_sec,prompt_eval_duration_sec,eval_duration_sec,prompt_tokens,output_tokens,total_tokens,prompt_tokens_per_sec,output_tokens_per_sec,cpu_usage_percent,memory_mb,answer_length,key_term_coverage,relevance_score,conciseness_score,hallucination_score,quality_score,terms_found,total_terms,word_count,answer_preview
+qwen2.5:3b-instruct,Q1,What are the three main objectives of the SEDGs guidelines?,List-type,Medium,133488,134049,"The three main objectives of the SEDGs guidelines appear to be:
+
+1. To ensure that all students have access to a safe and secure learning environment.
+2. To promote high-quality education by providing clear, consistent standards for institutions.
+3. To support teachers in their professional development through guidance on best practices.
+
+These objectives are inferred from the key points mentioned in the document, such as ensuring student safety, maintaining academic standards, and supporting teacher growth and development.",14.12,13.51,3.08,1.95,4096,93,4189,1327.71,47.79,31.2,172.82,529,0.25,0.0,1.0,,0.235,1,4,77,"The three main objectives of the SEDGs guidelines appear to be:
+
+1. To ensure that all students have access to a safe and secure learning environment.
+2. To promote high-quality education by providing..."
+qwen2.5:3b-instruct,Q2,Who are included in Socio-Economically Disadvantaged Groups according to NEP 2020?,Complex-list,High,40142,40726,"According to the guidelines provided, Socio-Economically Disadvantaged Groups (SEDG) include individuals who are economically disadvantaged and may face barriers due to their socio-economic status. The specific criteria for including individuals in SEDG groups are not detailed in the given text, but it implies that these groups encompass people who might benefit from additional support or resources based on their economic circumstances.
+
+The text mentions Socio-Economically Disadvantaged Groups (SEDG) as one of the areas where Higher Education Institutions may provide facilities and services. However, for a precise definition of who exactly falls under this category, further information would be needed beyond what is provided in these guidelines.",5.83,5.76,2.61,3.12,4096,136,4232,1566.95,43.6,18.55,172.91,756,0.0,0.0,1.0,,0.11,0,7,106,"According to the guidelines provided, Socio-Economically Disadvantaged Groups (SEDG) include individuals who are economically disadvantaged and may face barriers due to their socio-economic status. Th..."
+qwen2.5:3b-instruct,Q3,What is the composition of the SEDGs Cell governance structure?,Factual,Medium,51115,51680,"The governance structure of the SEDGs Cell consists of the following members:
+
+1. Chairperson - The SEDGs Cell
+2. Senior Professor Member
+3. In-charge of Internal Complaint Committee Member
+4. Coordinator/Director of IQAC Member
+5. SC/ST Representative Member
+6. OBC Representative Member
+7. Two Students' Representatives belonging to SEDGs (one male and one female member)
+8. Assistant Registrar/Administrative Officer Member Secretary
+
+These members are nominated by the Head of the HEI, with specific roles for each position outlined in the structure.",5.65,5.58,2.67,2.89,4096,122,4218,1535.23,42.2,19.9,172.92,554,1.0,1.0,1.0,,0.9,7,7,81,"The governance structure of the SEDGs Cell consists of the following members:
+
+1. Chairperson - The SEDGs Cell
+2. Senior Professor Member
+3. In-charge of Internal Complaint Committee Member
+4. Coordin..."
+qwen2.5:3b-instruct,Q5,How many Ph.D. Excellence Citations does UGC award annually?,Factual,Low,107195,107757,"Based on the information provided in the text, UGC awards one Ph.D. Excellence Citation annually. The relevant excerpt states:
+
+""UGC shall also award one 'Ph.D. Excellence Citation' to a deserving candidate every year.""
+
+Therefore, UGC awards one Ph.D. Excellence Citation annually.",4.41,4.27,2.72,1.52,4096,59,4155,1506.99,38.76,16.0,173.73,282,0.2,0.0,1.0,,0.2,1,5,41,"Based on the information provided in the text, UGC awards one Ph.D. Excellence Citation annually. The relevant excerpt states:
+
+""UGC shall also award one 'Ph.D. Excellence Citation' to a deserving can..."
+qwen2.5:3b-instruct,Q7,What are the key criteria for shortlisting candidates for PhD Excellence Citation?,Complex-list,High,89279,89863,"The key criteria for shortlisting candidates for the PhD Excellence Citation include:
+
+1. Academic achievement in their research area, demonstrated by publications in reputable journals and presentations at conferences.
+2. Demonstrated potential to contribute significantly to their field of study.
+3. Evidence of originality and innovation in their research methodology or findings.
+4. Commitment to advancing knowledge through their work.
+5. Potential for future leadership within their academic community.
+
+These criteria are used to evaluate candidates' contributions, impact, and promise in their doctoral studies.",5.31,5.17,2.71,2.43,4096,105,4201,1509.77,43.21,12.85,173.75,619,0.833,1.0,1.0,,0.827,5,6,84,"The key criteria for shortlisting candidates for the PhD Excellence Citation include:
+
+1. Academic achievement in their research area, demonstrated by publications in reputable journals and presentati..."
+qwen2.5:3b-instruct,Q9,What are the three main objectives of NEP SAARTHI initiative?,List-type,Medium,849646,850209,"The three main objectives of NEP SAARTHI (Sustainable Academic and Research Training for Higher Education Institutions) initiative are:
+
+1. To enhance the quality of education by improving teaching-learning processes, research capabilities, and infrastructure.
+2. To ensure sustainable operations and financial stability for higher education institutions through better resource management and utilization.
+3. To promote innovation in academic programs and research activities to keep them relevant and aligned with societal needs.
+
+These objectives aim to support HEIs (Higher Education Institutions) in achieving long-term sustainability while maintaining high standards of quality education and research.",7.28,6.22,3.6,2.57,4096,114,4210,1136.2,44.39,27.0,187.21,707,0.0,0.0,1.0,,0.11,0,4,92,"The three main objectives of NEP SAARTHI (Sustainable Academic and Research Training for Higher Education Institutions) initiative are:
+
+1. To enhance the quality of education by improving teaching-le..."
+qwen2.5:3b-instruct,Q11,What are the roles and responsibilities of NEP SAARTHI?,Complex-list,High,849646,850203,"Based on the information provided in the given text, it is not explicitly stated what the specific roles and responsibilities of NEP SAARTHI are. The text mentions that NEP SAARTHI is a member of the National Education Policy 2020 (NEP) Implementation Committee but does not provide details about their role or responsibilities within this context. Therefore, without additional information from NEP SAARTHI itself, it's not possible to accurately describe their roles and responsibilities.
+
+If more specific details were available regarding NEP SAARTHI's involvement in the NEP implementation process or any particular tasks they are responsible for, those would need to be provided directly rather than inferred.",8.11,7.01,3.9,3.06,4096,137,4233,1049.72,44.73,23.0,189.79,714,0.0,0.0,1.0,,0.1,0,6,106,"Based on the information provided in the given text, it is not explicitly stated what the specific roles and responsibilities of NEP SAARTHI are. The text mentions that NEP SAARTHI is a member of the ..."
+qwen2.5:3b-instruct,Q13,What are the four main objectives of University-Industry linkage guidelines?,List-type,Medium,111442,112020,"The four main objectives of University-Industry linkage guidelines appear to be:
+
+1. To promote collaboration between universities and industries for mutual benefit, including research, innovation, and employment opportunities.
+2. To ensure that university programs align with industry needs and requirements.
+3. To facilitate the transfer of knowledge from academia to industry and vice versa.
+4. To support sustainable development by integrating academic education with real-world applications.
+
+These objectives are inferred from the context provided in the guidelines, which emphasize collaboration, alignment, knowledge transfer, and practical application.",5.28,5.13,2.67,2.44,4096,107,4203,1534.66,43.85,16.45,181.35,661,0.0,0.0,1.0,,0.11,0,5,86,"The four main objectives of University-Industry linkage guidelines appear to be:
+
+1. To promote collaboration between universities and industries for mutual benefit, including research, innovation, an..."
+qwen2.5:3b-instruct,Q16,What are the two categories of undergraduate internships?,Factual,Low,45149,45708,"The two categories of undergraduate internships described in the given text are:
+
+1. **Full-time Academic Programmes**: These involve pursuing two full-time academic programs in physical mode, where class timings for one program do not overlap with another.
+
+2. **Open and Distance Learning (ODL)/Online Programs**: This category allows students to pursue one full-time academic programme in physical mode and another through Open and Distance Learning or Online modes simultaneously. It also permits up to two ODL/Online programmes to be pursued at the same time.
+
+These categories are designed to accommodate different learning preferences and environments, including those who prefer traditional classroom settings versus online or distance education options.",5.67,5.6,2.6,2.98,4096,133,4229,1576.6,44.6,41.95,181.36,762,0.333,0.333,1.0,,0.367,1,3,107,"The two categories of undergraduate internships described in the given text are:
+
+1. **Full-time Academic Programmes**: These involve pursuing two full-time academic programs in physical mode, where c..."
+qwen2.5:3b-instruct,Q17,How many credits are assigned for internship in UG degree programmes?,Factual,Low,66976,67547,"Based on the guidelines provided, there is no specific mention of how many credits are assigned for internships in UG (undergraduate) degree programmes. The document focuses more on the structure and requirements for Advanced Educational Diplomas (AEDP), which include internships but does not specify credit hours for them in general undergraduate programs. For detailed information about credit hours, one would need to refer specifically to the guidelines or policies related to UG degree programmes rather than AEDP.",5.0,4.9,2.63,2.24,4096,97,4193,1554.46,43.26,33.55,181.37,520,0.0,0.0,1.0,,0.1,0,4,77,"Based on the guidelines provided, there is no specific mention of how many credits are assigned for internships in UG (undergraduate) degree programmes. The document focuses more on the structure and ..."
+qwen2.5:3b-instruct,Q18,What are the 10 main objectives of engaging undergraduates in internship programmes?,Complex-list,High,54765,55351,"The 10 main objectives of engaging undergraduates in internship programs as outlined in the document are:
+
+1. To effectively execute project/dissertation work under joint guidance from faculty and industry experts for both generic and industry-specific problems.
+2. To enhance appraisal of ongoing research, expertise, facilities, equipment available at universities/institutes/colleges, and important events to the industry through IRCs.
+3. To use this huge resource for R&D and production by industries.
+4. To communicate potential problems, facilities available, and important events from the industry to help universities/institutes/colleges avail these resources.
+5. To introduce internships/apprenticeships irrespective of the field, including Arts, Science, and Engineering, as per UGC Curriculum and Credit framework for programs notified and amended from time to time.
+6. To provide a faculty member per course to handle and coordinate internship-related academic program.
+7. To designate an overall in-charge or head at the level of university/institute/college to manage internships.
+8. To create a curriculum development or placement cell which may rely on IRC for creating internships.
+9. To provide URC with a coordinator and designate: hosting mentor for each student group, and in-charge at the organization (or URC) level to handle all students granted internships.
+10. To develop regulatory frameworks for courses and common framework for running URC and IRC cells by each university/institute/college and industry or organisation.
+
+These objectives emphasize the importance of collaboration between universities/institutes/colleges, industries, and students in enhancing learning experiences and fostering a strong research-industry partnership.",9.88,9.8,2.6,7.17,4096,336,4432,1572.36,46.85,13.45,181.38,1764,0.125,0.0,0.8,,0.153,1,8,239,"The 10 main objectives of engaging undergraduates in internship programs as outlined in the document are:
+
+1. To effectively execute project/dissertation work under joint guidance from faculty and ind..."
+qwen2.5:3b-instruct,Q_OUT1,What is the capital of France?,Out-of-scope,N/A,1234170,1234702,The capital of France is Paris.,6.57,5.01,4.55,0.41,4096,8,4104,899.82,19.7,22.25,196.63,31,0.0,0.0,1.0,0.0,0.0,0,3,6,The capital of France is Paris.
+qwen2.5:3b-instruct,Q_OUT2,How do I apply for a student loan?,Out-of-scope,N/A,741086,741622,"To apply for a student loan, you typically need to follow these general steps:
+
+1. Research and Understand Your Options: Different types of student loans (like federal loans or private loans) have different terms, interest rates, repayment options, and eligibility criteria. Make sure you understand the differences between them.
+
+2. Gather Necessary Information: You will usually need your Social Security number, proof of identity, financial information like income and assets, and academic transcripts.
+
+3. Apply Directly to a Lender or Through a Financial Aid Office: If you're applying for a private student loan, this is typically done directly with the lender. For federal loans, you can apply through your school's financial aid office or use an online application system provided by the U.S. Department of Education.
+
+4. Complete and Submit Your Application: Fill out all required forms accurately and completely. Be sure to provide any additional information requested by the lender or financial aid office.
+
+5. Wait for a Decision: The lender will review your application, which can take several weeks. They may contact you for more information if needed.
+
+6. Review Loan Terms: Once approved, carefully read through all loan terms and conditions before accepting them.
+
+7. Accept Your Offer of Credit (if applicable): If the lender offers credit terms along with the student loan, accept or decline these as per your preference.
+
+8. Monitor Your Application Status: Keep track of where your application is in the process and check for any updates from the lender.
+
+Remember that federal student loans often have more favorable terms than private loans, including lower interest rates and better repayment options. Always compare different lenders to find the best deal.",11.96,11.0,3.82,7.14,4096,331,4427,1071.41,46.37,13.6,192.84,1781,0.0,0.0,0.8,0.0,0.0,0,3,277,"To apply for a student loan, you typically need to follow these general steps:
+
+1. Research and Understand Your Options: Different types of student loans (like federal loans or private loans) have dif..."
+qwen2.5:7b,Q1,What are the three main objectives of the SEDGs guidelines?,List-type,Medium,133488,134049,"The three main objectives of the SEDGs guidelines, as stated in the document, are:
+
+1. To ensure uniformity and consistency in the evaluation process for Ph.D.s across all universities.
+2. To require new Assistant Professors, Assistant Librarians, and Assistant Directors of Physical Education and Sports to complete an Orientation Course recognized by regulatory bodies like UGC or AICTE.
+3. To align allowances and benefits for teachers and staff (including Library and Physical Education Cadres) with those applicable to Central/State Government employees.",46.45,45.88,8.44,24.85,4096,110,4206,485.31,4.43,20.85,187.54,559,0.25,0.0,1.0,,0.235,1,4,81,"The three main objectives of the SEDGs guidelines, as stated in the document, are:
+
+1. To ensure uniformity and consistency in the evaluation process for Ph.D.s across all universities.
+2. To require ..."
+qwen2.5:7b,Q2,Who are included in Socio-Economically Disadvantaged Groups according to NEP 2020?,Complex-list,High,40142,40726,"According to the National Education Policy (NEP) 2020, Socio-Economically Disadvantaged Groups (SEDG) include:
+
+1. Economically Weaker Sections (EWS)
+2. Scheduled Castes (SC)
+3. Scheduled Tribes (ST)
+4. Other Backward Classes (OBC)
+
+These groups are identified based on socio-economic criteria and are eligible for reservations in education and government jobs, as per the guidelines of NEP 2020.",44.08,43.57,8.21,22.61,4096,102,4198,499.21,4.51,19.3,187.54,396,0.143,0.0,1.0,,0.181,1,7,56,"According to the National Education Policy (NEP) 2020, Socio-Economically Disadvantaged Groups (SEDG) include:
+
+1. Economically Weaker Sections (EWS)
+2. Scheduled Castes (SC)
+3. Scheduled Tribes (ST)
+..."
+qwen2.5:7b,Q3,What is the composition of the SEDGs Cell governance structure?,Factual,Medium,51115,51680,"The composition of the SEDGs Cell governance structure includes:
+
+1. Chairperson (appointed by the Head of the HEI)
+2. Senior Professor Member
+3. In-charge of Internal Complaint Committee Member
+4. Coordinator/Director of IQAC Member
+5. SC/ST Representative Member
+6. OBC Representative Member
+7. Two Students' Representatives belonging to SEDGs (one male and one female member)
+8. Assistant Registrar/Administrative Officer Secretary
+
+This structure ensures a mix of academic, administrative, student, and representative members to effectively govern the SEDGs Cell.",52.04,51.57,8.21,27.16,4096,122,4218,499.09,4.49,13.85,187.54,567,1.0,1.0,1.0,,0.9,7,7,78,"The composition of the SEDGs Cell governance structure includes:
+
+1. Chairperson (appointed by the Head of the HEI)
+2. Senior Professor Member
+3. In-charge of Internal Complaint Committee Member
+4. Co..."
+qwen2.5:7b,Q5,How many Ph.D. Excellence Citations does UGC award annually?,Factual,Low,107195,107757,"The document does not specify the number of Ph.D. Excellence Citations awarded annually by UGC. It only mentions that these citations are given to outstanding research scholars who have completed their Ph.D.s within three years from the date of submission of the thesis. For an exact number, one would need to refer to the latest UGC guidelines or announcements.",35.35,34.83,8.11,15.25,4096,71,4167,505.37,4.66,19.9,187.61,362,0.4,0.333,1.0,,0.4,2,5,59,The document does not specify the number of Ph.D. Excellence Citations awarded annually by UGC. It only mentions that these citations are given to outstanding research scholars who have completed thei...
+qwen2.5:7b,Q7,What are the key criteria for shortlisting candidates for PhD Excellence Citation?,Complex-list,High,89279,89863,"The document does not provide specific details on the key criteria for shortlisting candidates for the PhD Excellence Citation. To accurately answer this question, additional information from the relevant section or source would be needed. The provided text focuses on the implementation of the B-FORM model and does not mention any criteria for a PhD Excellence Citation.",34.57,34.02,8.28,14.04,4096,65,4161,494.93,4.63,14.75,164.93,372,0.0,0.0,1.0,,0.11,0,6,57,"The document does not provide specific details on the key criteria for shortlisting candidates for the PhD Excellence Citation. To accurately answer this question, additional information from the rele..."
+qwen2.5:7b,Q9,What are the three main objectives of NEP SAARTHI initiative?,List-type,Medium,849646,850209,"The passage does not provide specific details about the objectives of NEP SAARTHI initiative. It only mentions that NEP SAARTHI is an initiative to promote public self-disclosure by Higher Education Institutions (HEIs) and that it aligns with the National Education Policy 2020's emphasis on transparency and accountability through self-disclosure. For precise objectives, one would need to refer to additional sources or documents related to NEP SAARTHI specifically.",44.91,43.38,10.16,21.23,4096,94,4190,403.31,4.43,31.85,174.4,468,0.0,0.0,1.0,,0.11,0,4,67,The passage does not provide specific details about the objectives of NEP SAARTHI initiative. It only mentions that NEP SAARTHI is an initiative to promote public self-disclosure by Higher Education I...
+qwen2.5:7b,Q11,What are the roles and responsibilities of NEP SAARTHI?,Complex-list,High,849646,850203,"The document does not provide specific details about the roles and responsibilities of NEP SAARTHI. However, based on common practices in educational reforms, NEP SAARTHI could potentially be involved in:
+
+1. Facilitating communication between AICTE and institutions.
+2. Assisting institutions with understanding and implementing policy changes.
+3. Providing support for documentation and compliance related to new policies or programs.
+4. Offering guidance on the application process for various approvals and registrations.
+
+For precise roles and responsibilities, one would need to refer to the official guidelines or announcements from AICTE regarding NEP SAARTHI's specific functions.",52.47,51.08,9.3,28.05,4096,125,4221,440.43,4.46,23.1,175.34,689,0.0,0.0,1.0,,0.11,0,6,94,"The document does not provide specific details about the roles and responsibilities of NEP SAARTHI. However, based on common practices in educational reforms, NEP SAARTHI could potentially be involved..."
+qwen2.5:7b,Q13,What are the four main objectives of University-Industry linkage guidelines?,List-type,Medium,111442,112020,"The four main objectives of University-Industry linkage guidelines are not explicitly stated in the provided text. However, based on common objectives for such guidelines, they could potentially include:
+
+1. Enhancing practical and applied learning opportunities for students.
+2. Promoting research collaboration between academia and industry.
+3. Facilitating technology transfer and innovation.
+4. Improving employment prospects for graduates by bridging the skills gap.
+
+These objectives are inferred from typical goals of university-industry linkage policies, but specific to the guidelines mentioned in the text, the main focus appears to be on implementing Apprenticeship Education and Development Programs (AEDP).",46.1,45.61,7.97,26.41,4096,126,4222,513.61,4.77,11.15,128.19,719,0.2,0.0,1.0,,0.21,1,5,96,"The four main objectives of University-Industry linkage guidelines are not explicitly stated in the provided text. However, based on common objectives for such guidelines, they could potentially inclu..."
+qwen2.5:7b,Q16,What are the two categories of undergraduate internships?,Factual,Low,45149,45708,"The document does not explicitly mention two specific categories of undergraduate internships. However, it discusses undergraduate internships in general terms related to academic programs and research activities. For precise categorization, one would need to refer to additional sections or guidelines that might detail different types of internships, such as those focused on practical experience versus research-based opportunities.",32.87,32.45,7.87,13.36,4096,69,4165,520.26,5.16,7.0,121.99,435,0.333,0.333,1.0,,0.367,1,3,57,"The document does not explicitly mention two specific categories of undergraduate internships. However, it discusses undergraduate internships in general terms related to academic programs and researc..."
+qwen2.5:7b,Q17,How many credits are assigned for internship in UG degree programmes?,Factual,Low,66976,67547,"For UG degree programmes, 20 credits are assigned for internship. This information can be inferred from the guidelines provided, which state that ""In case of UG Degree Programmes, 20 credits will be assigned to Internship.""",29.03,28.56,8.0,9.37,4096,50,4146,512.06,5.33,4.7,122.8,223,0.0,0.0,1.0,,0.1,0,4,35,"For UG degree programmes, 20 credits are assigned for internship. This information can be inferred from the guidelines provided, which state that ""In case of UG Degree Programmes, 20 credits will be a..."
+qwen2.5:7b,Q18,What are the 10 main objectives of engaging undergraduates in internship programmes?,Complex-list,High,54765,55351,"The 10 main objectives of engaging undergraduates in internship programmes as outlined in the document are:
+
+1. To provide students with practical experience relevant to their field of study.
+2. To enhance students' understanding and application of theoretical knowledge gained from academic courses.
+3. To facilitate networking opportunities between students and industry professionals.
+4. To encourage the development of professional skills, including communication, teamwork, and problem-solving abilities.
+5. To expose students to various career paths within industries related to their studies.
+6. To promote collaboration between universities/colleges and industries for mutual benefit.
+7. To support the curriculum by integrating real-world experiences into academic learning.
+8. To improve employability prospects for students through hands-on work experience.
+9. To foster innovation and creativity in addressing industry challenges.
+10. To contribute to the overall development of students as future professionals in their respective fields.
+
+These objectives aim to create a mutually beneficial relationship between educational institutions and industries, enhancing both academic and professional outcomes for undergraduate students.",62.91,62.42,7.98,43.48,4096,204,4300,513.54,4.69,8.5,122.95,1245,0.125,0.0,1.0,,0.173,1,8,164,"The 10 main objectives of engaging undergraduates in internship programmes as outlined in the document are:
+
+1. To provide students with practical experience relevant to their field of study.
+2. To en..."
+qwen2.5:7b,Q_OUT1,What is the capital of France?,Out-of-scope,N/A,1234170,1234702,The capital of France is Paris.,24.61,22.62,9.55,1.58,4096,8,4104,429.04,5.05,11.75,108.81,31,0.0,0.0,1.0,0.0,0.0,0,3,6,The capital of France is Paris.
+qwen2.5:7b,Q_OUT2,How do I apply for a student loan?,Out-of-scope,N/A,741086,741622,"To apply for a student loan, you should follow these general steps:
+
+1. Determine the type of loan you need:
+   - Federal loans (e.g., Direct Subsidized Loans, Direct Unsubsidized Loans, Perkins Loans)
+   - Private loans from banks or other financial institutions
+
+2. Check eligibility requirements and application deadlines.
+
+3. Complete the Free Application for Federal Student Aid (FAFSA) if applying for federal loans:
+   - Visit fafsa.gov
+   - Create an FSA ID
+   - Provide required information about yourself, your family, and your education plans
+
+4. Review your Expected Family Contribution (EFC) and determine how much additional funding you need.
+
+5. Research private lenders and compare their loan terms, interest rates, and repayment options.
+
+6. Complete the application process for the chosen loans:
+   - For federal loans: Follow instructions on fafsa.gov
+   - For private loans: Visit lender's website or contact them directly
+
+7. Sign any necessary documents and accept your loan offers through your school's financial aid office.
+
+8. Use the funds as directed by your school, typically for tuition, fees, room and board, books, and other educational expenses.
+
+9. Understand the terms of your loans, including interest rates, repayment periods, and any grace periods before repayment begins.
+
+10. Keep track of your loan balances and make payments on time to avoid penalties or damage to your credit score.
+
+Always consult with your school's financial aid office for specific guidance tailored to your institution's policies and procedures.",95.27,93.85,8.91,76.74,4096,316,4412,459.81,4.12,20.95,104.81,1558,0.0,0.0,0.8,0.0,0.0,0,3,235,"To apply for a student loan, you should follow these general steps:
+
+1. Determine the type of loan you need:
+   - Federal loans (e.g., Direct Subsidized Loans, Direct Unsubsidized Loans, Perkins Loans..."
