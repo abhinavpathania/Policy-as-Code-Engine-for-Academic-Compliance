@@ -141,7 +141,7 @@ Compared Qwen 2.5 3B vs 7B →
 
 * Experiment 2 – Top-K Retrieval
 Top-k values tested: 1, 3, 5
-→ **k = 3** gave best quality/noise balance.
+→ **k = 3** gave best quality/noise balance.got rid of the extra noise
 
 * Experiment 3 – Prompt Engineering
 Evaluated 8 prompt types
